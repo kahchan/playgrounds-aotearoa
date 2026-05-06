@@ -1,11 +1,14 @@
 import { useEffect, useState } from 'react'
 import type { Playground } from './types'
+import { CITIES } from './cities'
 import { useDarkMode } from './hooks/useDarkMode'
 import { useRoute } from './hooks/useRoute'
 import MapView from './components/MapView'
 import Wordmark from './components/Wordmark'
 import Sidebar from './components/Sidebar'
 import styles from './App.module.css'
+
+const city = CITIES[0]
 
 export default function App() {
   const [playgrounds, setPlaygrounds] = useState<Playground[]>([])
@@ -25,7 +28,7 @@ export default function App() {
   } | null>(null)
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}playgrounds.json`)
+    fetch(`${import.meta.env.BASE_URL}${city.dataPath}`)
       .then((r) => r.json())
       .then((data: Playground[]) => setPlaygrounds(data))
       .catch((err) => console.error('Failed to load playgrounds:', err))
@@ -74,6 +77,8 @@ export default function App() {
         routeOrder={routeOrderedIds}
         selectedId={selected?.id ?? null}
         flyTarget={mapFlyTarget}
+        center={city.center}
+        zoom={city.zoom}
       />
       <Wordmark
         total={playgrounds.length}

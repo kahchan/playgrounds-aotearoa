@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 import { dirname, join } from 'path'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const OUTPUT_PATH = join(__dirname, '..', 'public', 'playgrounds.json')
+const OUTPUT_PATH = join(__dirname, '..', 'public', 'wellington.json')
 
 const WCC_ENDPOINT =
   'https://gis.wcc.govt.nz/arcgis/rest/services/Parks/Parks/MapServer/49/query' +

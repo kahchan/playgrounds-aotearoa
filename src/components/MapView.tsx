@@ -15,9 +15,9 @@ interface Props {
   routeOrder: string[]
   selectedId: string | null
   flyTarget: { lat: number; lng: number; nextLat?: number; nextLng?: number; legIndex?: number; seq: number } | null
+  center: [number, number]
+  zoom: number
 }
-
-const WELLINGTON: [number, number] = [174.7762, -41.2865]
 
 function getStyleUrl(mapTheme: MapTheme, key: string): string {
   if (mapTheme === 'satellite') return `https://api.maptiler.com/maps/hybrid/style.json?key=${key}`
@@ -173,6 +173,8 @@ export default function MapView({
   routeOrder,
   selectedId,
   flyTarget,
+  center,
+  zoom,
 }: Props) {
   const containerRef = useRef<HTMLDivElement>(null)
   const mapRef = useRef<maplibregl.Map | null>(null)
@@ -201,8 +203,8 @@ export default function MapView({
     const map = new maplibregl.Map({
       container: containerRef.current,
       style: getStyleUrl(mapTheme, key),
-      center: WELLINGTON,
-      zoom: 12,
+      center,
+      zoom,
     })
     mapRef.current = map
 
