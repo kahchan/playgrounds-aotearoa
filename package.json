@@ -13,7 +13,9 @@
     "refresh-wellington": "node scripts/refresh-wellington.mjs",
     "refresh-kapiti": "node scripts/refresh-kapiti.mjs",
     "refresh-hawkes-bay": "node scripts/refresh-hawkes-bay.mjs",
-    "refresh-all": "npm run refresh-wellington && npm run refresh-kapiti && npm run refresh-hawkes-bay"
+    "refresh-christchurch": "node scripts/refresh-christchurch.mjs",
+    "refresh-auckland": "node scripts/refresh-auckland.mjs",
+    "refresh-all": "npm run refresh-wellington && npm run refresh-kapiti && npm run refresh-hawkes-bay && npm run refresh-christchurch && npm run refresh-auckland"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",

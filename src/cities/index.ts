@@ -28,4 +28,18 @@ export const CITIES: City[] = [
     zoom: 11,
     dataPath: 'hawkes-bay.json',
   },
+  {
+    slug: 'christchurch',
+    label: 'Christchurch',
+    center: [172.6362, -43.5321],
+    zoom: 12,
+    dataPath: 'christchurch.json',
+  },
+  {
+    slug: 'auckland',
+    label: 'Auckland',
+    center: [174.7633, -36.8485],
+    zoom: 11,
+    dataPath: 'auckland.json',
+  },
 ]

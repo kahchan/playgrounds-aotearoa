@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "ccc-prk-3537---cass-bay-playground",
+    "name": "Cass Bay Playground",
+    "lat": -43.60534353492058,
+    "lng": 172.6904546452046,
+    "suburb": "Te Rāpaki-o-Te Rakiwhakaputa",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3534---corsair-bay-reserve",
+    "name": "Corsair Bay Reserve",
+    "lat": -43.60709227570913,
+    "lng": 172.69970775463025,
+    "suburb": "Te Rāpaki-o-Te Rakiwhakaputa",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3514---oxford-street-reserve",
+    "name": "Oxford Street Reserve",
+    "lat": -43.60187678572947,
+    "lng": 172.72361716841078,
+    "suburb": "Lyttelton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3552---kirk-park",
+    "name": "Kirk Park",
+    "lat": -43.63094607227461,
+    "lng": 172.74002122234717,
+    "suburb": "Diamond Harbour",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-fac-3616---duvauchelle-reserve-and-campgr",
+    "name": "Duvauchelle Reserve And Campgr",
+    "lat": -43.754260448797766,
+    "lng": 172.94399833691972,
+    "suburb": "Diamond Harbour",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3641---rue-balguerie-playground",
+    "name": "Rue Balguerie Playground",
+    "lat": -43.805277500157075,
+    "lng": 172.9661621332251,
+    "suburb": "Diamond Harbour",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3555---stoddart-point-reserve",
+    "name": "Stoddart Point Reserve",
+    "lat": -43.626731768639495,
+    "lng": 172.7405073173999,
+    "suburb": "Diamond Harbour",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3038---broken-run-reserve",
+    "name": "Broken Run Reserve",
+    "lat": -43.559497831325366,
+    "lng": 172.55981737913734,
+    "suburb": "Aidanfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0639---champion-reserve",
+    "name": "Champion Reserve",
+    "lat": -43.514471557202434,
+    "lng": 172.64945785109333,
+    "suburb": "Edgeware",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0614---malvern-park",
+    "name": "Malvern Park",
+    "lat": -43.505102213427584,
+    "lng": 172.6305748564873,
+    "suburb": "Saint Albans",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0666---shirley-community-reserve",
+    "name": "Shirley Community Reserve",
+    "lat": -43.50848336224047,
+    "lng": 172.65407375408313,
+    "suburb": "Edgeware",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2313---rutland-reserve",
+    "name": "Rutland Reserve",
+    "lat": -43.498731683546566,
+    "lng": 172.62388594115018,
+    "suburb": "Saint Albans",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0410---marlene-reserve",
+    "name": "Marlene Reserve",
+    "lat": -43.476316921038084,
+    "lng": 172.60969465526736,
+    "suburb": "Redwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0431---regency-reserve",
+    "name": "Regency Reserve",
+    "lat": -43.48179670654398,
+    "lng": 172.62372310034152,
+    "suburb": "Redwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0446---alwyn-park",
+    "name": "Alwyn Park",
+    "lat": -43.46980776653555,
+    "lng": 172.6292210865278,
+    "suburb": "Oakbridge",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2551---aylsham-reserve",
+    "name": "Aylsham Reserve",
+    "lat": -43.47172512557206,
+    "lng": 172.6099674020515,
+    "suburb": "Highstead",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0375---tyrone-reserve",
+    "name": "Tyrone Reserve",
+    "lat": -43.44779354011983,
+    "lng": 172.63549766179474,
+    "suburb": "Belfast",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0362---englefield-reserve",
+    "name": "Englefield Reserve",
+    "lat": -43.45632734798265,
+    "lng": 172.61845765504637,
+    "suburb": "Northwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0159---spencerville-reserve",
+    "name": "Spencerville Reserve",
+    "lat": -43.43317792020802,
+    "lng": 172.69643868999557,
+    "suburb": "Spencerville",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2591---darroch-reserve",
+    "name": "Darroch Reserve",
+    "lat": -43.440594031737604,
+    "lng": 172.6323723492061,
+    "suburb": "Belfast",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0370---sheldon-park",
+    "name": "Sheldon Park",
+    "lat": -43.45493022376297,
+    "lng": 172.62790188852964,
+    "suburb": "Belfast",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0140---brooklands-domain",
+    "name": "Brooklands Domain",
+    "lat": -43.402849897005176,
+    "lng": 172.69886463455137,
+    "suburb": "Brooklands Lagoon",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0086---owen-mitchell-park",
+    "name": "Owen Mitchell Park",
+    "lat": -43.48115085381527,
+    "lng": 172.62739729265738,
+    "suburb": "Redwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0387---kainga-park",
+    "name": "Kainga Park",
+    "lat": -43.410934498443545,
+    "lng": 172.6637547082604,
+    "suburb": "Kainga",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0651---mahars-playground",
+    "name": "Mahars Playground",
+    "lat": -43.49993545968634,
+    "lng": 172.64587555690363,
+    "suburb": "Mairehau",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0660---fernbrook-playground",
+    "name": "Fernbrook Playground",
+    "lat": -43.501687098871884,
+    "lng": 172.6497479502344,
+    "suburb": "Shirley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0631---st-albans-park",
+    "name": "St Albans Park",
+    "lat": -43.509957670919874,
+    "lng": 172.6452254747042,
+    "suburb": "Edgeware",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0671---richmond-park",
+    "name": "Richmond Park",
+    "lat": -43.51309596626178,
+    "lng": 172.6631699894932,
+    "suburb": "Richmond",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0579---st-james-park",
+    "name": "St James Park",
+    "lat": -43.49895305046195,
+    "lng": 172.6041177607048,
+    "suburb": "Papanui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0663---macfarlane-park",
+    "name": "Macfarlane Park",
+    "lat": -43.50045168947898,
+    "lng": 172.65394955795097,
+    "suburb": "Shirley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2625---styx-river-conservation-reserv",
+    "name": "Styx River Conservation Reserv",
+    "lat": -43.46443798310874,
+    "lng": 172.62799711692028,
+    "suburb": "Oakbridge",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2179---redwood-park",
+    "name": "Redwood Park",
+    "lat": -43.477246842629455,
+    "lng": 172.61586905127484,
+    "suburb": "Redwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0252---bullock-reserve",
+    "name": "Bullock Reserve",
+    "lat": -43.51023053783229,
+    "lng": 172.56601073288817,
+    "suburb": "Ilam",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0334---natalie-reserve",
+    "name": "Natalie Reserve",
+    "lat": -43.47918054113393,
+    "lng": 172.58227978489356,
+    "suburb": "Bishopdale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0195---calbreath-reserve",
+    "name": "Calbreath Reserve",
+    "lat": -43.51447435157102,
+    "lng": 172.54309735193806,
+    "suburb": "Russley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0199---stewarts-bush",
+    "name": "Stewarts Bush",
+    "lat": -43.519534566495146,
+    "lng": 172.54720458294275,
+    "suburb": "Russley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0207---hyde-park",
+    "name": "Hyde Park",
+    "lat": -43.51171479920026,
+    "lng": 172.54816673659892,
+    "suburb": "Russley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0290---kendal-reserve",
+    "name": "Kendal Reserve",
+    "lat": -43.49781207287407,
+    "lng": 172.57604380746278,
+    "suburb": "Burnside",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0292---nepal-reserve",
+    "name": "Nepal Reserve",
+    "lat": -43.49512761934121,
+    "lng": 172.57149630703816,
+    "suburb": "Ashbys Pit",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1642---yaldhurst-domain",
+    "name": "Yaldhurst Domain",
+    "lat": -43.50967142334123,
+    "lng": 172.5002394300939,
+    "suburb": "Yaldhurst",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0201---crosbie-park",
+    "name": "Crosbie Park",
+    "lat": -43.51778319352509,
+    "lng": 172.54946605129058,
+    "suburb": "Avonhead",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1617---balcairn-reserve",
+    "name": "Balcairn Reserve",
+    "lat": -43.57377420201882,
+    "lng": 172.565453919553,
+    "suburb": "Aidanfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1619---scott-park-wigram",
+    "name": "Scott Park Wigram",
+    "lat": -43.57474658720954,
+    "lng": 172.56238339252576,
+    "suburb": "Halswell Prestige",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2212---viceroy-reserve",
+    "name": "Viceroy Reserve",
+    "lat": -43.572925768510515,
+    "lng": 172.5489532457825,
+    "suburb": "The Fields",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0489---westlake-reserve",
+    "name": "Westlake Reserve",
+    "lat": -43.57054640783576,
+    "lng": 172.55595432196537,
+    "suburb": "Awatea Green",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2934---kinsella-reserve",
+    "name": "Kinsella Reserve",
+    "lat": -43.56577648795186,
+    "lng": 172.5676296578728,
+    "suburb": "Aidanfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1633---muir-park",
+    "name": "Muir Park",
+    "lat": -43.58912938082513,
+    "lng": 172.5690682799902,
+    "suburb": "Halswell",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3018---talbot-reserve",
+    "name": "Talbot Reserve",
+    "lat": -43.586696805709266,
+    "lng": 172.56481174888887,
+    "suburb": "Halswell",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2217---highcrest-reserve",
+    "name": "Highcrest Reserve",
+    "lat": -43.580730882557944,
+    "lng": 172.59893451181696,
+    "suburb": "Westmorland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1639---sedgewick-reserve",
+    "name": "Sedgewick Reserve",
+    "lat": -43.58068396064567,
+    "lng": 172.60390767427234,
+    "suburb": "Westmorland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1984---francis-reserve",
+    "name": "Francis Reserve",
+    "lat": -43.57566830014178,
+    "lng": 172.60489553789955,
+    "suburb": "Westmorland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1588---helmore-park",
+    "name": "Helmore Park",
+    "lat": -43.5455649315054,
+    "lng": 172.52852277067868,
+    "suburb": "Hornby",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1469---goulding-playground",
+    "name": "Goulding Playground",
+    "lat": -43.54484199852639,
+    "lng": 172.52369703599243,
+    "suburb": "Hornby",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1579---springmead-park",
+    "name": "Springmead Park",
+    "lat": -43.54391276625452,
+    "lng": 172.51510096806638,
+    "suburb": "Te Whata Tuatoru",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1572---leslie-park",
+    "name": "Leslie Park",
+    "lat": -43.543550616148764,
+    "lng": 172.5086432200167,
+    "suburb": "Islington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1691---halswell-domain",
+    "name": "Halswell Domain",
+    "lat": -43.578417203407895,
+    "lng": 172.5720872247466,
+    "suburb": "Halswell",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1669---jones-reserve",
+    "name": "Jones Reserve",
+    "lat": -43.555685496545124,
+    "lng": 172.4676641224728,
+    "suburb": "Templeton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1988---carmen-reserve",
+    "name": "Carmen Reserve",
+    "lat": -43.53490452718497,
+    "lng": 172.52879225215767,
+    "suburb": "Hei Hei",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2568---waterford-reserve",
+    "name": "Waterford Reserve",
+    "lat": -43.459592517430906,
+    "lng": 172.6168203911858,
+    "suburb": "Northwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1673---templeton-domain",
+    "name": "Templeton Domain",
+    "lat": -43.55118356736792,
+    "lng": 172.46894312531919,
+    "suburb": "Templeton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1557---wycola-park",
+    "name": "Wycola Park",
+    "lat": -43.53370641116868,
+    "lng": 172.52297561768256,
+    "suburb": "Hei Hei",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1622---fern-reserve",
+    "name": "Fern Reserve",
+    "lat": -43.576915894524745,
+    "lng": 172.56432080282406,
+    "suburb": "Halswell Prestige",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1542---broomfield-common",
+    "name": "Broomfield Common",
+    "lat": -43.52701904913867,
+    "lng": 172.5261996845306,
+    "suburb": "Broomfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1554---peebles-reserve",
+    "name": "Peebles Reserve",
+    "lat": -43.53181169552069,
+    "lng": 172.54034922374487,
+    "suburb": "Broomfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1540---gloaming-reserve",
+    "name": "Gloaming Reserve",
+    "lat": -43.53291685235543,
+    "lng": 172.55233224915168,
+    "suburb": "Sockburn",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0477---auburn-reserve",
+    "name": "Auburn Reserve",
+    "lat": -43.53213615342431,
+    "lng": 172.5776190306232,
+    "suburb": "Upper Riccarton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1534---holmes-park",
+    "name": "Holmes Park",
+    "lat": -43.53136099568878,
+    "lng": 172.56311863470802,
+    "suburb": "Church Corner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0236---upper-riccarton-domain",
+    "name": "Upper Riccarton Domain",
+    "lat": -43.528974332160935,
+    "lng": 172.56437197599396,
+    "suburb": "Church Corner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2445---hillary-reserve",
+    "name": "Hillary Reserve",
+    "lat": -43.53675484728611,
+    "lng": 172.57088191531366,
+    "suburb": "Church Corner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0239---montclare-reserve",
+    "name": "Montclare Reserve",
+    "lat": -43.52094423674416,
+    "lng": 172.56444840186904,
+    "suburb": "Avonhead",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1526---hansons-reserve",
+    "name": "Hansons Reserve",
+    "lat": -43.53389652423608,
+    "lng": 172.57330367547306,
+    "suburb": "Church Corner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1894---arcon-stream-reserve",
+    "name": "Arcon Stream Reserve",
+    "lat": -43.5279755986672,
+    "lng": 172.53309309453093,
+    "suburb": "Broomfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0224---ferrier-park",
+    "name": "Ferrier Park",
+    "lat": -43.524239776182895,
+    "lng": 172.55700228589384,
+    "suburb": "Avonhead",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2936---paeroa-reserve",
+    "name": "Paeroa Reserve",
+    "lat": -43.53218410109234,
+    "lng": 172.58946557213946,
+    "suburb": "Riccarton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2957---longley-reserve",
+    "name": "Longley Reserve",
+    "lat": -43.54161597139363,
+    "lng": 172.60629404899396,
+    "suburb": "Addington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2438---picton-reserve",
+    "name": "Picton Reserve",
+    "lat": -43.53203961982966,
+    "lng": 172.6042592423589,
+    "suburb": "Riccarton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1522---wolsey-playground",
+    "name": "Wolsey Playground",
+    "lat": -43.56004896412974,
+    "lng": 172.57988283539044,
+    "suburb": "Hillmorton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2168---cardigan-bay-reserve",
+    "name": "Cardigan Bay Reserve",
+    "lat": -43.548988885011994,
+    "lng": 172.6010723321433,
+    "suburb": "Spreydon",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1109---cornelius-o-connor-reserve",
+    "name": "Cornelius O'Connor Reserve",
+    "lat": -43.54273911049467,
+    "lng": 172.61916045920856,
+    "suburb": "Addington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1493---gainsborough-reserve",
+    "name": "Gainsborough Reserve",
+    "lat": -43.56346036596336,
+    "lng": 172.60206152296703,
+    "suburb": "Hoon Hay",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1099---spreydon-domain",
+    "name": "Spreydon Domain",
+    "lat": -43.555647574080545,
+    "lng": 172.60068017438718,
+    "suburb": "Spreydon",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1133---bradford-park",
+    "name": "Bradford Park",
+    "lat": -43.55199381911547,
+    "lng": 172.63220593147707,
+    "suburb": "Sydenham",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2252---mabel-howard-reserve",
+    "name": "Mabel Howard Reserve",
+    "lat": -43.554797405518464,
+    "lng": 172.64471552769123,
+    "suburb": "Saint Martins",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1071---cameron-reserve",
+    "name": "Cameron Reserve",
+    "lat": -43.55045605969976,
+    "lng": 172.643609177823,
+    "suburb": "Sydenham",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1492---hoon-hay-park",
+    "name": "Hoon Hay Park",
+    "lat": -43.56251406700991,
+    "lng": 172.59268468400325,
+    "suburb": "Hillmorton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1496---kaiwara-reserve",
+    "name": "Kaiwara Reserve",
+    "lat": -43.57170664719746,
+    "lng": 172.60806198887994,
+    "suburb": "Hoon Hay",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1502---waipara-playground",
+    "name": "Waipara Playground",
+    "lat": -43.57726917272466,
+    "lng": 172.6125068385129,
+    "suburb": "Cracroft",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1089---cashmere-view-playground",
+    "name": "Cashmere View Playground",
+    "lat": -43.56709664250623,
+    "lng": 172.6199653249116,
+    "suburb": "Somerfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1095---centennial-park",
+    "name": "Centennial Park",
+    "lat": -43.56571753674515,
+    "lng": 172.61279358254853,
+    "suburb": "Hoon Hay",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1158---ruskin-reserve",
+    "name": "Ruskin Reserve",
+    "lat": -43.54540724500027,
+    "lng": 172.62486948296728,
+    "suburb": "Sydenham",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1769---holliss-reserve",
+    "name": "Holliss Reserve",
+    "lat": -43.57186321471801,
+    "lng": 172.6385518052559,
+    "suburb": "Te Iringa-o-Kahukura",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1772---palatine-reserve",
+    "name": "Palatine Reserve",
+    "lat": -43.565201449060694,
+    "lng": 172.6471188751813,
+    "suburb": "Beckenham",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1762---thorrington-reserve",
+    "name": "Thorrington Reserve",
+    "lat": -43.56451756532604,
+    "lng": 172.63413856320906,
+    "suburb": "Te Iringa-o-Kahukura",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0975---centaurus-park",
+    "name": "Centaurus Park",
+    "lat": -43.56345831156148,
+    "lng": 172.65562002786396,
+    "suburb": "Huntsbury",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1812---takahe-reserve",
+    "name": "Takahe Reserve",
+    "lat": -43.579605297341,
+    "lng": 172.63748287094643,
+    "suburb": "Cashmere",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1044---waltham-park",
+    "name": "Waltham Park",
+    "lat": -43.55259021557205,
+    "lng": 172.64941063990477,
+    "suburb": "Saint Martins",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1128---somerfield-park",
+    "name": "Somerfield Park",
+    "lat": -43.5592347545368,
+    "lng": 172.62747646907866,
+    "suburb": "Somerfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1077---beckenham-park",
+    "name": "Beckenham Park",
+    "lat": -43.56205254437083,
+    "lng": 172.64706682508879,
+    "suburb": "Beckenham",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3023---kumara-reserve",
+    "name": "Kumara Reserve",
+    "lat": -43.53210231958103,
+    "lng": 172.51849339835064,
+    "suburb": "Buchanans Subdivision",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2933---kaputone-springs-reserve",
+    "name": "Kaputone Springs Reserve",
+    "lat": -43.45539383894174,
+    "lng": 172.6122718348652,
+    "suburb": "Northwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1019---hansen-park",
+    "name": "Hansen Park",
+    "lat": -43.56114330773076,
+    "lng": 172.6601809590651,
+    "suburb": "Saint Martins",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0962---hillsborough-park",
+    "name": "Hillsborough Park",
+    "lat": -43.560126536187525,
+    "lng": 172.67041901692392,
+    "suburb": "Hillsborough",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0394---tulett-park",
+    "name": "Tulett Park",
+    "lat": -43.47663524812869,
+    "lng": 172.59183155760363,
+    "suburb": "Casebrook",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0610---abberley-park",
+    "name": "Abberley Park",
+    "lat": -43.513986120695286,
+    "lng": 172.62952184197604,
+    "suburb": "Saint Albans",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1795---cashmere-valley-reserve",
+    "name": "Cashmere Valley Reserve",
+    "lat": -43.5686522918596,
+    "lng": 172.62561596743004,
+    "suburb": "Cashmere",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3048---riverlea-recreation-reserve",
+    "name": "Riverlea Recreation Reserve",
+    "lat": -43.40208653174258,
+    "lng": 172.67424664137786,
+    "suburb": "Kainga",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0585---erica-playground",
+    "name": "Erica Playground",
+    "lat": -43.497742883366264,
+    "lng": 172.61659949795356,
+    "suburb": "Papanui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0577---pitcairn-playground",
+    "name": "Pitcairn Playground",
+    "lat": -43.504228579402174,
+    "lng": 172.59924495760413,
+    "suburb": "Bryndwr",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0265---morley-reserve",
+    "name": "Morley Reserve",
+    "lat": -43.50549351998912,
+    "lng": 172.58600286275927,
+    "suburb": "Bryndwr",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0451---jeffreys-reserve",
+    "name": "Jeffreys Reserve",
+    "lat": -43.513953915990584,
+    "lng": 172.59216542915144,
+    "suburb": "Fendalton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0466---fendalton-park",
+    "name": "Fendalton Park",
+    "lat": -43.51928840666794,
+    "lng": 172.59200094128983,
+    "suburb": "Fendalton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0572---edgar-macintosh-park",
+    "name": "Edgar Macintosh Park",
+    "lat": -43.4990450879742,
+    "lng": 172.59365045794277,
+    "suburb": "Bryndwr",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0582---plynlimon-park",
+    "name": "Plynlimon Park",
+    "lat": -43.51232616645251,
+    "lng": 172.60593816171982,
+    "suburb": "Strowan",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0590---elmwood-park",
+    "name": "Elmwood Park",
+    "lat": -43.51249501069432,
+    "lng": 172.61009833662632,
+    "suburb": "Strowan",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1036---charleston-reserve",
+    "name": "Charleston Reserve",
+    "lat": -43.5438562008013,
+    "lng": 172.65831496207423,
+    "suburb": "Waltham",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1046---thackeray-reserve",
+    "name": "Thackeray Reserve",
+    "lat": -43.54737646285796,
+    "lng": 172.64936036291508,
+    "suburb": "Waltham",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0111---royal-park-reserve",
+    "name": "Royal Park Reserve",
+    "lat": -43.47208765695889,
+    "lng": 172.69281233398513,
+    "suburb": "Parklands",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2645---titirangi-reserve",
+    "name": "Titirangi Reserve",
+    "lat": -43.47562581340328,
+    "lng": 172.68914639646772,
+    "suburb": "Parklands",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2210---broadhaven-reserve",
+    "name": "Broadhaven Reserve",
+    "lat": -43.47289794650276,
+    "lng": 172.70772278890496,
+    "suburb": "Parklands",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2146---copperfield-reserve",
+    "name": "Copperfield Reserve",
+    "lat": -43.4730234794981,
+    "lng": 172.7013292879605,
+    "suburb": "Parklands",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2989---evergreen-reserve",
+    "name": "Evergreen Reserve",
+    "lat": -43.47724267986974,
+    "lng": 172.70384624294613,
+    "suburb": "Parklands",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0266---jellie-park",
+    "name": "Jellie Park",
+    "lat": -43.51038309603233,
+    "lng": 172.582652906287,
+    "suburb": "Bryndwr",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1261---emlyn-playground",
+    "name": "Emlyn Playground",
+    "lat": -43.512124072426886,
+    "lng": 172.68735481648355,
+    "suburb": "Wainoni",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0705---halberg-reserve",
+    "name": "Halberg Reserve",
+    "lat": -43.51447353266898,
+    "lng": 172.68063931147117,
+    "suburb": "Dallington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0708---moyna-playground",
+    "name": "Moyna Playground",
+    "lat": -43.512087954046464,
+    "lng": 172.677026769275,
+    "suburb": "Dallington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0119---arden-reserve",
+    "name": "Arden Reserve",
+    "lat": -43.48385569145927,
+    "lng": 172.7067511144575,
+    "suburb": "Waimairi Beach",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1999---aston-reserve",
+    "name": "Aston Reserve",
+    "lat": -43.48167340652186,
+    "lng": 172.71872184009015,
+    "suburb": "Waimairi Beach",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1369---rosanna-reserve",
+    "name": "Rosanna Reserve",
+    "lat": -43.521798973756226,
+    "lng": 172.7062630067455,
+    "suburb": "Aranui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1264---wainoni-park",
+    "name": "Wainoni Park",
+    "lat": -43.512711384827234,
+    "lng": 172.69979028932545,
+    "suburb": "Aranui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1371---aranui-playground",
+    "name": "Aranui Playground",
+    "lat": -43.5174282095004,
+    "lng": 172.70375560957345,
+    "suburb": "Aranui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1373---delamare-park",
+    "name": "Delamare Park",
+    "lat": -43.52087111851379,
+    "lng": 172.7105363155556,
+    "suburb": "Aranui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2119---parklands-reserve",
+    "name": "Parklands Reserve",
+    "lat": -43.48143612425417,
+    "lng": 172.70418707438424,
+    "suburb": "Parklands",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1286---avondale-playground",
+    "name": "Avondale Playground",
+    "lat": -43.508292221528166,
+    "lng": 172.68762474689498,
+    "suburb": "Avondale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1283---avondale-park",
+    "name": "Avondale Park",
+    "lat": -43.504376242131855,
+    "lng": 172.6898777634279,
+    "suburb": "Avondale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1308---endeavour-playground",
+    "name": "Endeavour Playground",
+    "lat": -43.4908261873162,
+    "lng": 172.71755636139665,
+    "suburb": "North New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2949---te-karoro-karoro-reserve",
+    "name": "Te Karoro Karoro Reserve",
+    "lat": -43.52294001785214,
+    "lng": 172.73684114813477,
+    "suburb": "New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2150---sea-eagles-reserve",
+    "name": "Sea Eagles Reserve",
+    "lat": -43.493427862872274,
+    "lng": 172.72028523082724,
+    "suburb": "North New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1316---thomson-park",
+    "name": "Thomson Park",
+    "lat": -43.496414129629116,
+    "lng": 172.7264343504553,
+    "suburb": "North New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1944---south-new-brighton-park",
+    "name": "South New Brighton Park",
+    "lat": -43.53074976646596,
+    "lng": 172.73357695996265,
+    "suburb": "New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0580---clarevale-reserve",
+    "name": "Clarevale Reserve",
+    "lat": -43.48956219376295,
+    "lng": 172.68700385960926,
+    "suburb": "Burwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0099---carlsen-reserve",
+    "name": "Carlsen Reserve",
+    "lat": -43.49507240732586,
+    "lng": 172.68242963045142,
+    "suburb": "Burwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3053---cuffs-road-playground",
+    "name": "Cuffs Road Playground",
+    "lat": -43.52006712727257,
+    "lng": 172.68481317170082,
+    "suburb": "Wainoni",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2225---donnell-sports-park",
+    "name": "Donnell Sports Park",
+    "lat": -43.49672574139638,
+    "lng": 172.69609469200716,
+    "suburb": "Avondale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2259---fairway-reserve",
+    "name": "Fairway Reserve",
+    "lat": -43.492780055039475,
+    "lng": 172.66608888828134,
+    "suburb": "Shirley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0100---tangmere-reserve",
+    "name": "Tangmere Reserve",
+    "lat": -43.496245423071905,
+    "lng": 172.67985692758387,
+    "suburb": "Burwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0902---bayswater-reserve",
+    "name": "Bayswater Reserve",
+    "lat": -43.54406192292271,
+    "lng": 172.69340658943332,
+    "suburb": "Woolston",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1408---balmoral-hill-reserve",
+    "name": "Balmoral Hill Reserve",
+    "lat": -43.56034099693593,
+    "lng": 172.73125329634468,
+    "suburb": "Balmoral Hill",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2326---kotuku-reserve",
+    "name": "Kotuku Reserve",
+    "lat": -43.55259590733422,
+    "lng": 172.6925577859549,
+    "suburb": "Ferrymead",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2247---ti-rakau-reserve",
+    "name": "Ti Rakau Reserve",
+    "lat": -43.54893901393312,
+    "lng": 172.69598433870146,
+    "suburb": "Ferrymead",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1415---old-school-reserve",
+    "name": "Old School Reserve",
+    "lat": -43.5676841829513,
+    "lng": 172.71499202312788,
+    "suburb": "Mount Pleasant",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1880---heathcote-domain",
+    "name": "Heathcote Domain",
+    "lat": -43.58000111192546,
+    "lng": 172.70681122011837,
+    "suburb": "Heathcote Valley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1390---barnett-park-sports-grounds",
+    "name": "Barnett Park Sports Grounds",
+    "lat": -43.564374797831555,
+    "lng": 172.74000140225056,
+    "suburb": "Redcliffs",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2203---sanscrit-reserve",
+    "name": "Sanscrit Reserve",
+    "lat": -43.574018244499314,
+    "lng": 172.7528011891171,
+    "suburb": "Clifton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0815---olliviers-reserve",
+    "name": "Olliviers Reserve",
+    "lat": -43.535976325857085,
+    "lng": 172.66281729976134,
+    "suburb": "Phillipstown",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0798---hereford-playground",
+    "name": "Hereford Playground",
+    "lat": -43.531568770049034,
+    "lng": 172.66115166184184,
+    "suburb": "Phillipstown",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0790---beverley-park",
+    "name": "Beverley Park",
+    "lat": -43.526103552312165,
+    "lng": 172.65665454379655,
+    "suburb": "Richmond",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0835---linwood-park",
+    "name": "Linwood Park",
+    "lat": -43.53648177942545,
+    "lng": 172.67467086625325,
+    "suburb": "Linwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1451---st-leonards-park",
+    "name": "St Leonards Park",
+    "lat": -43.578115182578145,
+    "lng": 172.76063618667925,
+    "suburb": "Sumner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0766---bromley-park",
+    "name": "Bromley Park",
+    "lat": -43.52825636879298,
+    "lng": 172.68178438394702,
+    "suburb": "Linwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1340---moa-reserve",
+    "name": "Moa Reserve",
+    "lat": -43.52245906273334,
+    "lng": 172.64409546029702,
+    "suburb": "Edgeware",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1252---walnut-tree-park",
+    "name": "Walnut Tree Park",
+    "lat": -43.52491100098811,
+    "lng": 172.64874597272396,
+    "suburb": "Richmond",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2004---rawhiti-domain",
+    "name": "Rawhiti Domain",
+    "lat": -43.503710367814115,
+    "lng": 172.72312481434673,
+    "suburb": "New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2940---edmonds-park",
+    "name": "Edmonds Park",
+    "lat": -43.540928498194155,
+    "lng": 172.66524228567192,
+    "suburb": "Phillipstown",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1430---brownlee-reserve",
+    "name": "Brownlee Reserve",
+    "lat": -43.569196219098586,
+    "lng": 172.7505802982124,
+    "suburb": "Clifton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1610---campion-reserve",
+    "name": "Campion Reserve",
+    "lat": -43.56921979268659,
+    "lng": 172.55801856858005,
+    "suburb": "Awatea Green",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0724---burwood-park",
+    "name": "Burwood Park",
+    "lat": -43.505602604319634,
+    "lng": 172.6720318037556,
+    "suburb": "Dallington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1385---bexley-park",
+    "name": "Bexley Park",
+    "lat": -43.51334716429611,
+    "lng": 172.71264384207865,
+    "suburb": "Aranui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0322---bishopdale-park",
+    "name": "Bishopdale Park",
+    "lat": -43.487266189630574,
+    "lng": 172.58399821921125,
+    "suburb": "Bishopdale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0893---cuthberts-green",
+    "name": "Cuthberts Green",
+    "lat": -43.52234025453329,
+    "lng": 172.69741253206564,
+    "suburb": "Wainoni",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0275---burnside-park",
+    "name": "Burnside Park",
+    "lat": -43.50529539804265,
+    "lng": 172.5624981500858,
+    "suburb": "Burnside",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0444---murchison-park",
+    "name": "Murchison Park",
+    "lat": -43.46968386796671,
+    "lng": 172.62147856180346,
+    "suburb": "Redwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0121---broad-park",
+    "name": "Broad Park",
+    "lat": -43.485142757867756,
+    "lng": 172.72250874096687,
+    "suburb": "Waimairi Beach",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1567---warren-park",
+    "name": "Warren Park",
+    "lat": -43.555646303375305,
+    "lng": 172.53730291147951,
+    "suburb": "Wigram Park",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0281---coringa-reserve",
+    "name": "Coringa Reserve",
+    "lat": -43.50065917364746,
+    "lng": 172.5565066037221,
+    "suburb": "Ashbys Pit",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0325---bishopdale-mall-reserve",
+    "name": "Bishopdale Mall Reserve",
+    "lat": -43.4896017811563,
+    "lng": 172.58697725882786,
+    "suburb": "Bishopdale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2643---new-brighton-mall-playground",
+    "name": "New Brighton Mall Playground",
+    "lat": -43.5074625477245,
+    "lng": 172.72957077284318,
+    "suburb": "New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3596---le-bons-bay-domain",
+    "name": "Le Bons Bay Domain",
+    "lat": -43.74265628338671,
+    "lng": 173.0937354131367,
+    "suburb": "Diamond Harbour",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3091---f-w-delamain-park",
+    "name": "F W Delamain Park",
+    "lat": -43.5233583002462,
+    "lng": 172.51538941161255,
+    "suburb": "Buchanans Subdivision",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3655---birdlings-flat-reserve",
+    "name": "Birdlings Flat Reserve",
+    "lat": -43.825658407808895,
+    "lng": 172.70747649075088,
+    "suburb": "Allandale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1482---taylors-mistake-beach",
+    "name": "Taylors Mistake Beach",
+    "lat": -43.58432219831158,
+    "lng": 172.7756239747049,
+    "suburb": "Sumner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0737---bendrose-park",
+    "name": "Bendrose Park",
+    "lat": -43.56500208543267,
+    "lng": 172.63600783552795,
+    "suburb": "Te Iringa-o-Kahukura",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-fac-0157---spencer-beach-holiday-park",
+    "name": "Spencer Beach Holiday Park",
+    "lat": -43.43180238142515,
+    "lng": 172.7043804883777,
+    "suburb": "Spencerville",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-fac-3584---pigeon-bay-campground",
+    "name": "Pigeon Bay Campground",
+    "lat": -43.68315372854125,
+    "lng": 172.90100404829175,
+    "suburb": "Diamond Harbour",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2732---nga-puna-wai",
+    "name": "Nga Puna Wai",
+    "lat": -43.5581027339042,
+    "lng": 172.57626797558305,
+    "suburb": "Aidanfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0213---westgrove-park",
+    "name": "Westgrove Park",
+    "lat": -43.50746605291259,
+    "lng": 172.55382128540015,
+    "suburb": "Avonhead",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3119---champagne-reserve",
+    "name": "Champagne Reserve",
+    "lat": -43.523449811353174,
+    "lng": 172.52173450371293,
+    "suburb": "Yaldhurst Village",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0735---te-papa-kura-redcliffs-park",
+    "name": "Te Papa Kura Redcliffs Park",
+    "lat": -43.55970430231089,
+    "lng": 172.73507030624128,
+    "suburb": "Redcliffs",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1566---botanic-gardens",
+    "name": "Botanic Gardens",
+    "lat": -43.528532922029484,
+    "lng": 172.6193326051544,
+    "suburb": "Merivale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1829---victoria-park",
+    "name": "Victoria Park",
+    "lat": -43.588867566657726,
+    "lng": 172.64298999438094,
+    "suburb": "Taukahara",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0400---craighead-reserve",
+    "name": "Craighead Reserve",
+    "lat": -43.48460374933198,
+    "lng": 172.6058991982915,
+    "suburb": "Northcote",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3079---seager-park",
+    "name": "Seager Park",
+    "lat": -43.55202187201241,
+    "lng": 172.59180780695533,
+    "suburb": "Hillmorton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1467---scarborough-park",
+    "name": "Scarborough Park",
+    "lat": -43.573512811112316,
+    "lng": 172.7695618643371,
+    "suburb": "Sumner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1416---king-park",
+    "name": "King Park",
+    "lat": -43.55677141351157,
+    "lng": 172.71668155080647,
+    "suburb": "Saint Andrews Hill",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0567---paddington-playground",
+    "name": "Paddington Playground",
+    "lat": -43.48302237931757,
+    "lng": 172.61074983957806,
+    "suburb": "Northcote",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2937---harrington-park",
+    "name": "Harrington Park",
+    "lat": -43.53402507139651,
+    "lng": 172.59024476662162,
+    "suburb": "Riccarton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3659---heritage-park-little-river",
+    "name": "Heritage Park Little River",
+    "lat": -43.770045488092784,
+    "lng": 172.78977373094816,
+    "suburb": "Diamond Harbour",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0084---marshland-domain",
+    "name": "Marshland Domain",
+    "lat": -43.47506556890707,
+    "lng": 172.6670333524729,
+    "suburb": "Marshland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1653---matangi-reserve",
+    "name": "Matangi Reserve",
+    "lat": -43.53485881083758,
+    "lng": 172.5174840044197,
+    "suburb": "Hei Hei",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1419---mccormacks-bay",
+    "name": "Mccormacks Bay",
+    "lat": -43.55646757257345,
+    "lng": 172.7219156343971,
+    "suburb": "Saint Andrews Hill",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1263---mchaffies-reserve",
+    "name": "Mchaffies Reserve",
+    "lat": -43.5168648077584,
+    "lng": 172.69849235131605,
+    "suburb": "Aranui",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1108---addington-park",
+    "name": "Addington Park",
+    "lat": -43.54625767570226,
+    "lng": 172.6107607200193,
+    "suburb": "Addington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-3061---styx-mill-country-club-reserve",
+    "name": "Styx Mill Country Club Reserve",
+    "lat": -43.4596205384294,
+    "lng": 172.60885315800363,
+    "suburb": "Northwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0354---foley-reserve",
+    "name": "Foley Reserve",
+    "lat": -43.45641594679249,
+    "lng": 172.62377433609882,
+    "suburb": "Northwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1544---arcon-playground",
+    "name": "Arcon Playground",
+    "lat": -43.52462123084973,
+    "lng": 172.53006929775555,
+    "suburb": "Broomfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2716---mariposa-park",
+    "name": "Mariposa Park",
+    "lat": -43.559622860416056,
+    "lng": 172.56674540488143,
+    "suburb": "Aidanfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1424---parnham-reserve",
+    "name": "Parnham Reserve",
+    "lat": -43.564080168036305,
+    "lng": 172.72337737392104,
+    "suburb": "Mount Pleasant",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0460---ravensdale-park",
+    "name": "Ravensdale Park",
+    "lat": -43.58654475061457,
+    "lng": 172.60498421892657,
+    "suburb": "Westmorland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0348---groynes",
+    "name": "Groynes",
+    "lat": -43.45129142012501,
+    "lng": 172.60543262963722,
+    "suburb": "The Groynes",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0697---woodham-park",
+    "name": "Woodham Park",
+    "lat": -43.52431715303949,
+    "lng": 172.6713857831034,
+    "suburb": "Avonside",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0602---spring-grove-stage-1",
+    "name": "Spring Grove Stage 1",
+    "lat": -43.45823734048116,
+    "lng": 172.63138107362155,
+    "suburb": "Belfast",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1226---margaret-mahy-family-playgroun",
+    "name": "Margaret Mahy Family Playgroun",
+    "lat": -43.528278534190264,
+    "lng": 172.64108770119583,
+    "suburb": "Edgeware",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0472---kahu-kiwi-park",
+    "name": "Kahu Kiwi Park",
+    "lat": -43.46231570785467,
+    "lng": 172.66653074912185,
+    "suburb": "Marshland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0498---korowai-park",
+    "name": "Korowai Park",
+    "lat": -43.47245087700461,
+    "lng": 172.66782592353061,
+    "suburb": "Marshland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0558---papanui-domain",
+    "name": "Papanui Domain",
+    "lat": -43.48894238567634,
+    "lng": 172.60737672311387,
+    "suburb": "Northcote",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2734---waitikiri-square",
+    "name": "Waitikiri Square",
+    "lat": -43.47092947698393,
+    "lng": 172.67437805164326,
+    "suburb": "Marshland",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0426---bronco-park",
+    "name": "Bronco Park",
+    "lat": -43.56227254509628,
+    "lng": 172.56168185331836,
+    "suburb": "Aidanfield",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0685---richmond-playground",
+    "name": "Richmond Playground",
+    "lat": -43.52062658246854,
+    "lng": 172.65554752729219,
+    "suburb": "Richmond",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1330---new-brighton-beach-developed",
+    "name": "New Brighton Beach Developed",
+    "lat": -43.50637157474303,
+    "lng": 172.73094122008607,
+    "suburb": "New Brighton",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1125---barrington-park",
+    "name": "Barrington Park",
+    "lat": -43.55609259526217,
+    "lng": 172.61893407064207,
+    "suburb": "Spreydon",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0698---zinnia-park",
+    "name": "Zinnia Park",
+    "lat": -43.56087110836712,
+    "lng": 172.5430010533239,
+    "suburb": "The Trail",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1009---whitburn-park",
+    "name": "Whitburn Park",
+    "lat": -43.57437544680569,
+    "lng": 172.57675361654256,
+    "suburb": "Milns Park",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0714---sabina-playground",
+    "name": "Sabina Playground",
+    "lat": -43.50439461968743,
+    "lng": 172.66051021267427,
+    "suburb": "Shirley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0897---bromley-old-school-reserve",
+    "name": "Bromley Old School Reserve",
+    "lat": -43.53845426155283,
+    "lng": 172.69124610236162,
+    "suburb": "Bromley",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1298---robin-playground",
+    "name": "Robin Playground",
+    "lat": -43.49297943401883,
+    "lng": 172.6856279213325,
+    "suburb": "Burwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1613---westbrooke-park",
+    "name": "Westbrooke Park",
+    "lat": -43.57764696793377,
+    "lng": 172.5565501800811,
+    "suburb": "Halswell Prestige",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1114---simeon-park",
+    "name": "Simeon Park",
+    "lat": -43.54896981095041,
+    "lng": 172.61735247937142,
+    "suburb": "Addington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1645---rimu-park",
+    "name": "Rimu Park",
+    "lat": -43.511346600353036,
+    "lng": 172.47766245834887,
+    "suburb": "Yaldhurst",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0138---seafield-park",
+    "name": "Seafield Park",
+    "lat": -43.43039410182173,
+    "lng": 172.697590235947,
+    "suburb": "Spencerville",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0027---moffett-reserve",
+    "name": "Moffett Reserve",
+    "lat": -43.53796404208927,
+    "lng": 172.50713673593438,
+    "suburb": "Islington",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-2958---plover-reserve",
+    "name": "Plover Reserve",
+    "lat": -43.54851049771941,
+    "lng": 172.74826965542724,
+    "suburb": "Redcliffs",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0772---worcester-reserve",
+    "name": "Worcester Reserve",
+    "lat": -43.52784430747613,
+    "lng": 172.6732744163106,
+    "suburb": "Linwood",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1216---little-poland-park",
+    "name": "Little Poland Park",
+    "lat": -43.472740215395895,
+    "lng": 172.6405076371738,
+    "suburb": "Oakbridge",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0929---radley-park",
+    "name": "Radley Park",
+    "lat": -43.552005683252766,
+    "lng": 172.68289976606516,
+    "suburb": "Woolston",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1177---light-mood-park",
+    "name": "Light Mood Park",
+    "lat": -43.5870806610266,
+    "lng": 172.57413778118732,
+    "suburb": "Halswell",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0528---sumnervale-reserve",
+    "name": "Sumnervale Reserve",
+    "lat": -43.58344761772554,
+    "lng": 172.75262558143046,
+    "suburb": "Sumner",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0867---redmund-spur-park",
+    "name": "Redmund Spur Park",
+    "lat": -43.59179340266931,
+    "lng": 172.58622986631994,
+    "suburb": "Stoneridge Downs",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0397---tralee-reserve",
+    "name": "Tralee Reserve",
+    "lat": -43.486056239462656,
+    "lng": 172.59349242135784,
+    "suburb": "Bishopdale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1259---meadow-view-park",
+    "name": "Meadow View Park",
+    "lat": -43.44753693915585,
+    "lng": 172.62604404232218,
+    "suburb": "Belfast",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-0306---crofton-reserve",
+    "name": "Crofton Reserve",
+    "lat": -43.479475794583074,
+    "lng": 172.57857996985572,
+    "suburb": "Bishopdale",
+    "source": "ccc"
+  },
+  {
+    "id": "ccc-prk-1520---west-watson-park",
+    "name": "West Watson Park",
+    "lat": -43.55796385737447,
+    "lng": 172.58216742266484,
+    "suburb": "Hillmorton",
+    "source": "ccc"
+  }
+]
