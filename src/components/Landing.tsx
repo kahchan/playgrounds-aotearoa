@@ -31,7 +31,7 @@ export default function Landing() {
         </p>
 
         <p className={styles.byline}>
-          Built by a designer who likes building.{' '}
+          I'm Kah, a designer learning by building.{' '}
           <a
             href="https://www.linkedin.com/in/kahchan"
             target="_blank"
