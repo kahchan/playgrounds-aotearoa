@@ -1,1 +1,182 @@
-[{"id": "osm-w203707308", "name": "Playground", "lat": -35.687371, "lng": 174.2954309}, {"id": "osm-w204216331", "name": "Playground", "lat": -35.7355995, "lng": 174.3235293}, {"id": "osm-w285200316", "name": "Playground", "lat": -35.6752131, "lng": 174.3472142}, {"id": "osm-w376612053", "name": "Playground", "lat": -35.7376516, "lng": 174.3095033}, {"id": "osm-w484481820", "name": "Playground", "lat": -35.7743478, "lng": 174.3584944}, {"id": "osm-w484481821", "name": "Playground", "lat": -35.7744518, "lng": 174.3586513}, {"id": "osm-w547139379", "name": "Playground", "lat": -35.6957742, "lng": 174.3080377}, {"id": "osm-w547139383", "name": "Playground", "lat": -35.6874387, "lng": 174.2885212}, {"id": "osm-w547139384", "name": "Playground", "lat": -35.6875886, "lng": 174.2884988}, {"id": "osm-w549057414", "name": "Playground", "lat": -35.681759, "lng": 174.3206038}, {"id": "osm-w549432667", "name": "Playground", "lat": -35.7258913, "lng": 174.3126692}, {"id": "osm-w736710401", "name": "Playground", "lat": -35.6803749, "lng": 174.3249148}, {"id": "osm-w817991278", "name": "Playground", "lat": -35.6931797, "lng": 174.3191913}, {"id": "osm-w900544262", "name": "Playground", "lat": -35.745589, "lng": 174.3107915}, {"id": "osm-w1118853705", "name": "Playground", "lat": -35.7215664, "lng": 174.3160941}, {"id": "osm-w1118853706", "name": "Playground", "lat": -35.7209572, "lng": 174.3175008}, {"id": "osm-w1164960017", "name": "Playground", "lat": -35.6737601, "lng": 174.3192993}, {"id": "osm-w1178005315", "name": "Playground", "lat": -35.7396583, "lng": 174.2875672}, {"id": "osm-w1180117716", "name": "Playground", "lat": -35.7231256, "lng": 174.3203762}, {"id": "osm-w1188386574", "name": "Playground", "lat": -35.7306241, "lng": 174.3357763}, {"id": "osm-w1195195305", "name": "Town Basin Playground", "lat": -35.7253391, "lng": 174.3271016}, {"id": "osm-w1195195337", "name": "Playground", "lat": -35.7322011, "lng": 174.314486}, {"id": "osm-w1226376248", "name": "Playground", "lat": -35.7270965, "lng": 174.3328197}, {"id": "osm-w1226376249", "name": "Playground", "lat": -35.7271331, "lng": 174.3329951}, {"id": "osm-w1289248493", "name": "Playground", "lat": -35.7310441, "lng": 174.3324372}, {"id": "osm-w1364473862", "name": "Playground", "lat": -35.7004948, "lng": 174.3161297}, {"id": "osm-w1364473863", "name": "Playground", "lat": -35.7011481, "lng": 174.3159203}, {"id": "osm-w1430044318", "name": "Playground", "lat": -35.7030383, "lng": 174.314279}, {"id": "osm-w1430044335", "name": "Playground", "lat": -35.7035371, "lng": 174.3135498}, {"id": "osm-w1453877992", "name": "Playground", "lat": -35.7445958, "lng": 174.3035448}]
+[
+  {
+    "id": "osm-w203707308",
+    "name": "Te Paka Crescent Playground",
+    "lat": -35.687371,
+    "lng": 174.2954309
+  },
+  {
+    "id": "osm-w204216331",
+    "name": "Morningside Road Playground",
+    "lat": -35.7355995,
+    "lng": 174.3235293
+  },
+  {
+    "id": "osm-w285200316",
+    "name": "Ngunguru Road Playground",
+    "lat": -35.6752131,
+    "lng": 174.3472142
+  },
+  {
+    "id": "osm-w376612053",
+    "name": "Otaika Road Playground",
+    "lat": -35.7376516,
+    "lng": 174.3095033
+  },
+  {
+    "id": "osm-w484481820",
+    "name": "Beach Road Playground",
+    "lat": -35.7743478,
+    "lng": 174.3584944
+  },
+  {
+    "id": "osm-w484481821",
+    "name": "Beach Road Playground",
+    "lat": -35.7744518,
+    "lng": 174.3586513
+  },
+  {
+    "id": "osm-w547139379",
+    "name": "Whau Valley Road Playground",
+    "lat": -35.6957742,
+    "lng": 174.3080377
+  },
+  {
+    "id": "osm-w547139383",
+    "name": "Rock Ridge Drive Playground",
+    "lat": -35.6874387,
+    "lng": 174.2885212
+  },
+  {
+    "id": "osm-w547139384",
+    "name": "Rock Ridge Drive Playground",
+    "lat": -35.6875886,
+    "lng": 174.2884988
+  },
+  {
+    "id": "osm-w549057414",
+    "name": "Paramount Parade Playground",
+    "lat": -35.681759,
+    "lng": 174.3206038
+  },
+  {
+    "id": "osm-w549432667",
+    "name": "Third Avenue Playground",
+    "lat": -35.7258913,
+    "lng": 174.3126692
+  },
+  {
+    "id": "osm-w736710401",
+    "name": "Corks Road Playground",
+    "lat": -35.6803749,
+    "lng": 174.3249148
+  },
+  {
+    "id": "osm-w817991278",
+    "name": "Taraire Crescent Playground",
+    "lat": -35.6931797,
+    "lng": 174.3191913
+  },
+  {
+    "id": "osm-w900544262",
+    "name": "Dakota Place Playground",
+    "lat": -35.745589,
+    "lng": 174.3107915
+  },
+  {
+    "id": "osm-w1118853705",
+    "name": "Selwyn Avenue Playground",
+    "lat": -35.7215664,
+    "lng": 174.3160941
+  },
+  {
+    "id": "osm-w1118853706",
+    "name": "Kamo Shared Path Playground",
+    "lat": -35.7209572,
+    "lng": 174.3175008
+  },
+  {
+    "id": "osm-w1164960017",
+    "name": "Totara Parklands Walking Track Playground",
+    "lat": -35.6737601,
+    "lng": 174.3192993
+  },
+  {
+    "id": "osm-w1178005315",
+    "name": "Puriri Park Road Playground",
+    "lat": -35.7396583,
+    "lng": 174.2875672
+  },
+  {
+    "id": "osm-w1180117716",
+    "name": "Robert Street Playground",
+    "lat": -35.7231256,
+    "lng": 174.3203762
+  },
+  {
+    "id": "osm-w1188386574",
+    "name": "Pohe Island Road Playground",
+    "lat": -35.7306241,
+    "lng": 174.3357763
+  },
+  {
+    "id": "osm-w1195195305",
+    "name": "Town Basin Playground",
+    "lat": -35.7253391,
+    "lng": 174.3271016
+  },
+  {
+    "id": "osm-w1195195337",
+    "name": "Cooke Street Playground",
+    "lat": -35.7322011,
+    "lng": 174.314486
+  },
+  {
+    "id": "osm-w1226376248",
+    "name": "Riverside Drive Playground",
+    "lat": -35.7270965,
+    "lng": 174.3328197
+  },
+  {
+    "id": "osm-w1226376249",
+    "name": "Riverside Drive Playground",
+    "lat": -35.7271331,
+    "lng": 174.3329951
+  },
+  {
+    "id": "osm-w1289248493",
+    "name": "Port Road Playground",
+    "lat": -35.7310441,
+    "lng": 174.3324372
+  },
+  {
+    "id": "osm-w1364473862",
+    "name": "Moody Avenue Playground",
+    "lat": -35.7004948,
+    "lng": 174.3161297
+  },
+  {
+    "id": "osm-w1364473863",
+    "name": "Moody Avenue Playground",
+    "lat": -35.7011481,
+    "lng": 174.3159203
+  },
+  {
+    "id": "osm-w1430044318",
+    "name": "Percy Street Playground",
+    "lat": -35.7030383,
+    "lng": 174.314279
+  },
+  {
+    "id": "osm-w1430044335",
+    "name": "Western Hills Drive Playground",
+    "lat": -35.7035371,
+    "lng": 174.3135498
+  },
+  {
+    "id": "osm-w1453877992",
+    "name": "Murdoch Crescent Playground",
+    "lat": -35.7445958,
+    "lng": 174.3035448
+  }
+]
