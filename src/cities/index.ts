@@ -14,4 +14,11 @@ export const CITIES: City[] = [
     zoom: 12,
     dataPath: 'wellington.json',
   },
+  {
+    slug: 'kapiti',
+    label: 'Kāpiti',
+    center: [175.0633, -40.8994],
+    zoom: 11,
+    dataPath: 'kapiti.json',
+  },
 ]

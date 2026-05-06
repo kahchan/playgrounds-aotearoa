@@ -10,7 +10,9 @@
     "lint": "eslint . && prettier --check .",
     "lint:fix": "eslint . --fix && prettier --write .",
     "deploy": "npm run build && gh-pages -d dist",
-    "refresh-wellington": "node scripts/refresh-wellington.mjs"
+    "refresh-wellington": "node scripts/refresh-wellington.mjs",
+    "refresh-kapiti": "node scripts/refresh-kapiti.mjs",
+    "refresh-all": "npm run refresh-wellington && npm run refresh-kapiti"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
