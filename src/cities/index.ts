@@ -21,4 +21,11 @@ export const CITIES: City[] = [
     zoom: 11,
     dataPath: 'kapiti.json',
   },
+  {
+    slug: 'hawkes-bay',
+    label: "Hawke's Bay",
+    center: [176.8786, -39.5667],
+    zoom: 11,
+    dataPath: 'hawkes-bay.json',
+  },
 ]

@@ -12,7 +12,8 @@
     "deploy": "npm run build && gh-pages -d dist",
     "refresh-wellington": "node scripts/refresh-wellington.mjs",
     "refresh-kapiti": "node scripts/refresh-kapiti.mjs",
-    "refresh-all": "npm run refresh-wellington && npm run refresh-kapiti"
+    "refresh-hawkes-bay": "node scripts/refresh-hawkes-bay.mjs",
+    "refresh-all": "npm run refresh-wellington && npm run refresh-kapiti && npm run refresh-hawkes-bay"
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
