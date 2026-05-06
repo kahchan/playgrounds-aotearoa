@@ -1,1 +1,842 @@
-[{"id": "osm-w153516738", "name": "Playground", "lat": -37.7260721, "lng": 175.2493533}, {"id": "osm-w160553045", "name": "Playground", "lat": -37.7359012, "lng": 175.285127}, {"id": "osm-w160553046", "name": "Playground", "lat": -37.7266753, "lng": 175.2878592}, {"id": "osm-w165097576", "name": "Playground", "lat": -37.7532685, "lng": 175.2832071}, {"id": "osm-w173223311", "name": "Playground", "lat": -37.7747638, "lng": 175.2339136}, {"id": "osm-w289666457", "name": "Playground", "lat": -37.7761617, "lng": 175.2886806}, {"id": "osm-w289666467", "name": "Playground", "lat": -37.7762649, "lng": 175.2891426}, {"id": "osm-w289666470", "name": "Playground", "lat": -37.7760491, "lng": 175.2890005}, {"id": "osm-w293249778", "name": "Playground", "lat": -37.8094298, "lng": 175.2742125}, {"id": "osm-w354053359", "name": "Playground", "lat": -37.7586287, "lng": 175.2767754}, {"id": "osm-w354053360", "name": "Playground", "lat": -37.7584275, "lng": 175.2767301}, {"id": "osm-w354053361", "name": "Playground", "lat": -37.7585322, "lng": 175.2767517}, {"id": "osm-w354272068", "name": "Playground", "lat": -37.7674552, "lng": 175.2941528}, {"id": "osm-w354967710", "name": "Playground", "lat": -37.7967675, "lng": 175.3193974}, {"id": "osm-w355670880", "name": "Skatepark", "lat": -37.7827795, "lng": 175.2385342}, {"id": "osm-w355684709", "name": "Playground", "lat": -37.781055, "lng": 175.2257911}, {"id": "osm-w356704078", "name": "Playground", "lat": -37.8288865, "lng": 175.2860646}, {"id": "osm-w379062132", "name": "Playground", "lat": -37.7272197, "lng": 175.2678263}, {"id": "osm-w379062144", "name": "Potter Trust Playground", "lat": -37.7381658, "lng": 175.2684039}, {"id": "osm-w438355765", "name": "The Potter Children's Garden", "lat": -37.7873605, "lng": 175.2874527}, {"id": "osm-w477074738", "name": "Playground", "lat": -37.751384, "lng": 175.2710914}, {"id": "osm-w497997422", "name": "Playground", "lat": -37.8115041, "lng": 175.2900504}, {"id": "osm-w507721563", "name": "Playground", "lat": -37.8005937, "lng": 175.2408992}, {"id": "osm-w607825145", "name": "Playground", "lat": -37.8203099, "lng": 175.2744319}, {"id": "osm-w610119641", "name": "Playground", "lat": -37.8031732, "lng": 175.2495277}, {"id": "osm-w631745197", "name": "Playground", "lat": -37.7768681, "lng": 175.2334345}, {"id": "osm-w631745198", "name": "Playground", "lat": -37.7768393, "lng": 175.2336289}, {"id": "osm-w631745199", "name": "Playground", "lat": -37.7770077, "lng": 175.2337073}, {"id": "osm-w637061508", "name": "Playground", "lat": -37.7760562, "lng": 175.2885127}, {"id": "osm-w641386751", "name": "Playground", "lat": -37.7622941, "lng": 175.282697}, {"id": "osm-w641395366", "name": "Playground", "lat": -37.7647122, "lng": 175.284971}, {"id": "osm-w641426365", "name": "Playground", "lat": -37.7594851, "lng": 175.2919022}, {"id": "osm-w641426368", "name": "Playground", "lat": -37.7471818, "lng": 175.2785571}, {"id": "osm-w641426397", "name": "Playground", "lat": -37.7618444, "lng": 175.2765779}, {"id": "osm-w641436991", "name": "Playground", "lat": -37.7418353, "lng": 175.2802272}, {"id": "osm-w641436992", "name": "Playground", "lat": -37.7418855, "lng": 175.2803512}, {"id": "osm-w641718497", "name": "Playground", "lat": -37.7259142, "lng": 175.2609622}, {"id": "osm-w641718498", "name": "Playground", "lat": -37.7259932, "lng": 175.2609641}, {"id": "osm-w641718504", "name": "Playground", "lat": -37.7215006, "lng": 175.2609009}, {"id": "osm-w641718518", "name": "Playground", "lat": -37.7225771, "lng": 175.2660318}, {"id": "osm-w642018797", "name": "Playground", "lat": -37.7334666, "lng": 175.2537185}, {"id": "osm-w642018798", "name": "Playground", "lat": -37.7290187, "lng": 175.2530696}, {"id": "osm-w642018799", "name": "Playground", "lat": -37.7290777, "lng": 175.2529363}, {"id": "osm-w642018802", "name": "Playground", "lat": -37.7317256, "lng": 175.2530952}, {"id": "osm-w642018803", "name": "Playground", "lat": -37.7312697, "lng": 175.2532793}, {"id": "osm-w642045032", "name": "Playground", "lat": -37.7497636, "lng": 175.2327135}, {"id": "osm-w642045092", "name": "Playground", "lat": -37.7401674, "lng": 175.2613589}, {"id": "osm-w642054567", "name": "Playground", "lat": -37.7452921, "lng": 175.2418619}, {"id": "osm-w642054576", "name": "Playground", "lat": -37.7452359, "lng": 175.2413538}, {"id": "osm-w642054580", "name": "Playground", "lat": -37.7453639, "lng": 175.2455782}, {"id": "osm-w642334672", "name": "Playground", "lat": -37.7516458, "lng": 175.2506311}, {"id": "osm-w642334673", "name": "Playground", "lat": -37.7517163, "lng": 175.2505185}, {"id": "osm-w642334677", "name": "Playground", "lat": -37.7584276, "lng": 175.2552428}, {"id": "osm-w642334679", "name": "Playground", "lat": -37.7547278, "lng": 175.253575}, {"id": "osm-w642334692", "name": "Playground", "lat": -37.7422319, "lng": 175.2360944}, {"id": "osm-w642334693", "name": "Playground", "lat": -37.7421176, "lng": 175.2362466}, {"id": "osm-w642334694", "name": "Playground", "lat": -37.7422011, "lng": 175.236199}, {"id": "osm-w642334695", "name": "Playground", "lat": -37.7421968, "lng": 175.2360066}, {"id": "osm-w642334696", "name": "Playground", "lat": -37.7420286, "lng": 175.2360891}, {"id": "osm-w642334697", "name": "Playground", "lat": -37.7420763, "lng": 175.2359895}, {"id": "osm-w642334698", "name": "Playground", "lat": -37.739032, "lng": 175.2355866}, {"id": "osm-w642334699", "name": "Playground", "lat": -37.7394288, "lng": 175.2346103}, {"id": "osm-w642334728", "name": "Playground", "lat": -37.7393993, "lng": 175.2351298}, {"id": "osm-w642334729", "name": "Playground", "lat": -37.7418679, "lng": 175.236151}, {"id": "osm-w642334731", "name": "Playground", "lat": -37.7421379, "lng": 175.2361135}, {"id": "osm-w642357208", "name": "Playground", "lat": -37.7707147, "lng": 175.2565633}, {"id": "osm-w642357210", "name": "Playground", "lat": -37.7705426, "lng": 175.257633}, {"id": "osm-w642357211", "name": "Playground", "lat": -37.7706434, "lng": 175.2574513}, {"id": "osm-w642357240", "name": "Lake Rotokaeo Playground", "lat": -37.7743982, "lng": 175.2526249}, {"id": "osm-w642357255", "name": "Playground", "lat": -37.7646427, "lng": 175.2569294}, {"id": "osm-w642357263", "name": "Playground", "lat": -37.767835, "lng": 175.2524674}, {"id": "osm-w642750088", "name": "Playground", "lat": -37.7825009, "lng": 175.2390084}, {"id": "osm-w642750091", "name": "Playground", "lat": -37.7789296, "lng": 175.2341325}, {"id": "osm-w642750094", "name": "Playground", "lat": -37.77881, "lng": 175.2449421}, {"id": "osm-w642750110", "name": "Playground", "lat": -37.7676021, "lng": 175.2335969}, {"id": "osm-w642750115", "name": "Playground", "lat": -37.7789032, "lng": 175.2413184}, {"id": "osm-w642750116", "name": "Playground", "lat": -37.7792672, "lng": 175.2416021}, {"id": "osm-w642750131", "name": "Playground", "lat": -37.7745664, "lng": 175.2331645}, {"id": "osm-w644290304", "name": "Playground", "lat": -37.805667, "lng": 175.3007391}, {"id": "osm-w644591937", "name": "Playground", "lat": -37.8029766, "lng": 175.2912377}, {"id": "osm-w645526124", "name": "Playground", "lat": -37.7946987, "lng": 175.2377636}, {"id": "osm-w645526139", "name": "Playground", "lat": -37.7935803, "lng": 175.2489731}, {"id": "osm-w645526141", "name": "Playground", "lat": -37.7918084, "lng": 175.2523017}, {"id": "osm-w645526151", "name": "Playground", "lat": -37.7921472, "lng": 175.2501198}, {"id": "osm-w645526155", "name": "Playground", "lat": -37.7886732, "lng": 175.2444155}, {"id": "osm-w645526156", "name": "Playground", "lat": -37.7885028, "lng": 175.2446298}, {"id": "osm-w645526157", "name": "Playground", "lat": -37.7886278, "lng": 175.2446058}, {"id": "osm-w645526158", "name": "Playground", "lat": -37.7882042, "lng": 175.2431538}, {"id": "osm-w646648604", "name": "Playground", "lat": -37.8166429, "lng": 175.2916272}, {"id": "osm-w646648767", "name": "Playground", "lat": -37.8185088, "lng": 175.29857}, {"id": "osm-w646696605", "name": "Playground", "lat": -37.805769, "lng": 175.2880555}, {"id": "osm-w646696606", "name": "Playground", "lat": -37.8115846, "lng": 175.2901662}, {"id": "osm-w649311733", "name": "Playground", "lat": -37.789269, "lng": 175.3236758}, {"id": "osm-w649311746", "name": "Playground", "lat": -37.7874007, "lng": 175.3332456}, {"id": "osm-w649823157", "name": "Playground", "lat": -37.7659015, "lng": 175.3078187}, {"id": "osm-w649823158", "name": "Playground", "lat": -37.7615876, "lng": 175.3050052}, {"id": "osm-w650419184", "name": "Playground", "lat": -37.7514189, "lng": 175.2709403}, {"id": "osm-w650419186", "name": "Playground", "lat": -37.7513223, "lng": 175.270993}, {"id": "osm-w650419226", "name": "Playground", "lat": -37.7733684, "lng": 175.2981392}, {"id": "osm-w650419249", "name": "Playground", "lat": -37.7750449, "lng": 175.2988794}, {"id": "osm-w650419271", "name": "Playground", "lat": -37.753886, "lng": 175.2773532}, {"id": "osm-w650453966", "name": "Playground", "lat": -37.7340028, "lng": 175.2752006}, {"id": "osm-w650855648", "name": "Saint Joseph's Play Area", "lat": -37.7676041, "lng": 175.2744202}, {"id": "osm-w650855649", "name": "Woodstock School Play Area", "lat": -37.7682049, "lng": 175.2741453}, {"id": "osm-w650862130", "name": "Playground", "lat": -37.7703759, "lng": 175.287824}, {"id": "osm-w651328557", "name": "Playground", "lat": -37.7780473, "lng": 175.26111}, {"id": "osm-w678976545", "name": "Playground", "lat": -37.751633, "lng": 175.2965383}, {"id": "osm-w683645648", "name": "Playground", "lat": -37.7761725, "lng": 175.3076235}, {"id": "osm-w800570363", "name": "Steele Park Playground", "lat": -37.7938139, "lng": 175.2938103}, {"id": "osm-w909192480", "name": "Playground", "lat": -37.8226965, "lng": 175.3013628}, {"id": "osm-w991592610", "name": "Te Huia Playground", "lat": -37.7304452, "lng": 175.2410612}, {"id": "osm-w1020716146", "name": "Playground", "lat": -37.786126, "lng": 175.2487943}, {"id": "osm-w1147307052", "name": "Playground", "lat": -37.7694981, "lng": 175.2739012}, {"id": "osm-w1153612980", "name": "Playground", "lat": -37.7442904, "lng": 175.2889717}, {"id": "osm-w1162916249", "name": "Playground", "lat": -37.7311259, "lng": 175.2650592}, {"id": "osm-w1169189647", "name": "Playground", "lat": -37.796515, "lng": 175.3268483}, {"id": "osm-w1195272733", "name": "Playground", "lat": -37.7941619, "lng": 175.313406}, {"id": "osm-w1195272755", "name": "Playground", "lat": -37.8073871, "lng": 175.2867426}, {"id": "osm-w1195272759", "name": "Playground", "lat": -37.8074912, "lng": 175.2867423}, {"id": "osm-w1201197183", "name": "Playground", "lat": -37.7998017, "lng": 175.2716812}, {"id": "osm-w1204641277", "name": "Playground", "lat": -37.7522795, "lng": 175.3017713}, {"id": "osm-w1204641284", "name": "Playground", "lat": -37.7500027, "lng": 175.3007856}, {"id": "osm-w1232813039", "name": "Playground", "lat": -37.7645172, "lng": 175.2826733}, {"id": "osm-w1279808383", "name": "Playground", "lat": -37.7912599, "lng": 175.2296886}, {"id": "osm-w1279808384", "name": "Playground", "lat": -37.7912743, "lng": 175.2298169}, {"id": "osm-w1279808385", "name": "Playground", "lat": -37.7914042, "lng": 175.2297966}, {"id": "osm-w1312495394", "name": "Playground", "lat": -37.7999479, "lng": 175.2718477}, {"id": "osm-w1319003019", "name": "Destination Playground", "lat": -37.72214, "lng": 175.2403837}, {"id": "osm-w1319003023", "name": "Lake Playground", "lat": -37.7987727, "lng": 175.2793553}, {"id": "osm-w1324700041", "name": "Hillcrest Stadium Playground", "lat": -37.7973425, "lng": 175.3100253}, {"id": "osm-w1369581296", "name": "Playground", "lat": -37.7205584, "lng": 175.2398071}, {"id": "osm-w1369581312", "name": "Playground", "lat": -37.7209373, "lng": 175.2399366}, {"id": "osm-w1388952395", "name": "Playground", "lat": -37.8205643, "lng": 175.2199064}, {"id": "osm-w1421051594", "name": "Playground", "lat": -37.7205204, "lng": 175.2594087}, {"id": "osm-w1446652368", "name": "Playground", "lat": -37.7204325, "lng": 175.2592622}, {"id": "osm-w1458690113", "name": "Playground", "lat": -37.7543831, "lng": 175.2767224}, {"id": "osm-w1460205336", "name": "Playground", "lat": -37.8016935, "lng": 175.3202069}, {"id": "osm-w1462473262", "name": "Playground", "lat": -37.7476811, "lng": 175.2982388}, {"id": "osm-w1462484657", "name": "Playground", "lat": -37.7515355, "lng": 175.2981513}, {"id": "osm-w1462484659", "name": "Playground", "lat": -37.7496384, "lng": 175.2956347}]
+[
+  {
+    "id": "osm-w153516738",
+    "name": "Trinidad Place Playground",
+    "lat": -37.7260721,
+    "lng": 175.2493533
+  },
+  {
+    "id": "osm-w160553045",
+    "name": "Wiltshire Drive Playground",
+    "lat": -37.7359012,
+    "lng": 175.285127
+  },
+  {
+    "id": "osm-w160553046",
+    "name": "Gordonton Road Playground",
+    "lat": -37.7266753,
+    "lng": 175.2878592
+  },
+  {
+    "id": "osm-w165097576",
+    "name": "Carlyle Avenue Playground",
+    "lat": -37.7532685,
+    "lng": 175.2832071
+  },
+  {
+    "id": "osm-w173223311",
+    "name": "Beatrice Place Playground",
+    "lat": -37.7747638,
+    "lng": 175.2339136
+  },
+  {
+    "id": "osm-w289666457",
+    "name": "Boundary Road Playground",
+    "lat": -37.7761617,
+    "lng": 175.2886806
+  },
+  {
+    "id": "osm-w289666467",
+    "name": "Boundary Road Playground",
+    "lat": -37.7762649,
+    "lng": 175.2891426
+  },
+  {
+    "id": "osm-w289666470",
+    "name": "Boundary Road Playground",
+    "lat": -37.7760491,
+    "lng": 175.2890005
+  },
+  {
+    "id": "osm-w293249778",
+    "name": "Langdon Lane Playground",
+    "lat": -37.8094298,
+    "lng": 175.2742125
+  },
+  {
+    "id": "osm-w354053359",
+    "name": "Bankwood Road Playground",
+    "lat": -37.7586287,
+    "lng": 175.2767754
+  },
+  {
+    "id": "osm-w354053360",
+    "name": "Bankwood Road Playground",
+    "lat": -37.7584275,
+    "lng": 175.2767301
+  },
+  {
+    "id": "osm-w354053361",
+    "name": "Bankwood Road Playground",
+    "lat": -37.7585322,
+    "lng": 175.2767517
+  },
+  {
+    "id": "osm-w354272068",
+    "name": "Tennyson Road Playground",
+    "lat": -37.7674552,
+    "lng": 175.2941528
+  },
+  {
+    "id": "osm-w354967710",
+    "name": "Masters Avenue Playground",
+    "lat": -37.7967675,
+    "lng": 175.3193974
+  },
+  {
+    "id": "osm-w355670880",
+    "name": "Skatepark",
+    "lat": -37.7827795,
+    "lng": 175.2385342
+  },
+  {
+    "id": "osm-w355684709",
+    "name": "Pointon Glade Playground",
+    "lat": -37.781055,
+    "lng": 175.2257911
+  },
+  {
+    "id": "osm-w356704078",
+    "name": "John Webb Drive Playground",
+    "lat": -37.8288865,
+    "lng": 175.2860646
+  },
+  {
+    "id": "osm-w379062132",
+    "name": "Edenpark Drive Playground",
+    "lat": -37.7272197,
+    "lng": 175.2678263
+  },
+  {
+    "id": "osm-w379062144",
+    "name": "Potter Trust Playground",
+    "lat": -37.7381658,
+    "lng": 175.2684039
+  },
+  {
+    "id": "osm-w438355765",
+    "name": "The Potter Children's Garden",
+    "lat": -37.7873605,
+    "lng": 175.2874527
+  },
+  {
+    "id": "osm-w477074738",
+    "name": "Herbert Road Playground",
+    "lat": -37.751384,
+    "lng": 175.2710914
+  },
+  {
+    "id": "osm-w497997422",
+    "name": "Pine Avenue Playground",
+    "lat": -37.8115041,
+    "lng": 175.2900504
+  },
+  {
+    "id": "osm-w507721563",
+    "name": "Amanda Avenue Playground",
+    "lat": -37.8005937,
+    "lng": 175.2408992
+  },
+  {
+    "id": "osm-w607825145",
+    "name": "Rosalind Street Playground",
+    "lat": -37.8203099,
+    "lng": 175.2744319
+  },
+  {
+    "id": "osm-w610119641",
+    "name": "Kahikatea Drive Playground",
+    "lat": -37.8031732,
+    "lng": 175.2495277
+  },
+  {
+    "id": "osm-w631745197",
+    "name": "Dominion Road Playground",
+    "lat": -37.7768681,
+    "lng": 175.2334345
+  },
+  {
+    "id": "osm-w631745198",
+    "name": "Dominion Road Playground",
+    "lat": -37.7768393,
+    "lng": 175.2336289
+  },
+  {
+    "id": "osm-w631745199",
+    "name": "Dominion Road Playground",
+    "lat": -37.7770077,
+    "lng": 175.2337073
+  },
+  {
+    "id": "osm-w637061508",
+    "name": "Boundary Road Playground",
+    "lat": -37.7760562,
+    "lng": 175.2885127
+  },
+  {
+    "id": "osm-w641386751",
+    "name": "Casper Street Playground",
+    "lat": -37.7622941,
+    "lng": 175.282697
+  },
+  {
+    "id": "osm-w641395366",
+    "name": "Clarkin Road Playground",
+    "lat": -37.7647122,
+    "lng": 175.284971
+  },
+  {
+    "id": "osm-w641426365",
+    "name": "Snell Drive Playground",
+    "lat": -37.7594851,
+    "lng": 175.2919022
+  },
+  {
+    "id": "osm-w641426368",
+    "name": "Pickering Crescent Playground",
+    "lat": -37.7471818,
+    "lng": 175.2785571
+  },
+  {
+    "id": "osm-w641426397",
+    "name": "Bankwood Road Playground",
+    "lat": -37.7618444,
+    "lng": 175.2765779
+  },
+  {
+    "id": "osm-w641436991",
+    "name": "Azure Place Playground",
+    "lat": -37.7418353,
+    "lng": 175.2802272
+  },
+  {
+    "id": "osm-w641436992",
+    "name": "Azure Place Playground",
+    "lat": -37.7418855,
+    "lng": 175.2803512
+  },
+  {
+    "id": "osm-w641718497",
+    "name": "Winchester Place Playground",
+    "lat": -37.7259142,
+    "lng": 175.2609622
+  },
+  {
+    "id": "osm-w641718498",
+    "name": "Farringdon Avenue Playground",
+    "lat": -37.7259932,
+    "lng": 175.2609641
+  },
+  {
+    "id": "osm-w641718504",
+    "name": "Micah Place Playground",
+    "lat": -37.7215006,
+    "lng": 175.2609009
+  },
+  {
+    "id": "osm-w641718518",
+    "name": "Borman Road Playground",
+    "lat": -37.7225771,
+    "lng": 175.2660318
+  },
+  {
+    "id": "osm-w642018797",
+    "name": "Endeavour Avenue Playground",
+    "lat": -37.7334666,
+    "lng": 175.2537185
+  },
+  {
+    "id": "osm-w642018798",
+    "name": "Discovery Drive Playground",
+    "lat": -37.7290187,
+    "lng": 175.2530696
+  },
+  {
+    "id": "osm-w642018799",
+    "name": "Discovery Drive Playground",
+    "lat": -37.7290777,
+    "lng": 175.2529363
+  },
+  {
+    "id": "osm-w642018802",
+    "name": "Cashmere Place Playground",
+    "lat": -37.7317256,
+    "lng": 175.2530952
+  },
+  {
+    "id": "osm-w642018803",
+    "name": "Gallery Grove Playground",
+    "lat": -37.7312697,
+    "lng": 175.2532793
+  },
+  {
+    "id": "osm-w642045032",
+    "name": "Formation Drive Playground",
+    "lat": -37.7497636,
+    "lng": 175.2327135
+  },
+  {
+    "id": "osm-w642045092",
+    "name": "Wairere Drive Playground",
+    "lat": -37.7401674,
+    "lng": 175.2613589
+  },
+  {
+    "id": "osm-w642054567",
+    "name": "Cullimore Street Playground",
+    "lat": -37.7452921,
+    "lng": 175.2418619
+  },
+  {
+    "id": "osm-w642054576",
+    "name": "Cullimore Street Playground",
+    "lat": -37.7452359,
+    "lng": 175.2413538
+  },
+  {
+    "id": "osm-w642054580",
+    "name": "Matipo Crescent Playground",
+    "lat": -37.7453639,
+    "lng": 175.2455782
+  },
+  {
+    "id": "osm-w642334672",
+    "name": "Waiwherowhero Drive Playground",
+    "lat": -37.7516458,
+    "lng": 175.2506311
+  },
+  {
+    "id": "osm-w642334673",
+    "name": "Waiwherowhero Drive Playground",
+    "lat": -37.7517163,
+    "lng": 175.2505185
+  },
+  {
+    "id": "osm-w642334677",
+    "name": "Heath Street Playground",
+    "lat": -37.7584276,
+    "lng": 175.2552428
+  },
+  {
+    "id": "osm-w642334679",
+    "name": "Heath Street Playground",
+    "lat": -37.7547278,
+    "lng": 175.253575
+  },
+  {
+    "id": "osm-w642334692",
+    "name": "Oakfield Crescent Playground",
+    "lat": -37.7422319,
+    "lng": 175.2360944
+  },
+  {
+    "id": "osm-w642334693",
+    "name": "Oakfield Crescent Playground",
+    "lat": -37.7421176,
+    "lng": 175.2362466
+  },
+  {
+    "id": "osm-w642334694",
+    "name": "Oakfield Crescent Playground",
+    "lat": -37.7422011,
+    "lng": 175.236199
+  },
+  {
+    "id": "osm-w642334695",
+    "name": "Oakfield Crescent Playground",
+    "lat": -37.7421968,
+    "lng": 175.2360066
+  },
+  {
+    "id": "osm-w642334696",
+    "name": "Oakfield Crescent Playground",
+    "lat": -37.7420286,
+    "lng": 175.2360891
+  },
+  {
+    "id": "osm-w642334697",
+    "name": "Oakfield Crescent Playground",
+    "lat": -37.7420763,
+    "lng": 175.2359895
+  },
+  {
+    "id": "osm-w642334698",
+    "name": "Minnie Place Playground",
+    "lat": -37.739032,
+    "lng": 175.2355866
+  },
+  {
+    "id": "osm-w642334699",
+    "name": "Minnie Place Playground",
+    "lat": -37.7394288,
+    "lng": 175.2346103
+  },
+  {
+    "id": "osm-w642334728",
+    "name": "Minnie Place Playground",
+    "lat": -37.7393993,
+    "lng": 175.2351298
+  },
+  {
+    "id": "osm-w642334729",
+    "name": "Ashurst Avenue Playground",
+    "lat": -37.7418679,
+    "lng": 175.236151
+  },
+  {
+    "id": "osm-w642334731",
+    "name": "Oakfield Crescent Playground",
+    "lat": -37.7421379,
+    "lng": 175.2361135
+  },
+  {
+    "id": "osm-w642357208",
+    "name": "Hinton Avenue Playground",
+    "lat": -37.7707147,
+    "lng": 175.2565633
+  },
+  {
+    "id": "osm-w642357210",
+    "name": "Hinton Avenue Playground",
+    "lat": -37.7705426,
+    "lng": 175.257633
+  },
+  {
+    "id": "osm-w642357211",
+    "name": "Hinton Avenue Playground",
+    "lat": -37.7706434,
+    "lng": 175.2574513
+  },
+  {
+    "id": "osm-w642357240",
+    "name": "Lake Rotokaeo Playground",
+    "lat": -37.7743982,
+    "lng": 175.2526249
+  },
+  {
+    "id": "osm-w642357255",
+    "name": "Garrick Place Playground",
+    "lat": -37.7646427,
+    "lng": 175.2569294
+  },
+  {
+    "id": "osm-w642357263",
+    "name": "Garnett Avenue Playground",
+    "lat": -37.767835,
+    "lng": 175.2524674
+  },
+  {
+    "id": "osm-w642750088",
+    "name": "Hyde Avenue Playground",
+    "lat": -37.7825009,
+    "lng": 175.2390084
+  },
+  {
+    "id": "osm-w642750091",
+    "name": "Derby Street Playground",
+    "lat": -37.7789296,
+    "lng": 175.2341325
+  },
+  {
+    "id": "osm-w642750094",
+    "name": "Vernall Street Playground",
+    "lat": -37.77881,
+    "lng": 175.2449421
+  },
+  {
+    "id": "osm-w642750110",
+    "name": "Mooney Street Playground",
+    "lat": -37.7676021,
+    "lng": 175.2335969
+  },
+  {
+    "id": "osm-w642750115",
+    "name": "Norman Street Playground",
+    "lat": -37.7789032,
+    "lng": 175.2413184
+  },
+  {
+    "id": "osm-w642750116",
+    "name": "Norman Street Playground",
+    "lat": -37.7792672,
+    "lng": 175.2416021
+  },
+  {
+    "id": "osm-w642750131",
+    "name": "Beatrice Place Playground",
+    "lat": -37.7745664,
+    "lng": 175.2331645
+  },
+  {
+    "id": "osm-w644290304",
+    "name": "Sillary Street Underpass Playground",
+    "lat": -37.805667,
+    "lng": 175.3007391
+  },
+  {
+    "id": "osm-w644591937",
+    "name": "Riverside Walk Playground",
+    "lat": -37.8029766,
+    "lng": 175.2912377
+  },
+  {
+    "id": "osm-w645526124",
+    "name": "Glamis Avenue Playground",
+    "lat": -37.7946987,
+    "lng": 175.2377636
+  },
+  {
+    "id": "osm-w645526139",
+    "name": "Massey Street Playground",
+    "lat": -37.7935803,
+    "lng": 175.2489731
+  },
+  {
+    "id": "osm-w645526141",
+    "name": "Massey Street Playground",
+    "lat": -37.7918084,
+    "lng": 175.2523017
+  },
+  {
+    "id": "osm-w645526151",
+    "name": "Rifle Range Road Playground",
+    "lat": -37.7921472,
+    "lng": 175.2501198
+  },
+  {
+    "id": "osm-w645526155",
+    "name": "Aberdeen Drive Playground",
+    "lat": -37.7886732,
+    "lng": 175.2444155
+  },
+  {
+    "id": "osm-w645526156",
+    "name": "Michael Avenue Playground",
+    "lat": -37.7885028,
+    "lng": 175.2446298
+  },
+  {
+    "id": "osm-w645526157",
+    "name": "Aberdeen Drive Playground",
+    "lat": -37.7886278,
+    "lng": 175.2446058
+  },
+  {
+    "id": "osm-w645526158",
+    "name": "Courtney Avenue Playground",
+    "lat": -37.7882042,
+    "lng": 175.2431538
+  },
+  {
+    "id": "osm-w646648604",
+    "name": "Jeanette Street Playground",
+    "lat": -37.8166429,
+    "lng": 175.2916272
+  },
+  {
+    "id": "osm-w646648767",
+    "name": "Lansdowne Crescent Playground",
+    "lat": -37.8185088,
+    "lng": 175.29857
+  },
+  {
+    "id": "osm-w646696605",
+    "name": "Normandy Avenue Playground",
+    "lat": -37.805769,
+    "lng": 175.2880555
+  },
+  {
+    "id": "osm-w646696606",
+    "name": "Pine Avenue Playground",
+    "lat": -37.8115846,
+    "lng": 175.2901662
+  },
+  {
+    "id": "osm-w649311733",
+    "name": "Baffles Crescent Playground",
+    "lat": -37.789269,
+    "lng": 175.3236758
+  },
+  {
+    "id": "osm-w649311746",
+    "name": "Southsea Crescent Playground",
+    "lat": -37.7874007,
+    "lng": 175.3332456
+  },
+  {
+    "id": "osm-w649823157",
+    "name": "Northolt Road Playground",
+    "lat": -37.7659015,
+    "lng": 175.3078187
+  },
+  {
+    "id": "osm-w649823158",
+    "name": "Raymond Street Playground",
+    "lat": -37.7615876,
+    "lng": 175.3050052
+  },
+  {
+    "id": "osm-w650419184",
+    "name": "Herbert Road Playground",
+    "lat": -37.7514189,
+    "lng": 175.2709403
+  },
+  {
+    "id": "osm-w650419186",
+    "name": "Herbert Road Playground",
+    "lat": -37.7513223,
+    "lng": 175.270993
+  },
+  {
+    "id": "osm-w650419226",
+    "name": "Halifax Street Playground",
+    "lat": -37.7733684,
+    "lng": 175.2981392
+  },
+  {
+    "id": "osm-w650419249",
+    "name": "Bailey Avenue Playground",
+    "lat": -37.7750449,
+    "lng": 175.2988794
+  },
+  {
+    "id": "osm-w650419271",
+    "name": "Bellmont Avenue Playground",
+    "lat": -37.753886,
+    "lng": 175.2773532
+  },
+  {
+    "id": "osm-w650453966",
+    "name": "Merlot Place Playground",
+    "lat": -37.7340028,
+    "lng": 175.2752006
+  },
+  {
+    "id": "osm-w650855648",
+    "name": "Saint Joseph's Play Area",
+    "lat": -37.7676041,
+    "lng": 175.2744202
+  },
+  {
+    "id": "osm-w650855649",
+    "name": "Woodstock School Play Area",
+    "lat": -37.7682049,
+    "lng": 175.2741453
+  },
+  {
+    "id": "osm-w650862130",
+    "name": "Oxford Street Playground",
+    "lat": -37.7703759,
+    "lng": 175.287824
+  },
+  {
+    "id": "osm-w651328557",
+    "name": "Churchill Avenue Playground",
+    "lat": -37.7780473,
+    "lng": 175.26111
+  },
+  {
+    "id": "osm-w678976545",
+    "name": "Capper Crescent Playground",
+    "lat": -37.751633,
+    "lng": 175.2965383
+  },
+  {
+    "id": "osm-w683645648",
+    "name": "Playground",
+    "lat": -37.7761725,
+    "lng": 175.3076235
+  },
+  {
+    "id": "osm-w800570363",
+    "name": "Steele Park Playground",
+    "lat": -37.7938139,
+    "lng": 175.2938103
+  },
+  {
+    "id": "osm-w909192480",
+    "name": "Cabourne Drive Playground",
+    "lat": -37.8226965,
+    "lng": 175.3013628
+  },
+  {
+    "id": "osm-w991592610",
+    "name": "Te Huia Playground",
+    "lat": -37.7304452,
+    "lng": 175.2410612
+  },
+  {
+    "id": "osm-w1020716146",
+    "name": "Olwyn Green Playground",
+    "lat": -37.786126,
+    "lng": 175.2487943
+  },
+  {
+    "id": "osm-w1147307052",
+    "name": "Fairfield Road Playground",
+    "lat": -37.7694981,
+    "lng": 175.2739012
+  },
+  {
+    "id": "osm-w1153612980",
+    "name": "Darjon Drive Playground",
+    "lat": -37.7442904,
+    "lng": 175.2889717
+  },
+  {
+    "id": "osm-w1162916249",
+    "name": "Thomas Road Playground",
+    "lat": -37.7311259,
+    "lng": 175.2650592
+  },
+  {
+    "id": "osm-w1169189647",
+    "name": "Morris Road Playground",
+    "lat": -37.796515,
+    "lng": 175.3268483
+  },
+  {
+    "id": "osm-w1195272733",
+    "name": "Edinburgh Road Playground",
+    "lat": -37.7941619,
+    "lng": 175.313406
+  },
+  {
+    "id": "osm-w1195272755",
+    "name": "Normandy Avenue Playground",
+    "lat": -37.8073871,
+    "lng": 175.2867426
+  },
+  {
+    "id": "osm-w1195272759",
+    "name": "Normandy Avenue Playground",
+    "lat": -37.8074912,
+    "lng": 175.2867423
+  },
+  {
+    "id": "osm-w1201197183",
+    "name": "Lake Domain Drive Playground",
+    "lat": -37.7998017,
+    "lng": 175.2716812
+  },
+  {
+    "id": "osm-w1204641277",
+    "name": "Couldsack Avenue Playground",
+    "lat": -37.7522795,
+    "lng": 175.3017713
+  },
+  {
+    "id": "osm-w1204641284",
+    "name": "Keyes Street Playground",
+    "lat": -37.7500027,
+    "lng": 175.3007856
+  },
+  {
+    "id": "osm-w1232813039",
+    "name": "Clarkin Road Playground",
+    "lat": -37.7645172,
+    "lng": 175.2826733
+  },
+  {
+    "id": "osm-w1279808383",
+    "name": "Grandview Road Playground",
+    "lat": -37.7912599,
+    "lng": 175.2296886
+  },
+  {
+    "id": "osm-w1279808384",
+    "name": "Grandview Road Playground",
+    "lat": -37.7912743,
+    "lng": 175.2298169
+  },
+  {
+    "id": "osm-w1279808385",
+    "name": "Grandview Road Playground",
+    "lat": -37.7914042,
+    "lng": 175.2297966
+  },
+  {
+    "id": "osm-w1312495394",
+    "name": "Lake Crescent Playground",
+    "lat": -37.7999479,
+    "lng": 175.2718477
+  },
+  {
+    "id": "osm-w1319003019",
+    "name": "Destination Playground",
+    "lat": -37.72214,
+    "lng": 175.2403837
+  },
+  {
+    "id": "osm-w1319003023",
+    "name": "Lake Playground",
+    "lat": -37.7987727,
+    "lng": 175.2793553
+  },
+  {
+    "id": "osm-w1324700041",
+    "name": "Hillcrest Stadium Playground",
+    "lat": -37.7973425,
+    "lng": 175.3100253
+  },
+  {
+    "id": "osm-w1369581296",
+    "name": "Borman Road Playground",
+    "lat": -37.7205584,
+    "lng": 175.2398071
+  },
+  {
+    "id": "osm-w1369581312",
+    "name": "Hare Puke Drive Playground",
+    "lat": -37.7209373,
+    "lng": 175.2399366
+  },
+  {
+    "id": "osm-w1388952395",
+    "name": "McKay Drive Playground",
+    "lat": -37.8205643,
+    "lng": 175.2199064
+  },
+  {
+    "id": "osm-w1421051594",
+    "name": "Rototuna Village Playground",
+    "lat": -37.7205204,
+    "lng": 175.2594087
+  },
+  {
+    "id": "osm-w1446652368",
+    "name": "Rototuna Village Playground",
+    "lat": -37.7204325,
+    "lng": 175.2592622
+  },
+  {
+    "id": "osm-w1458690113",
+    "name": "Bankwood Road Playground",
+    "lat": -37.7543831,
+    "lng": 175.2767224
+  },
+  {
+    "id": "osm-w1460205336",
+    "name": "Milburn Lane Playground",
+    "lat": -37.8016935,
+    "lng": 175.3202069
+  },
+  {
+    "id": "osm-w1462473262",
+    "name": "Meachem Road Playground",
+    "lat": -37.7476811,
+    "lng": 175.2982388
+  },
+  {
+    "id": "osm-w1462484657",
+    "name": "Medland Place Playground",
+    "lat": -37.7515355,
+    "lng": 175.2981513
+  },
+  {
+    "id": "osm-w1462484659",
+    "name": "Lulu Avenue Playground",
+    "lat": -37.7496384,
+    "lng": 175.2956347
+  }
+]
