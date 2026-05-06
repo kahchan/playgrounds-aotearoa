@@ -1,16 +1,22 @@
 import { useEffect, useState } from 'react'
 import type { Playground } from './types'
-import { CITIES } from './cities'
+import type { City } from './cities'
+import { useCity } from './hooks/useCity'
 import { useDarkMode } from './hooks/useDarkMode'
 import { useRoute } from './hooks/useRoute'
 import MapView from './components/MapView'
 import Wordmark from './components/Wordmark'
 import Sidebar from './components/Sidebar'
+import Landing from './components/Landing'
 import styles from './App.module.css'
 
-const city = CITIES[0]
-
 export default function App() {
+  const city = useCity()
+  if (!city) return <Landing />
+  return <CityMap key={city.slug} city={city} />
+}
+
+function CityMap({ city }: { city: City }) {
   const [playgrounds, setPlaygrounds] = useState<Playground[]>([])
   const { mapTheme, dark, toggleDark, toggleSatellite, satellite } = useDarkMode()
   const [selected, setSelected] = useState<Playground | null>(null)
@@ -32,7 +38,7 @@ export default function App() {
       .then((r) => r.json())
       .then((data: Playground[]) => setPlaygrounds(data))
       .catch((err) => console.error('Failed to load playgrounds:', err))
-  }, [])
+  }, [city.dataPath])
 
   const {
     mode: routeMode,
@@ -81,6 +87,7 @@ export default function App() {
         zoom={city.zoom}
       />
       <Wordmark
+        city={city}
         total={playgrounds.length}
         onToggleSidebar={() => setSidebarOpen((o) => !o)}
       />

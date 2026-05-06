@@ -1,0 +1,123 @@
+.page {
+  width: 100%;
+  height: 100%;
+  background: var(--color-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.content {
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* Stacked pill wordmark */
+.wordmark {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.wordmarkTop {
+  background: var(--color-teal);
+  color: var(--color-bg);
+  padding: 0.3rem 0.75rem;
+  border-radius: 7px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  transform: rotate(-2deg);
+  position: relative;
+  z-index: 1;
+  white-space: nowrap;
+}
+
+.wordmarkBottom {
+  background: var(--color-pink);
+  color: #ffffff;
+  padding: 0.35rem 0.8rem;
+  border-radius: 7px;
+  font-size: 1.1rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  transform: rotate(1.5deg);
+  margin-top: -6px;
+  position: relative;
+  z-index: 2;
+  white-space: nowrap;
+}
+
+.blurb {
+  font-size: clamp(13px, 1.2vw, 15px);
+  line-height: 1.65;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+  max-width: 46ch;
+}
+
+.byline {
+  font-size: clamp(11px, 1vw, 13px);
+  line-height: 1.5;
+  color: var(--color-muted);
+  margin-bottom: 1.25rem;
+}
+
+.byline a {
+  color: inherit;
+  text-underline-offset: 3px;
+}
+
+.byline a:hover {
+  color: var(--color-text);
+}
+
+.divider {
+  border-top: 1px solid var(--color-border);
+  margin-bottom: 1.25rem;
+}
+
+/* City cards */
+.cities {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.cityCard {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 25px;
+  padding: 0.45rem 0.85rem;
+  cursor: pointer;
+  font-family: inherit;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.cityCard:hover {
+  border-color: var(--color-teal-border);
+  background: var(--color-teal-dim);
+}
+
+.cityName {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.cityCount {
+  font-size: 0.7rem;
+  color: var(--color-muted);
+  font-variant-numeric: tabular-nums;
+  background: var(--color-surface-2);
+  border-radius: 25px;
+  padding: 0.1em 0.45em;
+}
