@@ -1,1 +1,2242 @@
-[{"id": "ac-21270-927", "name": "Wai-O-Taiki Nature Reserve", "lat": -36.8718868502648, "lng": 174.877546980703, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10236-930", "name": "Parnell Salt Water Baths", "lat": -36.8492251299375, "lng": 174.7916705809, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10441-942", "name": "Michaels Avenue Reserve", "lat": -36.894287593224, "lng": 174.818060636567, "suburb": "Orakei", "source": "ac"}, {"id": "ac-22487-945", "name": "Dalmatia Green", "lat": -36.8988942513563, "lng": 174.626575500222, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10197-963", "name": "Elstree North Reserve", "lat": -36.8743282180195, "lng": 174.867763368124, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21220-967", "name": "Emerald Valley Park", "lat": -36.8389601503057, "lng": 174.606204358924, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21644-968", "name": "Dickey Reserve", "lat": -36.9056442200994, "lng": 174.714551752019, "suburb": "Whau", "source": "ac"}, {"id": "ac-11374-969", "name": "Triangle Park", "lat": -36.8361957736522, "lng": 174.602858960359, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10396-971", "name": "Mt Albert War Memorial Reserve", "lat": -36.8781449395273, "lng": 174.724685873636, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-20886-976", "name": "Lone Tree Park", "lat": -36.8455412607687, "lng": 174.653351048821, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11369-980", "name": "Titirangi Beach", "lat": -36.9510104376643, "lng": 174.658806182096, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11342-987", "name": "Riverpark Reserve", "lat": -36.8560598789762, "lng": 174.618114398144, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22484-988", "name": "Cutler Reserve", "lat": -36.9226768436451, "lng": 174.68458235115, "suburb": "Whau", "source": "ac"}, {"id": "ac-11381-989", "name": "Glen Norman Reserve", "lat": -36.8644482649441, "lng": 174.622343156284, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22563-995", "name": "St Margarets Park", "lat": -36.8196389441129, "lng": 174.620426097051, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22574-996", "name": "Taitapu Park", "lat": -36.842654022296, "lng": 174.628600541038, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21660-1003", "name": "Fonteyn Reserve", "lat": -36.8878286263467, "lng": 174.681113185934, "suburb": "Whau", "source": "ac"}, {"id": "ac-11460-1004", "name": "Tui Glen Reserve", "lat": -36.8748850205682, "lng": 174.636300226528, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20636-1006", "name": "Martin Jugum Reserve", "lat": -36.8670420210594, "lng": 174.610634935038, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21116-1007", "name": "Glendene Reserve", "lat": -36.8894258690724, "lng": 174.650437910791, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11367-1010", "name": "Fairdene Reserve", "lat": -36.8647770738197, "lng": 174.625822202034, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-23367-1011", "name": "Babich Reserve", "lat": -36.8732187616775, "lng": 174.603478661193, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10034-1015", "name": "Mt Roskill War Memorial Park", "lat": -36.9006813676456, "lng": 174.731258810878, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21571-1016", "name": "Swainston Reserve", "lat": -36.8778067482743, "lng": 174.846256674753, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10056-1017", "name": "Ellerslie Domain", "lat": -36.8985332995842, "lng": 174.813300035844, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10343-1018", "name": "Pollard Park", "lat": -36.8956278607479, "lng": 174.748815413346, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10116-1020", "name": "Little Rangitoto Reserve", "lat": -36.8753181077451, "lng": 174.809392256646, "suburb": "Orakei", "source": "ac"}, {"id": "ac-22672-1021", "name": "Alan Reserve", "lat": -36.8637794895063, "lng": 174.617712369665, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20823-1022", "name": "Taylors Bay Road Reserve", "lat": -36.9290910087209, "lng": 174.759572602103, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21173-1023", "name": "Braemar Reserve", "lat": -36.8816982502165, "lng": 174.713333804124, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21408-1024", "name": "Home Reserve", "lat": -36.866326007671, "lng": 174.746564639201, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21444-1027", "name": "Tirotai Reserve", "lat": -36.8543289716271, "lng": 174.716010427618, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21011-1028", "name": "Costley Reserve", "lat": -36.8493901436109, "lng": 174.746149402849, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10213-1029", "name": "Jordan Park", "lat": -36.9158530487713, "lng": 174.787569098504, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21188-1030", "name": "Watling Reserve", "lat": -36.8950359910101, "lng": 174.761798453508, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10373-1031", "name": "Savage Park", "lat": -36.9128000008485, "lng": 174.837226793764, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10155-1032", "name": "Grey Lynn Park", "lat": -36.8616198873017, "lng": 174.741484557077, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10389-1034", "name": "Gribblehirst Park", "lat": -36.8796909454401, "lng": 174.738656089477, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10387-1035", "name": "Pt Erin Park", "lat": -36.8393695333357, "lng": 174.741174296748, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10219-1036", "name": "Anderson Park", "lat": -36.8922796413913, "lng": 174.708656446346, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-20930-1037", "name": "Virginia Reserve", "lat": -36.8646029731496, "lng": 174.754406043556, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10395-1049", "name": "Newmarket Park", "lat": -36.8644376770555, "lng": 174.784135880862, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10351-1050", "name": "Owairaka Park", "lat": -36.8953336705726, "lng": 174.722721477178, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21481-1051", "name": "Buchanan Park", "lat": -36.9208372858306, "lng": 174.79273559116, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-20509-1061", "name": "Kelvin Strand", "lat": -36.8277797945473, "lng": 174.653745306729, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11335-1070", "name": "Parrs Park", "lat": -36.9063860867688, "lng": 174.628355095576, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-21521-1077", "name": "Shipton Reserve", "lat": -36.9239588272362, "lng": 174.710058295069, "suburb": "Whau", "source": "ac"}, {"id": "ac-21692-1078", "name": "Henry Reserve", "lat": -36.8914347888892, "lng": 174.697949744845, "suburb": "Whau", "source": "ac"}, {"id": "ac-20532-1085", "name": "Robert Knox Memorial Park", "lat": -36.8652254120515, "lng": 174.574906470765, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22052-1089", "name": "Rhinevale Close", "lat": -36.8860806156305, "lng": 174.616548895401, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11346-1092", "name": "Sister Rene Shadbolt Park", "lat": -36.9211617771162, "lng": 174.691625329673, "suburb": "Whau", "source": "ac"}, {"id": "ac-20506-1096", "name": "Kelman Square", "lat": -36.9033207572011, "lng": 174.662082834201, "suburb": "Whau", "source": "ac"}, {"id": "ac-22018-1099", "name": "Urlich Esplanade Reserve", "lat": -36.8612391776396, "lng": 174.595103473635, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22048-1100", "name": "Reynella Reserve", "lat": -36.8429252520546, "lng": 174.608548940772, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21423-1107", "name": "Laingholm Reserve", "lat": -36.9667789915085, "lng": 174.64080724701, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11385-1109", "name": "Kaurilands Domain", "lat": -36.9232543740493, "lng": 174.654401310681, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11455-1110", "name": "Barron Green", "lat": -36.9316229004747, "lng": 174.678911885585, "suburb": "Whau", "source": "ac"}, {"id": "ac-22645-1111", "name": "Birdwood Park", "lat": -36.8579819127967, "lng": 174.596868908477, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11430-1118", "name": "Brains Park", "lat": -36.8959001663885, "lng": 174.664055770714, "suburb": "Whau", "source": "ac"}, {"id": "ac-21245-1120", "name": "Featherstone Park", "lat": -36.8710927469835, "lng": 174.621057009919, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21321-1132", "name": "Xena Park", "lat": -36.8835514169609, "lng": 174.60508651824, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11432-1133", "name": "Awaroa Park", "lat": -36.8971327092134, "lng": 174.645287858979, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10368-1135", "name": "Blockhouse Bay Recreation Res", "lat": -36.9206040451161, "lng": 174.70714016137, "suburb": "Whau", "source": "ac"}, {"id": "ac-22675-1138", "name": "Annison Green", "lat": -36.9257895387293, "lng": 174.642010525891, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22068-1139", "name": "Royal Heights Park", "lat": -36.8324624175688, "lng": 174.623533141996, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11482-1140", "name": "Olympic Park", "lat": -36.9089882588079, "lng": 174.690463869449, "suburb": "Whau", "source": "ac"}, {"id": "ac-10247-1156", "name": "Orchard Reserve - Avondale", "lat": -36.8900283828564, "lng": 174.680658043671, "suburb": "Whau", "source": "ac"}, {"id": "ac-20513-1157", "name": "Kemp Park", "lat": -36.8346534885925, "lng": 174.614543726171, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10391-1160", "name": "Blockhouse Bay Beach Reserve", "lat": -36.930347587547, "lng": 174.700572447738, "suburb": "Whau", "source": "ac"}, {"id": "ac-22106-1162", "name": "Sarajevo Reserve", "lat": -36.8476367627126, "lng": 174.617457157081, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21295-1165", "name": "Flaunty Reserve", "lat": -36.8206376878165, "lng": 174.622522433411, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20883-1171", "name": "Marlene Glade", "lat": -36.8587520822046, "lng": 174.64602872998, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11431-1177", "name": "Bruce Mclaren Memorial Park", "lat": -36.8981207471007, "lng": 174.62092140759, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11338-1182", "name": "Patts Reserve", "lat": -36.8939445117814, "lng": 174.655079021112, "suburb": "Whau", "source": "ac"}, {"id": "ac-24050-1188", "name": "Trusts Esplanade Reserve", "lat": -36.8612384687706, "lng": 174.63702486494, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21167-1190", "name": "Hart Domain", "lat": -36.8845424445108, "lng": 174.634350424004, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22014-1192", "name": "Zita Maria Park", "lat": -36.848322646955, "lng": 174.612994872919, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21962-1196", "name": "Blueridge Reserve", "lat": -36.8932508294097, "lng": 174.637031298426, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21093-1199", "name": "Wakeling Park", "lat": -36.8666412882177, "lng": 174.649155225447, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10365-1201", "name": "Keith Hay Park", "lat": -36.9175853143347, "lng": 174.742836030372, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-11330-1204", "name": "Township Park", "lat": -36.8489199590598, "lng": 174.544051511471, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11485-1206", "name": "Opanuku Reserve", "lat": -36.8789273076416, "lng": 174.629328199767, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21975-1208", "name": "Paremuka Lakeside", "lat": -36.8731399613574, "lng": 174.615210058408, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11368-1209", "name": "Durham Green", "lat": -36.8366834611375, "lng": 174.653406699914, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22554-1210", "name": "Takaranga Reserve", "lat": -36.973456734144, "lng": 174.61734994183, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22131-1218", "name": "San Bernadino Reserve", "lat": -36.88847270408, "lng": 174.609675804128, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11417-1221", "name": "La Rosa Garden Reserve", "lat": -36.9302350726662, "lng": 174.675756556972, "suburb": "Whau", "source": "ac"}, {"id": "ac-11389-1223", "name": "Kaikoura Reserve", "lat": -36.8914432283987, "lng": 174.641594533162, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11350-1230", "name": "Swanson Station Park", "lat": -36.8657107890379, "lng": 174.57504923128, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22527-1232", "name": "Corran Reserve", "lat": -36.8622403838033, "lng": 174.602893724463, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11401-1238", "name": "Taipari Strand", "lat": -36.8374627130583, "lng": 174.638337125585, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22674-1239", "name": "Ambrico Reserve", "lat": -36.9115463547576, "lng": 174.680672970437, "suburb": "Whau", "source": "ac"}, {"id": "ac-21649-1240", "name": "Brydon Place Reserve", "lat": -36.9001533315737, "lng": 174.709348524646, "suburb": "Whau", "source": "ac"}, {"id": "ac-23106-1243", "name": "Torino Reserve", "lat": -36.8887565371348, "lng": 174.863678003776, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10058-1244", "name": "Tin Tacks Reserve", "lat": -36.9157006268426, "lng": 174.78477765663, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21390-1245", "name": "Tole Reserve", "lat": -36.8509771366663, "lng": 174.740844179496, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10072-1246", "name": "Streetscape - Maungakiekie-Tamaki", "lat": -36.8986979921354, "lng": 174.853741690122, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-20987-1247", "name": "Ireland Reserve", "lat": -36.8504557710287, "lng": 174.748976746232, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21194-1248", "name": "Cliff Face Park", "lat": -36.8889278305102, "lng": 174.839535025014, "suburb": "Orakei", "source": "ac"}, {"id": "ac-21157-1249", "name": "Harwood Reserve", "lat": -36.8948541137201, "lng": 174.738109435006, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10239-1250", "name": "Thompson Park", "lat": -36.8997147014785, "lng": 174.833291912162, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-23116-1252", "name": "Pallister Reserve", "lat": -36.9252802988041, "lng": 174.760463703443, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-20959-1254", "name": "Bannerman Reserve", "lat": -36.8715573240823, "lng": 174.733009360896, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10274-1255", "name": "Waiatarau/Freemans Bay Park", "lat": -36.8528486939995, "lng": 174.751089889324, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-22010-1256", "name": "Foothills Lane Reserve", "lat": -36.9245137564613, "lng": 174.634525833969, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-23084-1257", "name": "Bonnie Brae Reserve", "lat": -36.8715768587608, "lng": 174.821569669678, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10255-1258", "name": "School Reserve", "lat": -36.872930822786, "lng": 174.737899440116, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10360-1259", "name": "Sandringham Community Centre", "lat": -36.8921001132087, "lng": 174.735168322948, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-20865-1260", "name": "Arthur S Richards Memorial Park", "lat": -36.9030210454216, "lng": 174.749148368012, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21322-1261", "name": "Hobson Reserve", "lat": -36.8927436378251, "lng": 174.859160946414, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-20955-1263", "name": "Sackville Reserve", "lat": -36.8554444782963, "lng": 174.734491854871, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21303-1264", "name": "West Tamaki Reserve", "lat": -36.8695364294003, "lng": 174.870887166467, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10244-1265", "name": "Buckley Road Reserve", "lat": -36.9078008787833, "lng": 174.764406410282, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-10020-1267", "name": "Panmure Basin/Peterson Reserve", "lat": -36.9083562631975, "lng": 174.848757438819, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21015-1268", "name": "Bellevue Reserve", "lat": -36.8738618624312, "lng": 174.75279352378, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10178-1269", "name": "Centennial Park", "lat": -36.8933192636485, "lng": 174.749718066008, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-20947-1271", "name": "St Marys Reserve", "lat": -36.8469623061469, "lng": 174.745252867352, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21330-1272", "name": "Alcock & Lavas Reserves", "lat": -36.9047023348526, "lng": 174.831344643602, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-23056-1273", "name": "Moira Reserve", "lat": -36.8530678700564, "lng": 174.736705963456, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-23971-1274", "name": "Playtime Park", "lat": -36.8887449161707, "lng": 174.843643580637, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10407-1275", "name": "Mt Wellington War Memorial Reserve", "lat": -36.9008008582722, "lng": 174.865475995078, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-23058-1276", "name": "Moa Reserve", "lat": -36.8639514184099, "lng": 174.711853059454, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10266-1277", "name": "Omaru Recreation Reserve", "lat": -36.8829303398155, "lng": 174.872296895753, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21190-1278", "name": "Bluestone Park", "lat": -36.8858235258458, "lng": 174.839056750285, "suburb": "Orakei", "source": "ac"}, {"id": "ac-21196-1279", "name": "Taylors Park", "lat": -36.8849566000604, "lng": 174.752418308485, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10394-1281", "name": "Fowlds Park", "lat": -36.873295759737, "lng": 174.726725015379, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10218-1282", "name": "Glover Park", "lat": -36.8476536065779, "lng": 174.866283101061, "suburb": "Orakei", "source": "ac"}, {"id": "ac-21866-1283", "name": "St Heliers Bay Beach Reserve", "lat": -36.8495200622317, "lng": 174.859386596597, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10377-1284", "name": "Arthur Faulkner Reserve", "lat": -36.8971889159374, "lng": 174.739916642669, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21400-1285", "name": "Brown Reserve", "lat": -36.8564982682177, "lng": 174.745506562693, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10065-1286", "name": "Murray Halberg Park", "lat": -36.8959793546116, "lng": 174.713782341373, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21181-1287", "name": "Monkey Hill", "lat": -36.8723248314241, "lng": 174.749197494831, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10312-1288", "name": "Sandringham Reserve", "lat": -36.8929510172639, "lng": 174.736782017376, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21543-1289", "name": "Wairaki Stream Reserve", "lat": -36.9265279406001, "lng": 174.712130038278, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21153-1290", "name": "Essex Road Reserve", "lat": -36.882124699445, "lng": 174.761342091703, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-11435-1293", "name": "Te Atatu Peninsula Park", "lat": -36.839113521483, "lng": 174.645603575064, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10063-1306", "name": "Roberta Reserve", "lat": -36.8628640796781, "lng": 174.878489256533, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10029-1307", "name": "Rutherford Reserve", "lat": -36.870441172044, "lng": 174.83543012609, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10321-1308", "name": "Eric Armishaw Park", "lat": -36.8692709712054, "lng": 174.697453362518, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-20708-1309", "name": "Kotuku Reserve", "lat": -36.8837507053359, "lng": 174.857237528764, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-20939-1310", "name": "Robinson Reserve", "lat": -36.9050788856871, "lng": 174.751991058923, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-10200-1311", "name": "Victoria Park", "lat": -36.8478877094339, "lng": 174.755133029747, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10050-1313", "name": "Coyle Park", "lat": -36.852078644795, "lng": 174.704834406056, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10362-1314", "name": "Maungakiekie/One Tree Hill", "lat": -36.905973419396, "lng": 174.775778545889, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21145-1315", "name": "Edenvale Park", "lat": -36.8705819848927, "lng": 174.755889246447, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10250-1317", "name": "Waikowhai Park", "lat": -36.9334396443571, "lng": 174.735296712524, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21133-1318", "name": "Taumata Reserve", "lat": -36.8945171656981, "lng": 174.732082796066, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10265-1319", "name": "Coxs Bay Reserve", "lat": -36.8524727354866, "lng": 174.724983928856, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-20894-1324", "name": "Turner Reserve", "lat": -36.9136467065706, "lng": 174.732042733082, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-10304-1351", "name": "Salisbury Reserve", "lat": -36.8449568237125, "lng": 174.732392168584, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10408-1353", "name": "Crossfield Reserve", "lat": -36.8644137963181, "lng": 174.867446967573, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10288-1354", "name": "Waterview Reserve", "lat": -36.8754899733892, "lng": 174.701526112986, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21383-1356", "name": "Kuaka Park", "lat": -36.8770294194207, "lng": 174.698640103325, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10317-1357", "name": "Massey Reserve", "lat": -36.8987503118395, "lng": 174.798522423607, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10000-1358", "name": "Francis Reserve", "lat": -36.8594633648258, "lng": 174.729048822601, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10277-1359", "name": "Myers Park", "lat": -36.8551574021477, "lng": 174.761218864875, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21523-1360", "name": "Flat Rock Reserve", "lat": -36.9287390702444, "lng": 174.854159272035, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-11420-1361", "name": "Starling Park", "lat": -36.859560606309, "lng": 174.603217301541, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-23096-1362", "name": "Kupe North Reserve", "lat": -36.8565491964878, "lng": 174.824818211593, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10144-1363", "name": "Grey Lynn Community Centre", "lat": -36.859635644339, "lng": 174.733133919318, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21673-1364", "name": "Dallas Reserve", "lat": -36.9110425930893, "lng": 174.716303317123, "suburb": "Whau", "source": "ac"}, {"id": "ac-21705-1372", "name": "Otahuhu/Mt Richmond", "lat": -36.9321682140135, "lng": 174.841744697476, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-20949-1391", "name": "Olive Grove", "lat": -36.9101207140586, "lng": 174.64557740237, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11418-1393", "name": "Lawson Park", "lat": -36.9182290710486, "lng": 174.675193117525, "suburb": "Whau", "source": "ac"}, {"id": "ac-21794-1394", "name": "Shore Road Reserve", "lat": -36.8645570234544, "lng": 174.791118363602, "suburb": "Orakei", "source": "ac"}, {"id": "ac-20841-1403", "name": "Kensington Gardens", "lat": -36.8921562682645, "lng": 174.605921996174, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11490-1404", "name": "Mason Park", "lat": -36.9108119870771, "lng": 174.66807723973, "suburb": "Whau", "source": "ac"}, {"id": "ac-11391-1411", "name": "Henderson Valley Park", "lat": -36.8952769915244, "lng": 174.616610408866, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22531-1414", "name": "Starforth Reserve", "lat": -36.9007698093163, "lng": 174.619880655756, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11395-1416", "name": "Corban Reserve", "lat": -36.8952603372081, "lng": 174.623648663674, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21792-1423", "name": "Gus Nola Park", "lat": -36.8805938393359, "lng": 174.610698469354, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21281-1426", "name": "Gallony Park", "lat": -36.8404164166168, "lng": 174.60462459242, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20502-1428", "name": "Lockington Green", "lat": -36.8732411664971, "lng": 174.619082883788, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22516-1429", "name": "Spargo Reserve", "lat": -36.832408099232, "lng": 174.636432578279, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20605-1430", "name": "Huia Domain", "lat": -36.9992145728169, "lng": 174.570033202439, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-21817-1438", "name": "Murillo Reserve", "lat": -36.8908063060051, "lng": 174.619752235511, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21677-1444", "name": "Taramea Reserve", "lat": -36.8905903104646, "lng": 174.685067283212, "suburb": "Whau", "source": "ac"}, {"id": "ac-11469-1447", "name": "Harold Moody Reserve Duck Park", "lat": -36.9122312216016, "lng": 174.648686965374, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22577-1454", "name": "Tamariki Reserve", "lat": -36.9600996268183, "lng": 174.649088845916, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-10269-1459", "name": "Fergusson Domain", "lat": -36.9109919696231, "lng": 174.799261339913, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10444-1460", "name": "Nicholson Park", "lat": -36.8850292808583, "lng": 174.763972834783, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21348-1461", "name": "Horsham Reserve", "lat": -36.8955556631189, "lng": 174.824952819349, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21137-1462", "name": "John Moore Reserve", "lat": -36.9086585850349, "lng": 174.74704273911, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21379-1463", "name": "Fairlands Reserve", "lat": -36.8831259301682, "lng": 174.69582575832, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-23103-1464", "name": "Fong Reserve", "lat": -36.9159869504936, "lng": 174.798764643261, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10381-1465", "name": "Margaret Griffen Park", "lat": -36.921258311893, "lng": 174.721325115006, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-10211-1466", "name": "Lynfield Reserve", "lat": -36.9267636499814, "lng": 174.722366453992, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21396-1468", "name": "Vermont Reserve", "lat": -36.8537832063962, "lng": 174.739828670098, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-21177-1470", "name": "Stranolar Reserve", "lat": -36.926546852161, "lng": 174.731457194588, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-21077-1471", "name": "Harbutt Reserve", "lat": -36.8878911621504, "lng": 174.705678260083, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10271-1472", "name": "Riverside Community Centre", "lat": -36.926247753257, "lng": 174.857186502757, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-20869-1473", "name": "Aitken Reserve", "lat": -36.8676302989603, "lng": 174.752039393443, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10415-1475", "name": "Melville Park", "lat": -36.8860317146303, "lng": 174.768066193762, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21081-1476", "name": "Quona Reserve", "lat": -36.9297419057687, "lng": 174.738683731114, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-23080-1478", "name": "Celtic Crescent Reserve", "lat": -36.8902699796505, "lng": 174.822267488622, "suburb": "Orakei", "source": "ac"}, {"id": "ac-21806-1479", "name": "Wharua Reserve", "lat": -36.867766887271, "lng": 174.793947707302, "suburb": "Orakei", "source": "ac"}, {"id": "ac-20877-1480", "name": "Delphine Park", "lat": -36.8959076406102, "lng": 174.725174319015, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10048-1488", "name": "Heron Park", "lat": -36.8859884615642, "lng": 174.698884321419, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21416-1489", "name": "Premier Reserve", "lat": -36.8667658852489, "lng": 174.715471128404, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10151-1490", "name": "Nixon Park", "lat": -36.8700422062553, "lng": 174.746041488881, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10253-1491", "name": "Waiatarua Reserve (Remuera)", "lat": -36.8860545430072, "lng": 174.820673366462, "suburb": "Orakei", "source": "ac"}, {"id": "ac-21561-1492", "name": "Ruka Reserve", "lat": -36.8775758054235, "lng": 174.838905048494, "suburb": "Orakei", "source": "ac"}, {"id": "ac-21803-1494", "name": "Wairua Reserve", "lat": -36.8830922934167, "lng": 174.805216493839, "suburb": "Orakei", "source": "ac"}, {"id": "ac-21004-1500", "name": "Sainsbury Reserve", "lat": -36.8789541235619, "lng": 174.734458665417, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10361-1517", "name": "Patteson Reserve", "lat": -36.8559875599911, "lng": 174.829554569692, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10424-1518", "name": "Madills Farm Recreation Reserve", "lat": -36.8584499433532, "lng": 174.845183237687, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10241-1520", "name": "Konini Reserve", "lat": -36.9006484602407, "lng": 174.802316494434, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10286-1521", "name": "Potters Park", "lat": -36.8868137935925, "lng": 174.748631144783, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-10356-1522", "name": "Western Park - Freemans Bay", "lat": -36.8551338062908, "lng": 174.752551674495, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10179-1523", "name": "Maungawhau/Mount Eden", "lat": -36.8721056031135, "lng": 174.762944722209, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-24890-1524", "name": "St Peters Onehunga", "lat": -36.9224379735625, "lng": 174.78458409695, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-22482-1529", "name": "Crum Park", "lat": -36.9293972111559, "lng": 174.665216457986, "suburb": "Whau", "source": "ac"}, {"id": "ac-22639-1531", "name": "Bridge Avenue Reserve", "lat": -36.8606722844543, "lng": 174.655260830338, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20706-1536", "name": "Mcclintock Reserve", "lat": -36.835272304706, "lng": 174.605954045571, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22560-1538", "name": "Semillon Reserve", "lat": -36.8778887855189, "lng": 174.61484498325, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21877-1540", "name": "Onedin Green", "lat": -36.9262412311005, "lng": 174.647483308054, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-20716-1541", "name": "Mckinley Park", "lat": -36.8997141114893, "lng": 174.638223881324, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20876-1543", "name": "Manutewhau Walk", "lat": -36.823968651711, "lng": 174.622023366792, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11438-1544", "name": "Marinich Reserve", "lat": -36.8654929034435, "lng": 174.606150925024, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22578-1546", "name": "Tangiwai Reserve", "lat": -36.9489789655861, "lng": 174.641566198104, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22637-1547", "name": "Barrys Reserve", "lat": -36.8843877836234, "lng": 174.656845364563, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22495-1548", "name": "Don Buck Corner", "lat": -36.8585211114918, "lng": 174.608860657292, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21063-1558", "name": "Wood Bay Reserve", "lat": -36.9439874370202, "lng": 174.664667114014, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22537-1567", "name": "Tatyana Park", "lat": -36.8339679292634, "lng": 174.627695970999, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10107-1569", "name": "Eastdale Reserve", "lat": -36.8861931057907, "lng": 174.68823108921, "suburb": "Whau", "source": "ac"}, {"id": "ac-10431-1572", "name": "Craigavon Park", "lat": -36.9280679178809, "lng": 174.68979458066, "suburb": "Whau", "source": "ac"}, {"id": "ac-23078-1574", "name": "Old Mill Reserve", "lat": -36.8606040799388, "lng": 174.722261790759, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10022-1575", "name": "Leicester Hall", "lat": -36.8990846151593, "lng": 174.810177142246, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10418-1578", "name": "Riversdale Reserve", "lat": -36.8936801920541, "lng": 174.679757986254, "suburb": "Whau", "source": "ac"}, {"id": "ac-23100-1579", "name": "Ascot Park", "lat": -36.8859509256062, "lng": 174.801641812614, "suburb": "Orakei", "source": "ac"}, {"id": "ac-20874-1582", "name": "Manuka Park", "lat": -36.9028265578204, "lng": 174.674807347575, "suburb": "Whau", "source": "ac"}, {"id": "ac-10416-1584", "name": "Griffin Reserve", "lat": -36.8867610032783, "lng": 174.776634056419, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-24436-1594", "name": "Te Kotuitanga Park", "lat": -36.9052009621789, "lng": 174.709512156368, "suburb": "Whau", "source": "ac"}, {"id": "ac-10278-1597", "name": "West Reserve", "lat": -36.919241115001, "lng": 174.754280820324, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-11471-1603", "name": "Ceramco Park", "lat": -36.9200293462293, "lng": 174.650402214826, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-21826-1616", "name": "Nicolas Reserve", "lat": -36.9104885072436, "lng": 174.625263048798, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11383-1625", "name": "Kingdale Reserve", "lat": -36.8573842543896, "lng": 174.62459121939, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21598-1632", "name": "Temuka Gardens", "lat": -36.9121380434897, "lng": 174.697157310351, "suburb": "Whau", "source": "ac"}, {"id": "ac-11488-1634", "name": "McLeod Park", "lat": -36.8757388180126, "lng": 174.655768031293, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11339-1637", "name": "Prospect Park", "lat": -36.9155415956862, "lng": 174.636904660707, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-21852-1641", "name": "Northall Park", "lat": -36.9142288243016, "lng": 174.668239896842, "suburb": "Whau", "source": "ac"}, {"id": "ac-22568-1642", "name": "Sunvue Park", "lat": -36.9148243802058, "lng": 174.632499845125, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11376-1644", "name": "Te Pai Park", "lat": -36.8618064582006, "lng": 174.630685372538, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20857-1645", "name": "Lydford Green", "lat": -36.894318985264, "lng": 174.648909021558, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-20923-1646", "name": "Withers Reserve", "lat": -36.9234070634726, "lng": 174.645563956496, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-22525-1648", "name": "Copley Reserve", "lat": -36.9010363521517, "lng": 174.669806224849, "suburb": "Whau", "source": "ac"}, {"id": "ac-11361-1649", "name": "Woodlands Park", "lat": -36.9514664551436, "lng": 174.631303808422, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-23622-1652", "name": "West Harbour Esplanade - West", "lat": -36.8228876219838, "lng": 174.633992407596, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21636-1659", "name": "Bellgrove Reserve East", "lat": -36.8942543323757, "lng": 174.684154057919, "suburb": "Whau", "source": "ac"}, {"id": "ac-22502-1660", "name": "Cron Reserve", "lat": -36.8846712883203, "lng": 174.647887290466, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21798-1666", "name": "Okahu Bay Reserve", "lat": -36.8517706436999, "lng": 174.817808177115, "suburb": "Orakei", "source": "ac"}, {"id": "ac-11375-1677", "name": "Te Rangi Hiroa/Birdwood Winery", "lat": -36.8540764455543, "lng": 174.597796763889, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21766-1678", "name": "Pooks Reserve", "lat": -36.868161136669, "lng": 174.601043233094, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21343-1683", "name": "Talbot Reserve", "lat": -36.8822495186885, "lng": 174.857388925042, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-10004-1684", "name": "Walker Park", "lat": -36.8642615994738, "lng": 174.704024651866, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-21226-1690", "name": "Epping Esplanade", "lat": -36.8685804377911, "lng": 174.635496398219, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21845-1691", "name": "Melia Reserve", "lat": -36.8370348494828, "lng": 174.619341920789, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11479-1692", "name": "Neville Power Memorial Park", "lat": -36.8711829923468, "lng": 174.642459521021, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-null-1702", "name": "Playground", "lat": -36.840250912626, "lng": 174.755300859054, "suburb": null, "source": "ac"}, {"id": "ac-10298-1708", "name": "Alan Wood Reserve", "lat": -36.8955249166009, "lng": 174.707224325947, "suburb": "Albert-Eden", "source": "ac"}, {"id": "ac-11344-1714", "name": "Royal Reserve", "lat": -36.8288927114647, "lng": 174.61120473806, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10340-1726", "name": "Onehunga Bay Reserve", "lat": -36.9250372472814, "lng": 174.777485447313, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-21881-1744", "name": "Provence Green", "lat": -36.8444764570457, "lng": 174.654227732481, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11454-1745", "name": "Massey Leisure Centre & Library", "lat": -36.8243315105085, "lng": 174.609037495936, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-11384-1746", "name": "Kaumatua Reserve", "lat": -36.8399688362072, "lng": 174.650302802272, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-10143-1757", "name": "Harold Long Reserve", "lat": -36.9043925605886, "lng": 174.746955165997, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-10055-1758", "name": "Three Kings Resv, incl Fickling,Metrowat", "lat": -36.9084987258438, "lng": 174.75721709315, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-22669-1766", "name": "Armour Bay Reserve", "lat": -36.9743547791895, "lng": 174.618533596446, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11388-1771", "name": "Jack Pringle Sports Park", "lat": -36.8418248321854, "lng": 174.654708412909, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-22552-1772", "name": "Swanson Oaks", "lat": -36.8658021429551, "lng": 174.580578869304, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-11445-1775", "name": "Laingholm Hall Reserve", "lat": -36.9635767189853, "lng": 174.627934535113, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-21074-1829", "name": "Molley Green Reserve", "lat": -36.9248824092927, "lng": 174.742247834787, "suburb": "Puketapapa", "source": "ac"}, {"id": "ac-10033-1832", "name": "Kupe South Reserve", "lat": -36.8610116560321, "lng": 174.822110739696, "suburb": "Orakei", "source": "ac"}, {"id": "ac-24610-1861", "name": "Kopupaka Reserve", "lat": -36.8142621108928, "lng": 174.605810667137, "suburb": "Henderson-Massey", "source": "ac"}, {"id": "ac-21108-1864", "name": "Glucina Reserve", "lat": -36.9056770962053, "lng": 174.656527968914, "suburb": "Waitakere Ranges", "source": "ac"}, {"id": "ac-34141-1865", "name": "Fenchurch Reserve", "lat": -36.8747835340363, "lng": 174.87071506015, "suburb": "Maungakiekie-Tamaki", "source": "ac"}, {"id": "ac-22677-1868", "name": "Archibald Park", "lat": -36.8939042496646, "lng": 174.67121585927, "suburb": "Whau", "source": "ac"}, {"id": "ac-21721-1887", "name": "Tahapa Reserve", "lat": -36.8667587562229, "lng": 174.822827922788, "suburb": "Orakei", "source": "ac"}, {"id": "ac-10326-1893", "name": "Outhwaite Park", "lat": -36.8642322249997, "lng": 174.770220406018, "suburb": "Waitemata", "source": "ac"}, {"id": "ac-10348-1894", "name": "Western Springs Lakeside", "lat": -36.8645669187276, "lng": 174.721831858424, "suburb": "Waitemata", "source": "ac"}]
+[
+  {
+    "id": "ac-21270-927",
+    "name": "Wai-O-Taiki Nature Reserve",
+    "lat": -36.8718868502648,
+    "lng": 174.877546980703,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10236-930",
+    "name": "Parnell Salt Water Baths",
+    "lat": -36.8492251299375,
+    "lng": 174.7916705809,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10441-942",
+    "name": "Michaels Avenue Reserve",
+    "lat": -36.894287593224,
+    "lng": 174.818060636567,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22487-945",
+    "name": "Dalmatia Green",
+    "lat": -36.8988942513563,
+    "lng": 174.626575500222,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10197-963",
+    "name": "Elstree North Reserve",
+    "lat": -36.8743282180195,
+    "lng": 174.867763368124,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21220-967",
+    "name": "Emerald Valley Park",
+    "lat": -36.8389601503057,
+    "lng": 174.606204358924,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21644-968",
+    "name": "Dickey Reserve",
+    "lat": -36.9056442200994,
+    "lng": 174.714551752019,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11374-969",
+    "name": "Triangle Park",
+    "lat": -36.8361957736522,
+    "lng": 174.602858960359,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10396-971",
+    "name": "Mt Albert War Memorial Reserve",
+    "lat": -36.8781449395273,
+    "lng": 174.724685873636,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20886-976",
+    "name": "Lone Tree Park",
+    "lat": -36.8455412607687,
+    "lng": 174.653351048821,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11369-980",
+    "name": "Titirangi Beach",
+    "lat": -36.9510104376643,
+    "lng": 174.658806182096,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11342-987",
+    "name": "Riverpark Reserve",
+    "lat": -36.8560598789762,
+    "lng": 174.618114398144,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22484-988",
+    "name": "Cutler Reserve",
+    "lat": -36.9226768436451,
+    "lng": 174.68458235115,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11381-989",
+    "name": "Glen Norman Reserve",
+    "lat": -36.8644482649441,
+    "lng": 174.622343156284,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22563-995",
+    "name": "St Margarets Park",
+    "lat": -36.8196389441129,
+    "lng": 174.620426097051,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22574-996",
+    "name": "Taitapu Park",
+    "lat": -36.842654022296,
+    "lng": 174.628600541038,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21660-1003",
+    "name": "Fonteyn Reserve",
+    "lat": -36.8878286263467,
+    "lng": 174.681113185934,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11460-1004",
+    "name": "Tui Glen Reserve",
+    "lat": -36.8748850205682,
+    "lng": 174.636300226528,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20636-1006",
+    "name": "Martin Jugum Reserve",
+    "lat": -36.8670420210594,
+    "lng": 174.610634935038,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21116-1007",
+    "name": "Glendene Reserve",
+    "lat": -36.8894258690724,
+    "lng": 174.650437910791,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11367-1010",
+    "name": "Fairdene Reserve",
+    "lat": -36.8647770738197,
+    "lng": 174.625822202034,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23367-1011",
+    "name": "Babich Reserve",
+    "lat": -36.8732187616775,
+    "lng": 174.603478661193,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10034-1015",
+    "name": "Mt Roskill War Memorial Park",
+    "lat": -36.9006813676456,
+    "lng": 174.731258810878,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21571-1016",
+    "name": "Swainston Reserve",
+    "lat": -36.8778067482743,
+    "lng": 174.846256674753,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10056-1017",
+    "name": "Ellerslie Domain",
+    "lat": -36.8985332995842,
+    "lng": 174.813300035844,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10343-1018",
+    "name": "Pollard Park",
+    "lat": -36.8956278607479,
+    "lng": 174.748815413346,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10116-1020",
+    "name": "Little Rangitoto Reserve",
+    "lat": -36.8753181077451,
+    "lng": 174.809392256646,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22672-1021",
+    "name": "Alan Reserve",
+    "lat": -36.8637794895063,
+    "lng": 174.617712369665,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20823-1022",
+    "name": "Taylors Bay Road Reserve",
+    "lat": -36.9290910087209,
+    "lng": 174.759572602103,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21173-1023",
+    "name": "Braemar Reserve",
+    "lat": -36.8816982502165,
+    "lng": 174.713333804124,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21408-1024",
+    "name": "Home Reserve",
+    "lat": -36.866326007671,
+    "lng": 174.746564639201,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21444-1027",
+    "name": "Tirotai Reserve",
+    "lat": -36.8543289716271,
+    "lng": 174.716010427618,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21011-1028",
+    "name": "Costley Reserve",
+    "lat": -36.8493901436109,
+    "lng": 174.746149402849,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10213-1029",
+    "name": "Jordan Park",
+    "lat": -36.9158530487713,
+    "lng": 174.787569098504,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21188-1030",
+    "name": "Watling Reserve",
+    "lat": -36.8950359910101,
+    "lng": 174.761798453508,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10373-1031",
+    "name": "Savage Park",
+    "lat": -36.9128000008485,
+    "lng": 174.837226793764,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10155-1032",
+    "name": "Grey Lynn Park",
+    "lat": -36.8616198873017,
+    "lng": 174.741484557077,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10389-1034",
+    "name": "Gribblehirst Park",
+    "lat": -36.8796909454401,
+    "lng": 174.738656089477,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10387-1035",
+    "name": "Pt Erin Park",
+    "lat": -36.8393695333357,
+    "lng": 174.741174296748,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10219-1036",
+    "name": "Anderson Park",
+    "lat": -36.8922796413913,
+    "lng": 174.708656446346,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20930-1037",
+    "name": "Virginia Reserve",
+    "lat": -36.8646029731496,
+    "lng": 174.754406043556,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10395-1049",
+    "name": "Newmarket Park",
+    "lat": -36.8644376770555,
+    "lng": 174.784135880862,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10351-1050",
+    "name": "Owairaka Park",
+    "lat": -36.8953336705726,
+    "lng": 174.722721477178,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21481-1051",
+    "name": "Buchanan Park",
+    "lat": -36.9208372858306,
+    "lng": 174.79273559116,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20509-1061",
+    "name": "Kelvin Strand",
+    "lat": -36.8277797945473,
+    "lng": 174.653745306729,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11335-1070",
+    "name": "Parrs Park",
+    "lat": -36.9063860867688,
+    "lng": 174.628355095576,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21521-1077",
+    "name": "Shipton Reserve",
+    "lat": -36.9239588272362,
+    "lng": 174.710058295069,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21692-1078",
+    "name": "Henry Reserve",
+    "lat": -36.8914347888892,
+    "lng": 174.697949744845,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20532-1085",
+    "name": "Robert Knox Memorial Park",
+    "lat": -36.8652254120515,
+    "lng": 174.574906470765,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22052-1089",
+    "name": "Rhinevale Close",
+    "lat": -36.8860806156305,
+    "lng": 174.616548895401,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11346-1092",
+    "name": "Sister Rene Shadbolt Park",
+    "lat": -36.9211617771162,
+    "lng": 174.691625329673,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20506-1096",
+    "name": "Kelman Square",
+    "lat": -36.9033207572011,
+    "lng": 174.662082834201,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22018-1099",
+    "name": "Urlich Esplanade Reserve",
+    "lat": -36.8612391776396,
+    "lng": 174.595103473635,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22048-1100",
+    "name": "Reynella Reserve",
+    "lat": -36.8429252520546,
+    "lng": 174.608548940772,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21423-1107",
+    "name": "Laingholm Reserve",
+    "lat": -36.9667789915085,
+    "lng": 174.64080724701,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11385-1109",
+    "name": "Kaurilands Domain",
+    "lat": -36.9232543740493,
+    "lng": 174.654401310681,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11455-1110",
+    "name": "Barron Green",
+    "lat": -36.9316229004747,
+    "lng": 174.678911885585,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22645-1111",
+    "name": "Birdwood Park",
+    "lat": -36.8579819127967,
+    "lng": 174.596868908477,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11430-1118",
+    "name": "Brains Park",
+    "lat": -36.8959001663885,
+    "lng": 174.664055770714,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21245-1120",
+    "name": "Featherstone Park",
+    "lat": -36.8710927469835,
+    "lng": 174.621057009919,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21321-1132",
+    "name": "Xena Park",
+    "lat": -36.8835514169609,
+    "lng": 174.60508651824,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11432-1133",
+    "name": "Awaroa Park",
+    "lat": -36.8971327092134,
+    "lng": 174.645287858979,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10368-1135",
+    "name": "Blockhouse Bay Recreation Res",
+    "lat": -36.9206040451161,
+    "lng": 174.70714016137,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22675-1138",
+    "name": "Annison Green",
+    "lat": -36.9257895387293,
+    "lng": 174.642010525891,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22068-1139",
+    "name": "Royal Heights Park",
+    "lat": -36.8324624175688,
+    "lng": 174.623533141996,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11482-1140",
+    "name": "Olympic Park",
+    "lat": -36.9089882588079,
+    "lng": 174.690463869449,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10247-1156",
+    "name": "Orchard Reserve - Avondale",
+    "lat": -36.8900283828564,
+    "lng": 174.680658043671,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20513-1157",
+    "name": "Kemp Park",
+    "lat": -36.8346534885925,
+    "lng": 174.614543726171,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10391-1160",
+    "name": "Blockhouse Bay Beach Reserve",
+    "lat": -36.930347587547,
+    "lng": 174.700572447738,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22106-1162",
+    "name": "Sarajevo Reserve",
+    "lat": -36.8476367627126,
+    "lng": 174.617457157081,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21295-1165",
+    "name": "Flaunty Reserve",
+    "lat": -36.8206376878165,
+    "lng": 174.622522433411,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20883-1171",
+    "name": "Marlene Glade",
+    "lat": -36.8587520822046,
+    "lng": 174.64602872998,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11431-1177",
+    "name": "Bruce Mclaren Memorial Park",
+    "lat": -36.8981207471007,
+    "lng": 174.62092140759,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11338-1182",
+    "name": "Patts Reserve",
+    "lat": -36.8939445117814,
+    "lng": 174.655079021112,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-24050-1188",
+    "name": "Trusts Esplanade Reserve",
+    "lat": -36.8612384687706,
+    "lng": 174.63702486494,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21167-1190",
+    "name": "Hart Domain",
+    "lat": -36.8845424445108,
+    "lng": 174.634350424004,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22014-1192",
+    "name": "Zita Maria Park",
+    "lat": -36.848322646955,
+    "lng": 174.612994872919,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21962-1196",
+    "name": "Blueridge Reserve",
+    "lat": -36.8932508294097,
+    "lng": 174.637031298426,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21093-1199",
+    "name": "Wakeling Park",
+    "lat": -36.8666412882177,
+    "lng": 174.649155225447,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10365-1201",
+    "name": "Keith Hay Park",
+    "lat": -36.9175853143347,
+    "lng": 174.742836030372,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11330-1204",
+    "name": "Township Park",
+    "lat": -36.8489199590598,
+    "lng": 174.544051511471,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11485-1206",
+    "name": "Opanuku Reserve",
+    "lat": -36.8789273076416,
+    "lng": 174.629328199767,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21975-1208",
+    "name": "Paremuka Lakeside",
+    "lat": -36.8731399613574,
+    "lng": 174.615210058408,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11368-1209",
+    "name": "Durham Green",
+    "lat": -36.8366834611375,
+    "lng": 174.653406699914,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22554-1210",
+    "name": "Takaranga Reserve",
+    "lat": -36.973456734144,
+    "lng": 174.61734994183,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22131-1218",
+    "name": "San Bernadino Reserve",
+    "lat": -36.88847270408,
+    "lng": 174.609675804128,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11417-1221",
+    "name": "La Rosa Garden Reserve",
+    "lat": -36.9302350726662,
+    "lng": 174.675756556972,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11389-1223",
+    "name": "Kaikoura Reserve",
+    "lat": -36.8914432283987,
+    "lng": 174.641594533162,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11350-1230",
+    "name": "Swanson Station Park",
+    "lat": -36.8657107890379,
+    "lng": 174.57504923128,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22527-1232",
+    "name": "Corran Reserve",
+    "lat": -36.8622403838033,
+    "lng": 174.602893724463,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11401-1238",
+    "name": "Taipari Strand",
+    "lat": -36.8374627130583,
+    "lng": 174.638337125585,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22674-1239",
+    "name": "Ambrico Reserve",
+    "lat": -36.9115463547576,
+    "lng": 174.680672970437,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21649-1240",
+    "name": "Brydon Place Reserve",
+    "lat": -36.9001533315737,
+    "lng": 174.709348524646,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23106-1243",
+    "name": "Torino Reserve",
+    "lat": -36.8887565371348,
+    "lng": 174.863678003776,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10058-1244",
+    "name": "Tin Tacks Reserve",
+    "lat": -36.9157006268426,
+    "lng": 174.78477765663,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21390-1245",
+    "name": "Tole Reserve",
+    "lat": -36.8509771366663,
+    "lng": 174.740844179496,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10072-1246",
+    "name": "Streetscape - Maungakiekie-Tamaki",
+    "lat": -36.8986979921354,
+    "lng": 174.853741690122,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20987-1247",
+    "name": "Ireland Reserve",
+    "lat": -36.8504557710287,
+    "lng": 174.748976746232,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21194-1248",
+    "name": "Cliff Face Park",
+    "lat": -36.8889278305102,
+    "lng": 174.839535025014,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21157-1249",
+    "name": "Harwood Reserve",
+    "lat": -36.8948541137201,
+    "lng": 174.738109435006,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10239-1250",
+    "name": "Thompson Park",
+    "lat": -36.8997147014785,
+    "lng": 174.833291912162,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23116-1252",
+    "name": "Pallister Reserve",
+    "lat": -36.9252802988041,
+    "lng": 174.760463703443,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20959-1254",
+    "name": "Bannerman Reserve",
+    "lat": -36.8715573240823,
+    "lng": 174.733009360896,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10274-1255",
+    "name": "Waiatarau/Freemans Bay Park",
+    "lat": -36.8528486939995,
+    "lng": 174.751089889324,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22010-1256",
+    "name": "Foothills Lane Reserve",
+    "lat": -36.9245137564613,
+    "lng": 174.634525833969,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23084-1257",
+    "name": "Bonnie Brae Reserve",
+    "lat": -36.8715768587608,
+    "lng": 174.821569669678,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10255-1258",
+    "name": "School Reserve",
+    "lat": -36.872930822786,
+    "lng": 174.737899440116,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10360-1259",
+    "name": "Sandringham Community Centre",
+    "lat": -36.8921001132087,
+    "lng": 174.735168322948,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20865-1260",
+    "name": "Arthur S Richards Memorial Park",
+    "lat": -36.9030210454216,
+    "lng": 174.749148368012,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21322-1261",
+    "name": "Hobson Reserve",
+    "lat": -36.8927436378251,
+    "lng": 174.859160946414,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20955-1263",
+    "name": "Sackville Reserve",
+    "lat": -36.8554444782963,
+    "lng": 174.734491854871,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21303-1264",
+    "name": "West Tamaki Reserve",
+    "lat": -36.8695364294003,
+    "lng": 174.870887166467,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10244-1265",
+    "name": "Buckley Road Reserve",
+    "lat": -36.9078008787833,
+    "lng": 174.764406410282,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10020-1267",
+    "name": "Panmure Basin/Peterson Reserve",
+    "lat": -36.9083562631975,
+    "lng": 174.848757438819,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21015-1268",
+    "name": "Bellevue Reserve",
+    "lat": -36.8738618624312,
+    "lng": 174.75279352378,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10178-1269",
+    "name": "Centennial Park",
+    "lat": -36.8933192636485,
+    "lng": 174.749718066008,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20947-1271",
+    "name": "St Marys Reserve",
+    "lat": -36.8469623061469,
+    "lng": 174.745252867352,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21330-1272",
+    "name": "Alcock & Lavas Reserves",
+    "lat": -36.9047023348526,
+    "lng": 174.831344643602,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23056-1273",
+    "name": "Moira Reserve",
+    "lat": -36.8530678700564,
+    "lng": 174.736705963456,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23971-1274",
+    "name": "Playtime Park",
+    "lat": -36.8887449161707,
+    "lng": 174.843643580637,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10407-1275",
+    "name": "Mt Wellington War Memorial Reserve",
+    "lat": -36.9008008582722,
+    "lng": 174.865475995078,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23058-1276",
+    "name": "Moa Reserve",
+    "lat": -36.8639514184099,
+    "lng": 174.711853059454,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10266-1277",
+    "name": "Omaru Recreation Reserve",
+    "lat": -36.8829303398155,
+    "lng": 174.872296895753,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21190-1278",
+    "name": "Bluestone Park",
+    "lat": -36.8858235258458,
+    "lng": 174.839056750285,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21196-1279",
+    "name": "Taylors Park",
+    "lat": -36.8849566000604,
+    "lng": 174.752418308485,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10394-1281",
+    "name": "Fowlds Park",
+    "lat": -36.873295759737,
+    "lng": 174.726725015379,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10218-1282",
+    "name": "Glover Park",
+    "lat": -36.8476536065779,
+    "lng": 174.866283101061,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21866-1283",
+    "name": "St Heliers Bay Beach Reserve",
+    "lat": -36.8495200622317,
+    "lng": 174.859386596597,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10377-1284",
+    "name": "Arthur Faulkner Reserve",
+    "lat": -36.8971889159374,
+    "lng": 174.739916642669,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21400-1285",
+    "name": "Brown Reserve",
+    "lat": -36.8564982682177,
+    "lng": 174.745506562693,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10065-1286",
+    "name": "Murray Halberg Park",
+    "lat": -36.8959793546116,
+    "lng": 174.713782341373,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21181-1287",
+    "name": "Monkey Hill",
+    "lat": -36.8723248314241,
+    "lng": 174.749197494831,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10312-1288",
+    "name": "Sandringham Reserve",
+    "lat": -36.8929510172639,
+    "lng": 174.736782017376,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21543-1289",
+    "name": "Wairaki Stream Reserve",
+    "lat": -36.9265279406001,
+    "lng": 174.712130038278,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21153-1290",
+    "name": "Essex Road Reserve",
+    "lat": -36.882124699445,
+    "lng": 174.761342091703,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11435-1293",
+    "name": "Te Atatu Peninsula Park",
+    "lat": -36.839113521483,
+    "lng": 174.645603575064,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10063-1306",
+    "name": "Roberta Reserve",
+    "lat": -36.8628640796781,
+    "lng": 174.878489256533,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10029-1307",
+    "name": "Rutherford Reserve",
+    "lat": -36.870441172044,
+    "lng": 174.83543012609,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10321-1308",
+    "name": "Eric Armishaw Park",
+    "lat": -36.8692709712054,
+    "lng": 174.697453362518,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20708-1309",
+    "name": "Kotuku Reserve",
+    "lat": -36.8837507053359,
+    "lng": 174.857237528764,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20939-1310",
+    "name": "Robinson Reserve",
+    "lat": -36.9050788856871,
+    "lng": 174.751991058923,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10200-1311",
+    "name": "Victoria Park",
+    "lat": -36.8478877094339,
+    "lng": 174.755133029747,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10050-1313",
+    "name": "Coyle Park",
+    "lat": -36.852078644795,
+    "lng": 174.704834406056,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10362-1314",
+    "name": "Maungakiekie/One Tree Hill",
+    "lat": -36.905973419396,
+    "lng": 174.775778545889,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21145-1315",
+    "name": "Edenvale Park",
+    "lat": -36.8705819848927,
+    "lng": 174.755889246447,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10250-1317",
+    "name": "Waikowhai Park",
+    "lat": -36.9334396443571,
+    "lng": 174.735296712524,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21133-1318",
+    "name": "Taumata Reserve",
+    "lat": -36.8945171656981,
+    "lng": 174.732082796066,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10265-1319",
+    "name": "Coxs Bay Reserve",
+    "lat": -36.8524727354866,
+    "lng": 174.724983928856,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20894-1324",
+    "name": "Turner Reserve",
+    "lat": -36.9136467065706,
+    "lng": 174.732042733082,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10304-1351",
+    "name": "Salisbury Reserve",
+    "lat": -36.8449568237125,
+    "lng": 174.732392168584,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10408-1353",
+    "name": "Crossfield Reserve",
+    "lat": -36.8644137963181,
+    "lng": 174.867446967573,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10288-1354",
+    "name": "Waterview Reserve",
+    "lat": -36.8754899733892,
+    "lng": 174.701526112986,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21383-1356",
+    "name": "Kuaka Park",
+    "lat": -36.8770294194207,
+    "lng": 174.698640103325,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10317-1357",
+    "name": "Massey Reserve",
+    "lat": -36.8987503118395,
+    "lng": 174.798522423607,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10000-1358",
+    "name": "Francis Reserve",
+    "lat": -36.8594633648258,
+    "lng": 174.729048822601,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10277-1359",
+    "name": "Myers Park",
+    "lat": -36.8551574021477,
+    "lng": 174.761218864875,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21523-1360",
+    "name": "Flat Rock Reserve",
+    "lat": -36.9287390702444,
+    "lng": 174.854159272035,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11420-1361",
+    "name": "Starling Park",
+    "lat": -36.859560606309,
+    "lng": 174.603217301541,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23096-1362",
+    "name": "Kupe North Reserve",
+    "lat": -36.8565491964878,
+    "lng": 174.824818211593,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10144-1363",
+    "name": "Grey Lynn Community Centre",
+    "lat": -36.859635644339,
+    "lng": 174.733133919318,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21673-1364",
+    "name": "Dallas Reserve",
+    "lat": -36.9110425930893,
+    "lng": 174.716303317123,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21705-1372",
+    "name": "Otahuhu/Mt Richmond",
+    "lat": -36.9321682140135,
+    "lng": 174.841744697476,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20949-1391",
+    "name": "Olive Grove",
+    "lat": -36.9101207140586,
+    "lng": 174.64557740237,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11418-1393",
+    "name": "Lawson Park",
+    "lat": -36.9182290710486,
+    "lng": 174.675193117525,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21794-1394",
+    "name": "Shore Road Reserve",
+    "lat": -36.8645570234544,
+    "lng": 174.791118363602,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20841-1403",
+    "name": "Kensington Gardens",
+    "lat": -36.8921562682645,
+    "lng": 174.605921996174,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11490-1404",
+    "name": "Mason Park",
+    "lat": -36.9108119870771,
+    "lng": 174.66807723973,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11391-1411",
+    "name": "Henderson Valley Park",
+    "lat": -36.8952769915244,
+    "lng": 174.616610408866,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22531-1414",
+    "name": "Starforth Reserve",
+    "lat": -36.9007698093163,
+    "lng": 174.619880655756,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11395-1416",
+    "name": "Corban Reserve",
+    "lat": -36.8952603372081,
+    "lng": 174.623648663674,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21792-1423",
+    "name": "Gus Nola Park",
+    "lat": -36.8805938393359,
+    "lng": 174.610698469354,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21281-1426",
+    "name": "Gallony Park",
+    "lat": -36.8404164166168,
+    "lng": 174.60462459242,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20502-1428",
+    "name": "Lockington Green",
+    "lat": -36.8732411664971,
+    "lng": 174.619082883788,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22516-1429",
+    "name": "Spargo Reserve",
+    "lat": -36.832408099232,
+    "lng": 174.636432578279,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20605-1430",
+    "name": "Huia Domain",
+    "lat": -36.9992145728169,
+    "lng": 174.570033202439,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21817-1438",
+    "name": "Murillo Reserve",
+    "lat": -36.8908063060051,
+    "lng": 174.619752235511,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21677-1444",
+    "name": "Taramea Reserve",
+    "lat": -36.8905903104646,
+    "lng": 174.685067283212,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11469-1447",
+    "name": "Harold Moody Reserve Duck Park",
+    "lat": -36.9122312216016,
+    "lng": 174.648686965374,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22577-1454",
+    "name": "Tamariki Reserve",
+    "lat": -36.9600996268183,
+    "lng": 174.649088845916,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10269-1459",
+    "name": "Fergusson Domain",
+    "lat": -36.9109919696231,
+    "lng": 174.799261339913,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10444-1460",
+    "name": "Nicholson Park",
+    "lat": -36.8850292808583,
+    "lng": 174.763972834783,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21348-1461",
+    "name": "Horsham Reserve",
+    "lat": -36.8955556631189,
+    "lng": 174.824952819349,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21137-1462",
+    "name": "John Moore Reserve",
+    "lat": -36.9086585850349,
+    "lng": 174.74704273911,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21379-1463",
+    "name": "Fairlands Reserve",
+    "lat": -36.8831259301682,
+    "lng": 174.69582575832,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23103-1464",
+    "name": "Fong Reserve",
+    "lat": -36.9159869504936,
+    "lng": 174.798764643261,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10381-1465",
+    "name": "Margaret Griffen Park",
+    "lat": -36.921258311893,
+    "lng": 174.721325115006,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10211-1466",
+    "name": "Lynfield Reserve",
+    "lat": -36.9267636499814,
+    "lng": 174.722366453992,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21396-1468",
+    "name": "Vermont Reserve",
+    "lat": -36.8537832063962,
+    "lng": 174.739828670098,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21177-1470",
+    "name": "Stranolar Reserve",
+    "lat": -36.926546852161,
+    "lng": 174.731457194588,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21077-1471",
+    "name": "Harbutt Reserve",
+    "lat": -36.8878911621504,
+    "lng": 174.705678260083,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10271-1472",
+    "name": "Riverside Community Centre",
+    "lat": -36.926247753257,
+    "lng": 174.857186502757,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20869-1473",
+    "name": "Aitken Reserve",
+    "lat": -36.8676302989603,
+    "lng": 174.752039393443,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10415-1475",
+    "name": "Melville Park",
+    "lat": -36.8860317146303,
+    "lng": 174.768066193762,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21081-1476",
+    "name": "Quona Reserve",
+    "lat": -36.9297419057687,
+    "lng": 174.738683731114,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23080-1478",
+    "name": "Celtic Crescent Reserve",
+    "lat": -36.8902699796505,
+    "lng": 174.822267488622,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21806-1479",
+    "name": "Wharua Reserve",
+    "lat": -36.867766887271,
+    "lng": 174.793947707302,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20877-1480",
+    "name": "Delphine Park",
+    "lat": -36.8959076406102,
+    "lng": 174.725174319015,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10048-1488",
+    "name": "Heron Park",
+    "lat": -36.8859884615642,
+    "lng": 174.698884321419,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21416-1489",
+    "name": "Premier Reserve",
+    "lat": -36.8667658852489,
+    "lng": 174.715471128404,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10151-1490",
+    "name": "Nixon Park",
+    "lat": -36.8700422062553,
+    "lng": 174.746041488881,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10253-1491",
+    "name": "Waiatarua Reserve (Remuera)",
+    "lat": -36.8860545430072,
+    "lng": 174.820673366462,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21561-1492",
+    "name": "Ruka Reserve",
+    "lat": -36.8775758054235,
+    "lng": 174.838905048494,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21803-1494",
+    "name": "Wairua Reserve",
+    "lat": -36.8830922934167,
+    "lng": 174.805216493839,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21004-1500",
+    "name": "Sainsbury Reserve",
+    "lat": -36.8789541235619,
+    "lng": 174.734458665417,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10361-1517",
+    "name": "Patteson Reserve",
+    "lat": -36.8559875599911,
+    "lng": 174.829554569692,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10424-1518",
+    "name": "Madills Farm Recreation Reserve",
+    "lat": -36.8584499433532,
+    "lng": 174.845183237687,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10241-1520",
+    "name": "Konini Reserve",
+    "lat": -36.9006484602407,
+    "lng": 174.802316494434,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10286-1521",
+    "name": "Potters Park",
+    "lat": -36.8868137935925,
+    "lng": 174.748631144783,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10356-1522",
+    "name": "Western Park - Freemans Bay",
+    "lat": -36.8551338062908,
+    "lng": 174.752551674495,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10179-1523",
+    "name": "Maungawhau/Mount Eden",
+    "lat": -36.8721056031135,
+    "lng": 174.762944722209,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-24890-1524",
+    "name": "St Peters Onehunga",
+    "lat": -36.9224379735625,
+    "lng": 174.78458409695,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22482-1529",
+    "name": "Crum Park",
+    "lat": -36.9293972111559,
+    "lng": 174.665216457986,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22639-1531",
+    "name": "Bridge Avenue Reserve",
+    "lat": -36.8606722844543,
+    "lng": 174.655260830338,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20706-1536",
+    "name": "Mcclintock Reserve",
+    "lat": -36.835272304706,
+    "lng": 174.605954045571,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22560-1538",
+    "name": "Semillon Reserve",
+    "lat": -36.8778887855189,
+    "lng": 174.61484498325,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21877-1540",
+    "name": "Onedin Green",
+    "lat": -36.9262412311005,
+    "lng": 174.647483308054,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20716-1541",
+    "name": "Mckinley Park",
+    "lat": -36.8997141114893,
+    "lng": 174.638223881324,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20876-1543",
+    "name": "Manutewhau Walk",
+    "lat": -36.823968651711,
+    "lng": 174.622023366792,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11438-1544",
+    "name": "Marinich Reserve",
+    "lat": -36.8654929034435,
+    "lng": 174.606150925024,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22578-1546",
+    "name": "Tangiwai Reserve",
+    "lat": -36.9489789655861,
+    "lng": 174.641566198104,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22637-1547",
+    "name": "Barrys Reserve",
+    "lat": -36.8843877836234,
+    "lng": 174.656845364563,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22495-1548",
+    "name": "Don Buck Corner",
+    "lat": -36.8585211114918,
+    "lng": 174.608860657292,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21063-1558",
+    "name": "Wood Bay Reserve",
+    "lat": -36.9439874370202,
+    "lng": 174.664667114014,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22537-1567",
+    "name": "Tatyana Park",
+    "lat": -36.8339679292634,
+    "lng": 174.627695970999,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10107-1569",
+    "name": "Eastdale Reserve",
+    "lat": -36.8861931057907,
+    "lng": 174.68823108921,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10431-1572",
+    "name": "Craigavon Park",
+    "lat": -36.9280679178809,
+    "lng": 174.68979458066,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23078-1574",
+    "name": "Old Mill Reserve",
+    "lat": -36.8606040799388,
+    "lng": 174.722261790759,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10022-1575",
+    "name": "Leicester Hall",
+    "lat": -36.8990846151593,
+    "lng": 174.810177142246,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10418-1578",
+    "name": "Riversdale Reserve",
+    "lat": -36.8936801920541,
+    "lng": 174.679757986254,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23100-1579",
+    "name": "Ascot Park",
+    "lat": -36.8859509256062,
+    "lng": 174.801641812614,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20874-1582",
+    "name": "Manuka Park",
+    "lat": -36.9028265578204,
+    "lng": 174.674807347575,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10416-1584",
+    "name": "Griffin Reserve",
+    "lat": -36.8867610032783,
+    "lng": 174.776634056419,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-24436-1594",
+    "name": "Te Kotuitanga Park",
+    "lat": -36.9052009621789,
+    "lng": 174.709512156368,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10278-1597",
+    "name": "West Reserve",
+    "lat": -36.919241115001,
+    "lng": 174.754280820324,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11471-1603",
+    "name": "Ceramco Park",
+    "lat": -36.9200293462293,
+    "lng": 174.650402214826,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21826-1616",
+    "name": "Nicolas Reserve",
+    "lat": -36.9104885072436,
+    "lng": 174.625263048798,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11383-1625",
+    "name": "Kingdale Reserve",
+    "lat": -36.8573842543896,
+    "lng": 174.62459121939,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21598-1632",
+    "name": "Temuka Gardens",
+    "lat": -36.9121380434897,
+    "lng": 174.697157310351,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11488-1634",
+    "name": "McLeod Park",
+    "lat": -36.8757388180126,
+    "lng": 174.655768031293,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11339-1637",
+    "name": "Prospect Park",
+    "lat": -36.9155415956862,
+    "lng": 174.636904660707,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21852-1641",
+    "name": "Northall Park",
+    "lat": -36.9142288243016,
+    "lng": 174.668239896842,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22568-1642",
+    "name": "Sunvue Park",
+    "lat": -36.9148243802058,
+    "lng": 174.632499845125,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11376-1644",
+    "name": "Te Pai Park",
+    "lat": -36.8618064582006,
+    "lng": 174.630685372538,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20857-1645",
+    "name": "Lydford Green",
+    "lat": -36.894318985264,
+    "lng": 174.648909021558,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-20923-1646",
+    "name": "Withers Reserve",
+    "lat": -36.9234070634726,
+    "lng": 174.645563956496,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22525-1648",
+    "name": "Copley Reserve",
+    "lat": -36.9010363521517,
+    "lng": 174.669806224849,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11361-1649",
+    "name": "Woodlands Park",
+    "lat": -36.9514664551436,
+    "lng": 174.631303808422,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-23622-1652",
+    "name": "West Harbour Esplanade - West",
+    "lat": -36.8228876219838,
+    "lng": 174.633992407596,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21636-1659",
+    "name": "Bellgrove Reserve East",
+    "lat": -36.8942543323757,
+    "lng": 174.684154057919,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22502-1660",
+    "name": "Cron Reserve",
+    "lat": -36.8846712883203,
+    "lng": 174.647887290466,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21798-1666",
+    "name": "Okahu Bay Reserve",
+    "lat": -36.8517706436999,
+    "lng": 174.817808177115,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11375-1677",
+    "name": "Te Rangi Hiroa/Birdwood Winery",
+    "lat": -36.8540764455543,
+    "lng": 174.597796763889,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21766-1678",
+    "name": "Pooks Reserve",
+    "lat": -36.868161136669,
+    "lng": 174.601043233094,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21343-1683",
+    "name": "Talbot Reserve",
+    "lat": -36.8822495186885,
+    "lng": 174.857388925042,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10004-1684",
+    "name": "Walker Park",
+    "lat": -36.8642615994738,
+    "lng": 174.704024651866,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21226-1690",
+    "name": "Epping Esplanade",
+    "lat": -36.8685804377911,
+    "lng": 174.635496398219,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21845-1691",
+    "name": "Melia Reserve",
+    "lat": -36.8370348494828,
+    "lng": 174.619341920789,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11479-1692",
+    "name": "Neville Power Memorial Park",
+    "lat": -36.8711829923468,
+    "lng": 174.642459521021,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-null-1702",
+    "name": "North Wharf Playground",
+    "lat": -36.840250912626,
+    "lng": 174.755300859054,
+    "suburb": null,
+    "source": "ac"
+  },
+  {
+    "id": "ac-10298-1708",
+    "name": "Alan Wood Reserve",
+    "lat": -36.8955249166009,
+    "lng": 174.707224325947,
+    "suburb": "Albert-Eden",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11344-1714",
+    "name": "Royal Reserve",
+    "lat": -36.8288927114647,
+    "lng": 174.61120473806,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10340-1726",
+    "name": "Onehunga Bay Reserve",
+    "lat": -36.9250372472814,
+    "lng": 174.777485447313,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21881-1744",
+    "name": "Provence Green",
+    "lat": -36.8444764570457,
+    "lng": 174.654227732481,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11454-1745",
+    "name": "Massey Leisure Centre & Library",
+    "lat": -36.8243315105085,
+    "lng": 174.609037495936,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11384-1746",
+    "name": "Kaumatua Reserve",
+    "lat": -36.8399688362072,
+    "lng": 174.650302802272,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10143-1757",
+    "name": "Harold Long Reserve",
+    "lat": -36.9043925605886,
+    "lng": 174.746955165997,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10055-1758",
+    "name": "Three Kings Resv, incl Fickling,Metrowat",
+    "lat": -36.9084987258438,
+    "lng": 174.75721709315,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22669-1766",
+    "name": "Armour Bay Reserve",
+    "lat": -36.9743547791895,
+    "lng": 174.618533596446,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11388-1771",
+    "name": "Jack Pringle Sports Park",
+    "lat": -36.8418248321854,
+    "lng": 174.654708412909,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22552-1772",
+    "name": "Swanson Oaks",
+    "lat": -36.8658021429551,
+    "lng": 174.580578869304,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-11445-1775",
+    "name": "Laingholm Hall Reserve",
+    "lat": -36.9635767189853,
+    "lng": 174.627934535113,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21074-1829",
+    "name": "Molley Green Reserve",
+    "lat": -36.9248824092927,
+    "lng": 174.742247834787,
+    "suburb": "Puketapapa",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10033-1832",
+    "name": "Kupe South Reserve",
+    "lat": -36.8610116560321,
+    "lng": 174.822110739696,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-24610-1861",
+    "name": "Kopupaka Reserve",
+    "lat": -36.8142621108928,
+    "lng": 174.605810667137,
+    "suburb": "Henderson-Massey",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21108-1864",
+    "name": "Glucina Reserve",
+    "lat": -36.9056770962053,
+    "lng": 174.656527968914,
+    "suburb": "Waitakere Ranges",
+    "source": "ac"
+  },
+  {
+    "id": "ac-34141-1865",
+    "name": "Fenchurch Reserve",
+    "lat": -36.8747835340363,
+    "lng": 174.87071506015,
+    "suburb": "Maungakiekie-Tamaki",
+    "source": "ac"
+  },
+  {
+    "id": "ac-22677-1868",
+    "name": "Archibald Park",
+    "lat": -36.8939042496646,
+    "lng": 174.67121585927,
+    "suburb": "Whau",
+    "source": "ac"
+  },
+  {
+    "id": "ac-21721-1887",
+    "name": "Tahapa Reserve",
+    "lat": -36.8667587562229,
+    "lng": 174.822827922788,
+    "suburb": "Orakei",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10326-1893",
+    "name": "Outhwaite Park",
+    "lat": -36.8642322249997,
+    "lng": 174.770220406018,
+    "suburb": "Waitemata",
+    "source": "ac"
+  },
+  {
+    "id": "ac-10348-1894",
+    "name": "Western Springs Lakeside",
+    "lat": -36.8645669187276,
+    "lng": 174.721831858424,
+    "suburb": "Waitemata",
+    "source": "ac"
+  }
+]
