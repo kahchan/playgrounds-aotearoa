@@ -36,10 +36,24 @@ export const CITIES: City[] = [
     dataPath: 'christchurch.json',
   },
   {
-    slug: 'auckland',
-    label: 'Auckland',
-    center: [174.7633, -36.8485],
+    slug: 'auckland-north',
+    label: 'Auckland North',
+    center: [174.7071, -36.6910],
+    zoom: 10,
+    dataPath: 'auckland-north.json',
+  },
+  {
+    slug: 'auckland-central',
+    label: 'Auckland Central',
+    center: [174.7088, -36.8846],
     zoom: 11,
-    dataPath: 'auckland.json',
+    dataPath: 'auckland-central.json',
+  },
+  {
+    slug: 'auckland-south',
+    label: 'Auckland South',
+    center: [174.8856, -37.0037],
+    zoom: 11,
+    dataPath: 'auckland-south.json',
   },
 ]
