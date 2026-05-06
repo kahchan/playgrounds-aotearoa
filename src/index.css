@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: 'Red Hat Display', system-ui, -apple-system, sans-serif;
+
+  /* 80s dark palette (default) */
+  --color-bg: #0a0a0a;
+  --color-surface: #111111;
+  --color-surface-2: #1a1a1a;
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-text: #ffffff;
+  --color-muted: rgba(255, 255, 255, 0.45);
+  --color-teal: #00c8d7;
+  --color-teal-dim: rgba(0, 200, 215, 0.15);
+  --color-teal-border: rgba(0, 200, 215, 0.4);
+  --color-pink: #9b20d0;
+  --color-pink-dim: rgba(155, 32, 208, 0.15);
+  --color-pink-border: rgba(155, 32, 208, 0.4);
+  --color-error: #9b20d0;
+}
+
+[data-theme='light'] {
+  --color-bg: #f2f2f2;
+  --color-surface: #ffffff;
+  --color-surface-2: #e8e8e8;
+  --color-border: rgba(0, 0, 0, 0.08);
+  --color-text: #0a0a0a;
+  --color-muted: rgba(0, 0, 0, 0.45);
+  --color-teal: #00818c;
+  --color-teal-dim: rgba(0, 129, 140, 0.12);
+  --color-teal-border: rgba(0, 129, 140, 0.4);
+  --color-pink: #6510a0;
+  --color-pink-dim: rgba(101, 16, 160, 0.10);
+  --color-pink-border: rgba(101, 16, 160, 0.4);
+  --color-error: #6510a0;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
