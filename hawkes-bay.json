@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "osm-node-13077486214",
+    "name": "Playground",
+    "lat": -39.5374391,
+    "lng": 176.8365742,
+    "suburb": "Otatara Heights",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-85254846",
+    "name": "May and Peter Harris Playground",
+    "lat": -39.4959529,
+    "lng": 176.9193477,
+    "suburb": "Napier South",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-105581725",
+    "name": "Playground",
+    "lat": -39.6163637,
+    "lng": 176.7736096,
+    "suburb": "Waikangu",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-110677150",
+    "name": "Playground",
+    "lat": -39.6687536,
+    "lng": 176.8801767,
+    "suburb": "Havelock North",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-140468053",
+    "name": "Playground",
+    "lat": -39.6259803,
+    "lng": 176.8171992,
+    "suburb": "Camberley",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-145658278",
+    "name": "Playground",
+    "lat": -39.5176824,
+    "lng": 176.8548775,
+    "suburb": "Te Roropipi",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-145659941",
+    "name": "Playground",
+    "lat": -39.5186082,
+    "lng": 176.9073008,
+    "suburb": "Maraenui",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-145671771",
+    "name": "Playground",
+    "lat": -39.5194556,
+    "lng": 176.8975544,
+    "suburb": "Maraenui",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-145671772",
+    "name": "Playground",
+    "lat": -39.5052505,
+    "lng": 176.8722868,
+    "suburb": "Tamatea",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-209470848",
+    "name": "Playground",
+    "lat": -39.6429354,
+    "lng": 176.8277491,
+    "suburb": "Raureka",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-210906623",
+    "name": "Playground",
+    "lat": -39.6521885,
+    "lng": 176.839188,
+    "suburb": "Ākina",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-221131776",
+    "name": "Playground",
+    "lat": -39.4791531,
+    "lng": 176.9002906,
+    "suburb": "Ahuriri",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-221131777",
+    "name": "Playground",
+    "lat": -39.4790833,
+    "lng": 176.9007983,
+    "suburb": "Ahuriri",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223398240",
+    "name": "Playground",
+    "lat": -39.5095055,
+    "lng": 176.8949816,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223398245",
+    "name": "Playground",
+    "lat": -39.5057824,
+    "lng": 176.8922343,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223398247",
+    "name": "Playground",
+    "lat": -39.5034115,
+    "lng": 176.8944096,
+    "suburb": "Marewa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223398249",
+    "name": "Playground",
+    "lat": -39.5092361,
+    "lng": 176.892893,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223398251",
+    "name": "Playground",
+    "lat": -39.5106014,
+    "lng": 176.8803453,
+    "suburb": "Pirimai",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223400378",
+    "name": "Playground",
+    "lat": -39.5055103,
+    "lng": 176.90571,
+    "suburb": "Marewa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223520541",
+    "name": "Playground",
+    "lat": -39.5127833,
+    "lng": 176.9050646,
+    "suburb": "Maraenui",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223529772",
+    "name": "Playground",
+    "lat": -39.5408189,
+    "lng": 176.8591386,
+    "suburb": "Ascot Park",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223529780",
+    "name": "Playground",
+    "lat": -39.5364997,
+    "lng": 176.8470441,
+    "suburb": "Taradale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223530490",
+    "name": "Playground",
+    "lat": -39.509054,
+    "lng": 176.8694536,
+    "suburb": "Tamatea",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-223665589",
+    "name": "Playground",
+    "lat": -39.4851907,
+    "lng": 176.897574,
+    "suburb": "Ahuriri",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-275186676",
+    "name": "Playground",
+    "lat": -39.5455914,
+    "lng": 176.8532466,
+    "suburb": "Ascot Park",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-293807804",
+    "name": "Playground",
+    "lat": -39.5808598,
+    "lng": 176.9126136,
+    "suburb": "Clive",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-294807403",
+    "name": "Playground",
+    "lat": -39.5815013,
+    "lng": 176.7591819,
+    "suburb": "Omahu",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-295020858",
+    "name": "Playground",
+    "lat": -39.499774,
+    "lng": 176.8935569,
+    "suburb": "Marewa Shops",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-296425559",
+    "name": "Playground",
+    "lat": -39.6140544,
+    "lng": 176.7690157,
+    "suburb": "Waikangu",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-296427247",
+    "name": "Playground",
+    "lat": -39.626439,
+    "lng": 176.7798269,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-334609297",
+    "name": "Playground",
+    "lat": -39.4751636,
+    "lng": 176.8815116,
+    "suburb": "Westshore",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-334609298",
+    "name": "Playground",
+    "lat": -39.4748312,
+    "lng": 176.8812952,
+    "suburb": "Westshore",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-342653421",
+    "name": "Playground",
+    "lat": -39.5188919,
+    "lng": 176.8832507,
+    "suburb": "Pirimai",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-342653422",
+    "name": "Playground",
+    "lat": -39.519055,
+    "lng": 176.8833905,
+    "suburb": "Pirimai",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-342653423",
+    "name": "Playground",
+    "lat": -39.5189464,
+    "lng": 176.8834836,
+    "suburb": "Pirimai",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-343337108",
+    "name": "Playground",
+    "lat": -39.5274594,
+    "lng": 176.8573708,
+    "suburb": "Greenmeadows",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-343339063",
+    "name": "Playground",
+    "lat": -39.5366985,
+    "lng": 176.8467457,
+    "suburb": "Taradale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-343340411",
+    "name": "Playground",
+    "lat": -39.5105643,
+    "lng": 176.8620792,
+    "suburb": "Tamatea",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-343340412",
+    "name": "Playground",
+    "lat": -39.5098819,
+    "lng": 176.867097,
+    "suburb": "Tamatea",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-343340413",
+    "name": "Playground",
+    "lat": -39.5099623,
+    "lng": 176.8668417,
+    "suburb": "Tamatea",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-343587132",
+    "name": "Playground",
+    "lat": -39.5155053,
+    "lng": 176.9046518,
+    "suburb": "Maraenui",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-343589996",
+    "name": "Playground",
+    "lat": -39.5197733,
+    "lng": 176.9033049,
+    "suburb": "Maraenui",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-353559247",
+    "name": "Playground",
+    "lat": -39.6321031,
+    "lng": 176.8472961,
+    "suburb": "Mahora",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-372663898",
+    "name": "Inflatable World",
+    "lat": -39.4903622,
+    "lng": 176.8815762,
+    "suburb": "Pandora",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-372675165",
+    "name": "Playground",
+    "lat": -39.4860883,
+    "lng": 176.8887368,
+    "suburb": "Pandora",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-372933103",
+    "name": "Playground",
+    "lat": -39.6222675,
+    "lng": 176.8512667,
+    "suburb": "Mahora",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-372933105",
+    "name": "Playground",
+    "lat": -39.6221311,
+    "lng": 176.8514757,
+    "suburb": "Mahora",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-373165186",
+    "name": "Playground",
+    "lat": -39.6463123,
+    "lng": 176.8503894,
+    "suburb": "Ākina",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-381949629",
+    "name": "Playground",
+    "lat": -39.6487556,
+    "lng": 176.7544822,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-381949630",
+    "name": "Playground",
+    "lat": -39.6487172,
+    "lng": 176.7540028,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-382070077",
+    "name": "Playground",
+    "lat": -39.4357423,
+    "lng": 176.868128,
+    "suburb": "Papapara",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383532864",
+    "name": "Playground",
+    "lat": -39.5087202,
+    "lng": 176.7832813,
+    "suburb": "Poraiti",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383532866",
+    "name": "Playground",
+    "lat": -39.5088427,
+    "lng": 176.783206,
+    "suburb": "Poraiti",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383532867",
+    "name": "Playground",
+    "lat": -39.5087152,
+    "lng": 176.7834777,
+    "suburb": "Poraiti",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383532868",
+    "name": "Playground",
+    "lat": -39.5086432,
+    "lng": 176.7831888,
+    "suburb": "Poraiti",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383532869",
+    "name": "Playground",
+    "lat": -39.508635,
+    "lng": 176.7833371,
+    "suburb": "Poraiti",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383543656",
+    "name": "Playground",
+    "lat": -39.6218571,
+    "lng": 176.778576,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383543657",
+    "name": "Playground",
+    "lat": -39.6220192,
+    "lng": 176.7784165,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545194",
+    "name": "Playground",
+    "lat": -39.633146,
+    "lng": 176.7925675,
+    "suburb": "Flaxmere East",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545196",
+    "name": "Playground",
+    "lat": -39.6264614,
+    "lng": 176.7810338,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545198",
+    "name": "Playground",
+    "lat": -39.6330304,
+    "lng": 176.7924625,
+    "suburb": "Flaxmere East",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545199",
+    "name": "Playground",
+    "lat": -39.6323654,
+    "lng": 176.7887189,
+    "suburb": "Flaxmere East",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545201",
+    "name": "Playground",
+    "lat": -39.6323125,
+    "lng": 176.7886016,
+    "suburb": "Flaxmere East",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545202",
+    "name": "Playground",
+    "lat": -39.6263556,
+    "lng": 176.7814513,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545204",
+    "name": "Playground",
+    "lat": -39.6321662,
+    "lng": 176.7885508,
+    "suburb": "Flaxmere East",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383545206",
+    "name": "Playground",
+    "lat": -39.6330011,
+    "lng": 176.7925738,
+    "suburb": "Flaxmere East",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-383561886",
+    "name": "Playground",
+    "lat": -39.6250754,
+    "lng": 176.7893373,
+    "suburb": "Flaxmere",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-390399351",
+    "name": "Playground",
+    "lat": -39.617203,
+    "lng": 176.892972,
+    "suburb": "Whakatu",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-390736169",
+    "name": "Playground",
+    "lat": -39.5130942,
+    "lng": 176.8930371,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-402048750",
+    "name": "Playground",
+    "lat": -39.635472,
+    "lng": 176.829771,
+    "suburb": "Saint Leonards",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-402048751",
+    "name": "Playground",
+    "lat": -39.6353321,
+    "lng": 176.8293855,
+    "suburb": "Saint Leonards",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-404675312",
+    "name": "Playground",
+    "lat": -39.680177,
+    "lng": 176.8831842,
+    "suburb": "Iona",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-406695214",
+    "name": "Playground",
+    "lat": -39.6166566,
+    "lng": 176.7907137,
+    "suburb": "Woolwich",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-406695216",
+    "name": "Playground",
+    "lat": -39.6166736,
+    "lng": 176.7905695,
+    "suburb": "Woolwich",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-406695218",
+    "name": "Playground",
+    "lat": -39.6166896,
+    "lng": 176.7903855,
+    "suburb": "Woolwich",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-428354741",
+    "name": "Playground",
+    "lat": -39.4905526,
+    "lng": 176.9089591,
+    "suburb": "Hospital Hill",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-428354742",
+    "name": "Junior Bike Track",
+    "lat": -39.4968783,
+    "lng": 176.9192858,
+    "suburb": "Napier South",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-434947131",
+    "name": "Playground",
+    "lat": -39.5265189,
+    "lng": 176.8658467,
+    "suburb": "Greenmeadows",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-436046414",
+    "name": "Playground",
+    "lat": -39.537409,
+    "lng": 176.8515675,
+    "suburb": "Taradale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-438485919",
+    "name": "Playground",
+    "lat": -39.509499,
+    "lng": 176.8768496,
+    "suburb": "Pirimai",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-446911505",
+    "name": "Playground",
+    "lat": -39.5056711,
+    "lng": 176.8919603,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-446911506",
+    "name": "Playground",
+    "lat": -39.504824,
+    "lng": 176.8913642,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-474082454",
+    "name": "Playground",
+    "lat": -39.4767624,
+    "lng": 176.8820702,
+    "suburb": "Westshore",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-483550655",
+    "name": "Playground",
+    "lat": -39.6930701,
+    "lng": 176.7901339,
+    "suburb": "Raureka",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-553124116",
+    "name": "Playground",
+    "lat": -39.4854759,
+    "lng": 176.8982009,
+    "suburb": "Ahuriri",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-553124117",
+    "name": "Playground",
+    "lat": -39.4856008,
+    "lng": 176.8980804,
+    "suburb": "Ahuriri",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-667819773",
+    "name": "Playground",
+    "lat": -39.6627053,
+    "lng": 176.9023259,
+    "suburb": "Arataki",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-668121265",
+    "name": "Playground",
+    "lat": -39.6383972,
+    "lng": 176.8433811,
+    "suburb": "Saint Leonards",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-668121266",
+    "name": "Playground",
+    "lat": -39.638413,
+    "lng": 176.84352,
+    "suburb": "Saint Leonards",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-669485874",
+    "name": "Playground",
+    "lat": -39.6445574,
+    "lng": 176.8431355,
+    "suburb": "Ākina",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-711885461",
+    "name": "Playground",
+    "lat": -39.6433831,
+    "lng": 176.8628309,
+    "suburb": "Mayfair",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-711893922",
+    "name": "Playground",
+    "lat": -39.6458376,
+    "lng": 176.8612169,
+    "suburb": "Parkvale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-737167868",
+    "name": "Playground",
+    "lat": -39.6731265,
+    "lng": 176.8705448,
+    "suburb": "Lucknow",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-742306885",
+    "name": "Playground",
+    "lat": -39.6326205,
+    "lng": 176.979764,
+    "suburb": "Te Awanga",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-752865788",
+    "name": "Playground",
+    "lat": -39.4024916,
+    "lng": 176.8535051,
+    "suburb": "Bay View",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-766827168",
+    "name": "Playground",
+    "lat": -39.6453167,
+    "lng": 176.8618426,
+    "suburb": "Parkvale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-766827172",
+    "name": "Playground",
+    "lat": -39.6433543,
+    "lng": 176.8630677,
+    "suburb": "Mayfair",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-785748806",
+    "name": "Playground",
+    "lat": -39.5130829,
+    "lng": 176.8931162,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-951917456",
+    "name": "Playground",
+    "lat": -39.4985643,
+    "lng": 176.8638198,
+    "suburb": "Parklands",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1059240219",
+    "name": "Havelock North Primary School Junior Playground",
+    "lat": -39.6707864,
+    "lng": 176.8795776,
+    "suburb": "Havelock North",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1059240224",
+    "name": "Havelock North Primary School Senior Playground",
+    "lat": -39.6706834,
+    "lng": 176.8804952,
+    "suburb": "Havelock North",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1060493062",
+    "name": "Playground",
+    "lat": -39.6683612,
+    "lng": 176.870333,
+    "suburb": "Lucknow",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1108996446",
+    "name": "Playground",
+    "lat": -39.6292719,
+    "lng": 176.8365409,
+    "suburb": "Saint Leonards",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1110456058",
+    "name": "Playground",
+    "lat": -39.6137015,
+    "lng": 176.7730039,
+    "suburb": "Waikangu",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1110458402",
+    "name": "Playground",
+    "lat": -39.6296339,
+    "lng": 176.8213892,
+    "suburb": "Camberley",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1137958274",
+    "name": "Playground",
+    "lat": -39.5249041,
+    "lng": 176.914379,
+    "suburb": "Te Awa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1150122442",
+    "name": "Playground",
+    "lat": -39.6788854,
+    "lng": 176.8776386,
+    "suburb": "Iona",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1162665326",
+    "name": "Playground",
+    "lat": -39.5393947,
+    "lng": 176.8517214,
+    "suburb": "Taradale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1162665334",
+    "name": "Playground",
+    "lat": -39.5394851,
+    "lng": 176.851481,
+    "suburb": "Taradale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1180908598",
+    "name": "Playground",
+    "lat": -39.5848103,
+    "lng": 176.9221007,
+    "suburb": "Clive",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1195618957",
+    "name": "Playground",
+    "lat": -39.581504,
+    "lng": 176.916921,
+    "suburb": "Clive",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1195618982",
+    "name": "Playground",
+    "lat": -39.585268,
+    "lng": 176.91633,
+    "suburb": "Clive",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1195618983",
+    "name": "Playground",
+    "lat": -39.6638267,
+    "lng": 176.8975966,
+    "suburb": "Arataki",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1195618985",
+    "name": "Playground",
+    "lat": -39.6395137,
+    "lng": 176.9996278,
+    "suburb": "Clifton",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1206024805",
+    "name": "Playground",
+    "lat": -39.6187061,
+    "lng": 176.8234686,
+    "suburb": "Lyndhurst",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1208428534",
+    "name": "Playground",
+    "lat": -39.652901,
+    "lng": 176.749893,
+    "suburb": "Lochain",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1213261228",
+    "name": "Playground",
+    "lat": -39.6048943,
+    "lng": 176.8958378,
+    "suburb": "Whakatu",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1266730796",
+    "name": "Playground",
+    "lat": -39.4762562,
+    "lng": 176.8780094,
+    "suburb": "Westshore",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1313612920",
+    "name": "Pentanque court",
+    "lat": -39.6243442,
+    "lng": 176.8305435,
+    "suburb": "Frimley",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1344435745",
+    "name": "Frimley Playground",
+    "lat": -39.6239706,
+    "lng": 176.8300954,
+    "suburb": "Frimley",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1344447946",
+    "name": "Playground",
+    "lat": -39.6262379,
+    "lng": 176.8359556,
+    "suburb": "Frimley",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1357612365",
+    "name": "Anderson Park Playground",
+    "lat": -39.5228327,
+    "lng": 176.8650046,
+    "suburb": "Greenmeadows",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1359029737",
+    "name": "Playground",
+    "lat": -39.5450352,
+    "lng": 176.8404822,
+    "suburb": "Otatara Heights",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1395668250",
+    "name": "Playground",
+    "lat": -39.5841869,
+    "lng": 176.7621056,
+    "suburb": "Omahu",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1414224919",
+    "name": "Playground",
+    "lat": -39.5149809,
+    "lng": 176.8724289,
+    "suburb": "Tamatea",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1414358575",
+    "name": "Playground",
+    "lat": -39.5466831,
+    "lng": 176.8456369,
+    "suburb": "Otatara Heights",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1414358576",
+    "name": "Playground",
+    "lat": -39.5467585,
+    "lng": 176.8458721,
+    "suburb": "Otatara Heights",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1415865678",
+    "name": "Preschool Playground",
+    "lat": -39.5069508,
+    "lng": 176.8969388,
+    "suburb": "Marewa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1415870137",
+    "name": "Playground",
+    "lat": -39.5068797,
+    "lng": 176.8946922,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1415870138",
+    "name": "Playground",
+    "lat": -39.5067149,
+    "lng": 176.8939385,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1416146744",
+    "name": "Playground",
+    "lat": -39.5089605,
+    "lng": 176.8913204,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1416146759",
+    "name": "Playground",
+    "lat": -39.509933,
+    "lng": 176.8925545,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1416151200",
+    "name": "Playground",
+    "lat": -39.5096864,
+    "lng": 176.8927052,
+    "suburb": "Onekawa",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1423497060",
+    "name": "Playground",
+    "lat": -39.6522032,
+    "lng": 176.8601456,
+    "suburb": "Parkvale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1423497061",
+    "name": "Playground",
+    "lat": -39.6521472,
+    "lng": 176.8597372,
+    "suburb": "Parkvale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1424307310",
+    "name": "Playground",
+    "lat": -39.6519208,
+    "lng": 176.8597768,
+    "suburb": "Parkvale",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1426122610",
+    "name": "Playground",
+    "lat": -39.5288321,
+    "lng": 176.8580629,
+    "suburb": "Greenmeadows",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1426555762",
+    "name": "Playground",
+    "lat": -39.6376657,
+    "lng": 176.861002,
+    "suburb": "Mayfair",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1426555763",
+    "name": "Playground",
+    "lat": -39.6381059,
+    "lng": 176.8617876,
+    "suburb": "Mayfair",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1429417371",
+    "name": "The Dell",
+    "lat": -39.6701874,
+    "lng": 176.8798636,
+    "suburb": "Havelock North",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1443976307",
+    "name": "Playground",
+    "lat": -39.5074745,
+    "lng": 176.8606374,
+    "suburb": "Park Island",
+    "source": "osm"
+  },
+  {
+    "id": "osm-way-1443976309",
+    "name": "Playground",
+    "lat": -39.5074418,
+    "lng": 176.8602717,
+    "suburb": "Park Island",
+    "source": "osm"
+  }
+]
