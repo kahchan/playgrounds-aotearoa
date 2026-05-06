@@ -1,13 +1,5 @@
 [
   {
-    "id": "osm-node-13077486214",
-    "name": "Playground",
-    "lat": -39.5374391,
-    "lng": 176.8365742,
-    "suburb": "Otatara Heights",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-85254846",
     "name": "May and Peter Harris Playground",
     "lat": -39.4959529,
@@ -84,7 +76,7 @@
     "name": "Playground",
     "lat": -39.6521885,
     "lng": 176.839188,
-    "suburb": "Ākina",
+    "suburb": "\u0100kina",
     "source": "osm"
   },
   {
@@ -112,27 +104,11 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-223398245",
-    "name": "Playground",
-    "lat": -39.5057824,
-    "lng": 176.8922343,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-223398247",
     "name": "Playground",
     "lat": -39.5034115,
     "lng": 176.8944096,
     "suburb": "Marewa",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-223398249",
-    "name": "Playground",
-    "lat": -39.5092361,
-    "lng": 176.892893,
-    "suburb": "Onekawa",
     "source": "osm"
   },
   {
@@ -380,7 +356,7 @@
     "name": "Playground",
     "lat": -39.6463123,
     "lng": 176.8503894,
-    "suburb": "Ākina",
+    "suburb": "\u0100kina",
     "source": "osm"
   },
   {
@@ -640,22 +616,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-446911505",
-    "name": "Playground",
-    "lat": -39.5056711,
-    "lng": 176.8919603,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-446911506",
-    "name": "Playground",
-    "lat": -39.504824,
-    "lng": 176.8913642,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-474082454",
     "name": "Playground",
     "lat": -39.4767624,
@@ -716,7 +676,7 @@
     "name": "Playground",
     "lat": -39.6445574,
     "lng": 176.8431355,
-    "suburb": "Ākina",
+    "suburb": "\u0100kina",
     "source": "osm"
   },
   {
@@ -792,22 +752,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-1059240219",
-    "name": "Havelock North Primary School Junior Playground",
-    "lat": -39.6707864,
-    "lng": 176.8795776,
-    "suburb": "Havelock North",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1059240224",
-    "name": "Havelock North Primary School Senior Playground",
-    "lat": -39.6706834,
-    "lng": 176.8804952,
-    "suburb": "Havelock North",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-1060493062",
     "name": "Playground",
     "lat": -39.6683612,
@@ -856,22 +800,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-1162665326",
-    "name": "Playground",
-    "lat": -39.5393947,
-    "lng": 176.8517214,
-    "suburb": "Taradale",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1162665334",
-    "name": "Playground",
-    "lat": -39.5394851,
-    "lng": 176.851481,
-    "suburb": "Taradale",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-1180908598",
     "name": "Playground",
     "lat": -39.5848103,
@@ -901,14 +829,6 @@
     "lat": -39.6638267,
     "lng": 176.8975966,
     "suburb": "Arataki",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1195618985",
-    "name": "Playground",
-    "lat": -39.6395137,
-    "lng": 176.9996278,
-    "suburb": "Clifton",
     "source": "osm"
   },
   {
@@ -1016,54 +936,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-1415865678",
-    "name": "Preschool Playground",
-    "lat": -39.5069508,
-    "lng": 176.8969388,
-    "suburb": "Marewa",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1415870137",
-    "name": "Playground",
-    "lat": -39.5068797,
-    "lng": 176.8946922,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1415870138",
-    "name": "Playground",
-    "lat": -39.5067149,
-    "lng": 176.8939385,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1416146744",
-    "name": "Playground",
-    "lat": -39.5089605,
-    "lng": 176.8913204,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1416146759",
-    "name": "Playground",
-    "lat": -39.509933,
-    "lng": 176.8925545,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1416151200",
-    "name": "Playground",
-    "lat": -39.5096864,
-    "lng": 176.8927052,
-    "suburb": "Onekawa",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-1423497060",
     "name": "Playground",
     "lat": -39.6522032,
@@ -1109,22 +981,6 @@
     "lat": -39.6381059,
     "lng": 176.8617876,
     "suburb": "Mayfair",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1429417371",
-    "name": "The Dell",
-    "lat": -39.6701874,
-    "lng": 176.8798636,
-    "suburb": "Havelock North",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1443976307",
-    "name": "Playground",
-    "lat": -39.5074745,
-    "lng": 176.8606374,
-    "suburb": "Park Island",
     "source": "osm"
   },
   {

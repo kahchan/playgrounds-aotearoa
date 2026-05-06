@@ -4,7 +4,7 @@
     "name": "Playground",
     "lat": -40.755265,
     "lng": 175.1535025,
-    "suburb": "Ōtaki",
+    "suburb": "\u014ctaki",
     "source": "osm"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Playground",
     "lat": -40.7562176,
     "lng": 175.151628,
-    "suburb": "Ōtaki",
+    "suburb": "\u014ctaki",
     "source": "osm"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Playground",
     "lat": -40.7561272,
     "lng": 175.1336275,
-    "suburb": "Ōtaki Town",
+    "suburb": "\u014ctaki Town",
     "source": "osm"
   },
   {
@@ -316,7 +316,7 @@
     "name": "Playground",
     "lat": -40.8529271,
     "lng": 175.0383462,
-    "suburb": "Ngārara",
+    "suburb": "Ng\u0101rara",
     "source": "osm"
   },
   {
@@ -332,7 +332,7 @@
     "name": "Totara Park Playground",
     "lat": -40.765385,
     "lng": 175.1468592,
-    "suburb": "Ōtaki",
+    "suburb": "\u014ctaki",
     "source": "osm"
   },
   {
@@ -420,7 +420,7 @@
     "name": "Playground",
     "lat": -40.7596688,
     "lng": 175.134612,
-    "suburb": "Ōtaki Town",
+    "suburb": "\u014ctaki Town",
     "source": "osm"
   },
   {
@@ -436,7 +436,7 @@
     "name": "Playground",
     "lat": -40.7410194,
     "lng": 175.1178101,
-    "suburb": "Ōtaki Beach",
+    "suburb": "\u014ctaki Beach",
     "source": "osm"
   },
   {
@@ -444,7 +444,7 @@
     "name": "Playground",
     "lat": -40.7409251,
     "lng": 175.1176372,
-    "suburb": "Ōtaki Beach",
+    "suburb": "\u014ctaki Beach",
     "source": "osm"
   },
   {
@@ -485,30 +485,6 @@
     "lat": -40.879696,
     "lng": 175.0056224,
     "suburb": "Waikanae Beach",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1317112243",
-    "name": "Playground",
-    "lat": -40.8737827,
-    "lng": 175.0540795,
-    "suburb": "Waikanae",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1317112244",
-    "name": "Playground",
-    "lat": -40.8733038,
-    "lng": 175.0554437,
-    "suburb": "Waikanae",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-1317112245",
-    "name": "Playground",
-    "lat": -40.8736822,
-    "lng": 175.0554579,
-    "suburb": "Waikanae",
     "source": "osm"
   },
   {
