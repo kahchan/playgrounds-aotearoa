@@ -168,12 +168,6 @@
     "lng": 173.3412419
   },
   {
-    "id": "osm-w741592952",
-    "name": "Todd Bush Road Playground",
-    "lat": -41.2171148,
-    "lng": 173.3413299
-  },
-  {
     "id": "osm-w949777058",
     "name": "Fountain Place Playground",
     "lat": -41.2672211,
@@ -280,12 +274,6 @@
     "name": "Rawhiti Street Playground",
     "lat": -41.2860618,
     "lng": 173.2462979
-  },
-  {
-    "id": "osm-w1098999795",
-    "name": "Rawhiti Street Playground",
-    "lat": -41.2859375,
-    "lng": 173.2461308
   },
   {
     "id": "osm-w1098999799",
@@ -402,10 +390,10 @@
     "lng": 173.2908121
   },
   {
-    "id": "osm-w1144587197",
-    "name": "Maitai Walkway Playground",
-    "lat": -41.2735571,
-    "lng": 173.3117832
+    "id": "osm-w1196813823",
+    "name": "Maitai Valley Road Playground",
+    "lat": -41.2734308,
+    "lng": 173.3118298
   },
   {
     "id": "osm-w1183051209",
@@ -424,12 +412,6 @@
     "name": "Toi Toi Street Shared Path Playground",
     "lat": -41.2796142,
     "lng": 173.2672616
-  },
-  {
-    "id": "osm-w1196813823",
-    "name": "Maitai Valley Road Playground",
-    "lat": -41.2734308,
-    "lng": 173.3118298
   },
   {
     "id": "osm-w1196813829",
@@ -528,22 +510,10 @@
     "lng": 173.2917652
   },
   {
-    "id": "osm-w1349926637",
-    "name": "Domett Street Playground",
-    "lat": -41.2733803,
-    "lng": 173.2919701
-  },
-  {
     "id": "osm-w1349926639",
     "name": "Domett Street Playground",
     "lat": -41.2735137,
     "lng": 173.2918977
-  },
-  {
-    "id": "osm-w1350210559",
-    "name": "Riverside Playground",
-    "lat": -41.2720135,
-    "lng": 173.2891484
   },
   {
     "id": "osm-w1350276631",

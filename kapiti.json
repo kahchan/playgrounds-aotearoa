@@ -160,14 +160,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-392415130",
-    "name": "Simpson Crescent Playground",
-    "lat": -40.9097904,
-    "lng": 174.9842169,
-    "suburb": "Raumati Beach",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-392423943",
     "name": "Matai Road Playground",
     "lat": -40.9237986,
@@ -232,14 +224,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-507865898",
-    "name": "Park Avenue Playground",
-    "lat": -40.8748916,
-    "lng": 175.0509177,
-    "suburb": "Ferndale",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-507865899",
     "name": "Ngarara Road Playground",
     "lat": -40.8749603,
@@ -248,34 +232,10 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-507865900",
-    "name": "Park Avenue Playground",
-    "lat": -40.8750205,
-    "lng": 175.0509656,
-    "suburb": "Ferndale",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-507865901",
     "name": "Ngarara Road Playground",
     "lat": -40.8750947,
     "lng": 175.0510231,
-    "suburb": "Ferndale",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-507865902",
-    "name": "Park Avenue Playground",
-    "lat": -40.8751029,
-    "lng": 175.0508995,
-    "suburb": "Ferndale",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-507865903",
-    "name": "Park Avenue Playground",
-    "lat": -40.8751634,
-    "lng": 175.050832,
     "suburb": "Ferndale",
     "source": "osm"
   },
@@ -400,14 +360,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-918494423",
-    "name": "Park Avenue Playground",
-    "lat": -40.8748027,
-    "lng": 175.0508014,
-    "suburb": "Ferndale",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-920255564",
     "name": "Milne Drive Playground",
     "lat": -40.9099612,
@@ -436,14 +388,6 @@
     "name": "Tasman Road Playground",
     "lat": -40.7410194,
     "lng": 175.1178101,
-    "suburb": "Ōtaki Beach",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-995767803",
-    "name": "Tasman Road Playground",
-    "lat": -40.7409251,
-    "lng": 175.1176372,
     "suburb": "Ōtaki Beach",
     "source": "osm"
   },

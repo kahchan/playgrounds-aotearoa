@@ -234,12 +234,6 @@
     "lng": 174.9828309
   },
   {
-    "id": "osm-w740632719",
-    "name": "Wagon Road Playground",
-    "lat": -41.1612135,
-    "lng": 174.9827285
-  },
-  {
     "id": "osm-w740635737",
     "name": "James Grove Playground",
     "lat": -41.1648718,
@@ -252,12 +246,6 @@
     "lng": 174.9494368
   },
   {
-    "id": "osm-w742090829",
-    "name": "Stockdale Street Playground",
-    "lat": -41.2331831,
-    "lng": 174.9466258
-  },
-  {
     "id": "osm-w743600140",
     "name": "Karaka Street Playground",
     "lat": -41.2571258,
@@ -268,12 +256,6 @@
     "name": "The Strand Playground",
     "lat": -41.2590972,
     "lng": 174.9425361
-  },
-  {
-    "id": "osm-w743755560",
-    "name": "Parkway Playground",
-    "lat": -41.251474,
-    "lng": 174.9322363
   },
   {
     "id": "osm-w745246304",
@@ -322,12 +304,6 @@
     "name": "Western Hutt Road Playground",
     "lat": -41.1913253,
     "lng": 174.9287846
-  },
-  {
-    "id": "osm-w960045383",
-    "name": "The Strand Playground",
-    "lat": -41.2591719,
-    "lng": 174.942296
   },
   {
     "id": "osm-w961254435",
@@ -390,12 +366,6 @@
     "lng": 174.8942889
   },
   {
-    "id": "osm-w1028845356",
-    "name": "Victoria Street Playground",
-    "lat": -41.2138478,
-    "lng": 174.8944385
-  },
-  {
     "id": "osm-w1028845357",
     "name": "Victoria Street Playground",
     "lat": -41.2137638,
@@ -436,12 +406,6 @@
     "name": "Hutt River Trail (west) Playground",
     "lat": -41.2247366,
     "lng": 174.8986955
-  },
-  {
-    "id": "osm-w1090342176",
-    "name": "Hutt River Trail (west) Playground",
-    "lat": -41.2248201,
-    "lng": 174.8987025
   },
   {
     "id": "osm-w1169790484",
@@ -568,11 +532,5 @@
     "name": "Cambridge Terrace Playground",
     "lat": -41.2142602,
     "lng": 174.9217553
-  },
-  {
-    "id": "osm-w1449292940",
-    "name": "Buick Street Playground",
-    "lat": -41.2243846,
-    "lng": 174.8820164
   }
 ]

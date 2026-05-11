@@ -72,10 +72,10 @@
     "lng": 170.6473859
   },
   {
-    "id": "osm-w385971189",
-    "name": "Ralph Ham Park",
-    "lat": -45.8678971,
-    "lng": 170.5978895
+    "id": "osm-w1484207842",
+    "name": "Portobello Road Playground",
+    "lat": -45.8679323,
+    "lng": 170.5980566
   },
   {
     "id": "osm-w421718411",
@@ -142,12 +142,6 @@
     "name": "St Kilda Beach - Andersons Bay Cycleway Playground",
     "lat": -45.9053854,
     "lng": 170.5149861
-  },
-  {
-    "id": "osm-w555011852",
-    "name": "St Kilda Beach - Andersons Bay Cycleway Playground",
-    "lat": -45.9053763,
-    "lng": 170.5151202
   },
   {
     "id": "osm-w555548184",
@@ -300,22 +294,10 @@
     "lng": 170.348962
   },
   {
-    "id": "osm-w1171065321",
-    "name": "Manor Place Playground",
-    "lat": -45.883027,
-    "lng": 170.497659
-  },
-  {
     "id": "osm-w1171065322",
     "name": "Manor Place Playground",
     "lat": -45.8828929,
     "lng": 170.4976731
-  },
-  {
-    "id": "osm-w1171065323",
-    "name": "Manor Place Playground",
-    "lat": -45.8829841,
-    "lng": 170.4974796
   },
   {
     "id": "osm-w1171066075",
@@ -328,12 +310,6 @@
     "name": "Highgate Playground",
     "lat": -45.8699923,
     "lng": 170.4844844
-  },
-  {
-    "id": "osm-w1171499141",
-    "name": "Highgate Playground",
-    "lat": -45.8700101,
-    "lng": 170.4843279
   },
   {
     "id": "osm-w1197486874",
@@ -382,12 +358,6 @@
     "name": "Quentin Avenue Playground",
     "lat": -45.8548553,
     "lng": 170.5114076
-  },
-  {
-    "id": "osm-w1197486882",
-    "name": "Quentin Avenue Playground",
-    "lat": -45.8547457,
-    "lng": 170.5115676
   },
   {
     "id": "osm-w1197486883",
@@ -456,28 +426,10 @@
     "lng": 170.5116842
   },
   {
-    "id": "osm-w1330301934",
-    "name": "Quentin Avenue Playground",
-    "lat": -45.8542913,
-    "lng": 170.511601
-  },
-  {
     "id": "osm-w1330301935",
     "name": "Pine Hill Shared Path Playground",
     "lat": -45.8545045,
     "lng": 170.5128832
-  },
-  {
-    "id": "osm-w1330301936",
-    "name": "Pine Hill Shared Path Playground",
-    "lat": -45.8544421,
-    "lng": 170.5126707
-  },
-  {
-    "id": "osm-w1330301937",
-    "name": "Pine Hill Shared Path Playground",
-    "lat": -45.8544519,
-    "lng": 170.5127281
   },
   {
     "id": "osm-w1344945279",
@@ -502,12 +454,6 @@
     "name": "Mount Cargill Road Playground",
     "lat": -45.7549543,
     "lng": 170.5731595
-  },
-  {
-    "id": "osm-w1484207842",
-    "name": "Portobello Road Playground",
-    "lat": -45.8679323,
-    "lng": 170.5980566
   },
   {
     "id": "osm-w1484207843",

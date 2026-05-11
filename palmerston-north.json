@@ -294,12 +294,6 @@
     "lng": 175.6199739
   },
   {
-    "id": "osm-w583905184",
-    "name": "Shakespeare Way Playground",
-    "lat": -40.3262819,
-    "lng": 175.6546742
-  },
-  {
     "id": "osm-w681290847",
     "name": "Owen Street Playground",
     "lat": -40.2820804,
@@ -316,12 +310,6 @@
     "name": "Racecourse Road Playground",
     "lat": -40.37611,
     "lng": 175.5807484
-  },
-  {
-    "id": "osm-w745521466",
-    "name": "Havelock Avenue Playground",
-    "lat": -40.3569353,
-    "lng": 175.5803437
   },
   {
     "id": "osm-w807942175",
@@ -366,18 +354,6 @@
     "lng": 175.5868683
   },
   {
-    "id": "osm-w992587076",
-    "name": "Rugby Street Playground",
-    "lat": -40.3718499,
-    "lng": 175.5867027
-  },
-  {
-    "id": "osm-w1018231314",
-    "name": "Jefferson Crescent Playground",
-    "lat": -40.3244511,
-    "lng": 175.60874
-  },
-  {
     "id": "osm-w1031038898",
     "name": "Hammond Place Playground",
     "lat": -40.3701559,
@@ -412,12 +388,6 @@
     "name": "Pacific Drive Playground",
     "lat": -40.3972425,
     "lng": 175.6574355
-  },
-  {
-    "id": "osm-w1162975360",
-    "name": "Pacific Drive Playground",
-    "lat": -40.3971636,
-    "lng": 175.657349
   },
   {
     "id": "osm-w1163371731",
@@ -480,12 +450,6 @@
     "lng": 175.7564362
   },
   {
-    "id": "osm-w1259269740",
-    "name": "Napier Road Playground",
-    "lat": -40.3023494,
-    "lng": 175.7562252
-  },
-  {
     "id": "osm-w1261370123",
     "name": "Stanford Street North Playground",
     "lat": -40.2901679,
@@ -496,12 +460,6 @@
     "name": "Stanford Street South Playground",
     "lat": -40.2907731,
     "lng": 175.7557689
-  },
-  {
-    "id": "osm-w1365829636",
-    "name": "Main Street Playground",
-    "lat": -40.34672,
-    "lng": 175.6340038
   },
   {
     "id": "osm-w1395868290",

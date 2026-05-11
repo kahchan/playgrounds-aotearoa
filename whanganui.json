@@ -60,12 +60,6 @@
     "lng": 175.02009
   },
   {
-    "id": "osm-w371040662",
-    "name": "Meuli Street Playground",
-    "lat": -39.944194,
-    "lng": 175.0202096
-  },
-  {
     "id": "osm-w371060371",
     "name": "Carlton Avenue Playground",
     "lat": -39.939105,
@@ -102,28 +96,10 @@
     "lng": 174.9021846
   },
   {
-    "id": "osm-w1008195605",
-    "name": "Tangi Street Playground",
-    "lat": -39.8861024,
-    "lng": 174.9022914
-  },
-  {
     "id": "osm-w1008195606",
     "name": "Tangi Street Playground",
     "lat": -39.8857426,
     "lng": 174.9020875
-  },
-  {
-    "id": "osm-w1008195607",
-    "name": "Tangi Street Playground",
-    "lat": -39.8856801,
-    "lng": 174.9021629
-  },
-  {
-    "id": "osm-w1008195608",
-    "name": "Tangi Street Playground",
-    "lat": -39.8858321,
-    "lng": 174.902209
   },
   {
     "id": "osm-w1008731511",
@@ -150,18 +126,6 @@
     "lng": 174.977736
   },
   {
-    "id": "osm-w1034027170",
-    "name": "Playground",
-    "lat": -39.9382772,
-    "lng": 174.9776584
-  },
-  {
-    "id": "osm-w1034027171",
-    "name": "Playground",
-    "lat": -39.9381628,
-    "lng": 174.9774325
-  },
-  {
     "id": "osm-w1034027175",
     "name": "Playground",
     "lat": -39.9380101,
@@ -174,58 +138,16 @@
     "lng": 175.0172182
   },
   {
-    "id": "osm-w1035885453",
-    "name": "Oxford Road Playground",
-    "lat": -39.9298311,
-    "lng": 175.0170759
-  },
-  {
-    "id": "osm-w1035885454",
-    "name": "Oxford Road Playground",
-    "lat": -39.9299263,
-    "lng": 175.0171065
-  },
-  {
     "id": "osm-w1035886971",
     "name": "Babbage Place Playground",
     "lat": -39.9147329,
     "lng": 175.0298499
   },
   {
-    "id": "osm-w1035886972",
-    "name": "Babbage Place Playground",
-    "lat": -39.9146764,
-    "lng": 175.0297309
-  },
-  {
-    "id": "osm-w1035886973",
-    "name": "Babbage Place Playground",
-    "lat": -39.9146297,
-    "lng": 175.0296843
-  },
-  {
     "id": "osm-w1035886974",
     "name": "Babbage Place Playground",
     "lat": -39.9145652,
     "lng": 175.0297065
-  },
-  {
-    "id": "osm-w1035886975",
-    "name": "Babbage Place Playground",
-    "lat": -39.9144943,
-    "lng": 175.0297852
-  },
-  {
-    "id": "osm-w1035886976",
-    "name": "Babbage Place Playground",
-    "lat": -39.9147035,
-    "lng": 175.0297901
-  },
-  {
-    "id": "osm-w1035886977",
-    "name": "Babbage Place Playground",
-    "lat": -39.9147119,
-    "lng": 175.0300494
   },
   {
     "id": "osm-w1040648404",
@@ -246,12 +168,6 @@
     "lng": 175.0747227
   },
   {
-    "id": "osm-w1040945313",
-    "name": "Portal Street Playground",
-    "lat": -39.9390952,
-    "lng": 175.0746199
-  },
-  {
     "id": "osm-w1195618984",
     "name": "Rogers Street Play Area",
     "lat": -39.9388011,
@@ -262,12 +178,6 @@
     "name": "Gonville Avenue Playground",
     "lat": -39.9424117,
     "lng": 175.0305387
-  },
-  {
-    "id": "osm-w1375195826",
-    "name": "Gonville Avenue Playground",
-    "lat": -39.9424952,
-    "lng": 175.030732
   },
   {
     "id": "osm-w1375195831",

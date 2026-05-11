@@ -12,22 +12,16 @@
     "lng": 176.1621522
   },
   {
-    "id": "osm-w131726871",
-    "name": "Harrisfield Drive Playground",
-    "lat": -37.7312367,
-    "lng": 176.162031
-  },
-  {
     "id": "osm-w142356046",
     "name": "Portland Street Playground",
     "lat": -37.73226,
     "lng": 176.1839163
   },
   {
-    "id": "osm-w142356051",
-    "name": "Rosella Drive Playground",
-    "lat": -37.736843,
-    "lng": 176.1859243
+    "id": "osm-w692346453",
+    "name": "Pelorus Street Playground",
+    "lat": -37.7367036,
+    "lng": 176.1858544
   },
   {
     "id": "osm-w142588843",
@@ -162,10 +156,10 @@
     "lng": 176.1535937
   },
   {
-    "id": "osm-w375743159",
-    "name": "Seventeenth Avenue Play Area",
-    "lat": -37.7071666,
-    "lng": 176.1516568
+    "id": "osm-w702352483",
+    "name": "Seventeenth Avenue Playground",
+    "lat": -37.7070978,
+    "lng": 176.1517613
   },
   {
     "id": "osm-w375871088",
@@ -226,12 +220,6 @@
     "name": "Tilby Drive Playground",
     "lat": -37.6617129,
     "lng": 176.1243717
-  },
-  {
-    "id": "osm-w550744930",
-    "name": "Tilby Drive Playground",
-    "lat": -37.6616341,
-    "lng": 176.1241758
   },
   {
     "id": "osm-w550744931",
@@ -354,12 +342,6 @@
     "lng": 176.1950359
   },
   {
-    "id": "osm-w625927139",
-    "name": "Hungahungatoroa Road Playground",
-    "lat": -37.6967359,
-    "lng": 176.1951699
-  },
-  {
     "id": "osm-w645772328",
     "name": "Rutherford Street Playground",
     "lat": -37.6742834,
@@ -394,12 +376,6 @@
     "name": "The Boulevard Playground",
     "lat": -37.7193679,
     "lng": 176.328068
-  },
-  {
-    "id": "osm-w687709302",
-    "name": "Montia Close Playground",
-    "lat": -37.7192371,
-    "lng": 176.3281998
   },
   {
     "id": "osm-w687709316",
@@ -444,12 +420,6 @@
     "lng": 176.1049391
   },
   {
-    "id": "osm-w687896212",
-    "name": "Caslani Lane Playground",
-    "lat": -37.7508309,
-    "lng": 176.1048364
-  },
-  {
     "id": "osm-w687896247",
     "name": "Penetaka Heights Playground",
     "lat": -37.7613675,
@@ -478,12 +448,6 @@
     "name": "Holmburn Street Playground",
     "lat": -37.7332871,
     "lng": 176.1827171
-  },
-  {
-    "id": "osm-w692346453",
-    "name": "Pelorus Street Playground",
-    "lat": -37.7367036,
-    "lng": 176.1858544
   },
   {
     "id": "osm-w695919633",
@@ -558,12 +522,6 @@
     "lng": 176.2777817
   },
   {
-    "id": "osm-w701027487",
-    "name": "Bucklands Crescent Playground",
-    "lat": -37.7049037,
-    "lng": 176.2777916
-  },
-  {
     "id": "osm-w701027488",
     "name": "Bucklands Crescent Playground",
     "lat": -37.7049597,
@@ -604,12 +562,6 @@
     "name": "Russley Drive Playground",
     "lat": -37.6808719,
     "lng": 176.2188826
-  },
-  {
-    "id": "osm-w702352483",
-    "name": "Seventeenth Avenue Playground",
-    "lat": -37.7070978,
-    "lng": 176.1517613
   },
   {
     "id": "osm-w702372302",
@@ -856,12 +808,6 @@
     "name": "Te Okuroa Shared Path Playground",
     "lat": -37.7209122,
     "lng": 176.3192517
-  },
-  {
-    "id": "osm-w1327446999",
-    "name": "Te Okuroa Shared Path Playground",
-    "lat": -37.7210041,
-    "lng": 176.3192337
   },
   {
     "id": "osm-w1328921154",

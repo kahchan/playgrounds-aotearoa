@@ -90,12 +90,6 @@
     "lng": 178.0517993
   },
   {
-    "id": "osm-w483572243",
-    "name": "Martin Road Playground",
-    "lat": -38.6687168,
-    "lng": 178.0516654
-  },
-  {
     "id": "osm-w643626918",
     "name": "Waikirikiri Reserve Playground",
     "lat": -38.6708536,
@@ -106,12 +100,6 @@
     "name": "Tyndall Road Playground",
     "lat": -38.668617,
     "lng": 178.0531818
-  },
-  {
-    "id": "osm-w643626920",
-    "name": "Tyndall Road Playground",
-    "lat": -38.6687342,
-    "lng": 178.0530793
   },
   {
     "id": "osm-w643626921",
@@ -148,12 +136,6 @@
     "name": "Russell Street Playground",
     "lat": -38.6555263,
     "lng": 178.032958
-  },
-  {
-    "id": "osm-w761585285",
-    "name": "Russell Street Playground",
-    "lat": -38.6555503,
-    "lng": 178.0330727
   },
   {
     "id": "osm-w761585286",
@@ -202,12 +184,6 @@
     "name": "Rutene Road Playground",
     "lat": -38.6768452,
     "lng": 178.0486807
-  },
-  {
-    "id": "osm-w762132858",
-    "name": "Rutene Road Playground",
-    "lat": -38.676822,
-    "lng": 178.0485199
   },
   {
     "id": "osm-w798148383",
@@ -304,12 +280,6 @@
     "name": "Awapuni Road Playground",
     "lat": -38.6699799,
     "lng": 178.0014763
-  },
-  {
-    "id": "osm-w1330784697",
-    "name": "Awapuni Road Playground",
-    "lat": -38.6698574,
-    "lng": 178.0015539
   },
   {
     "id": "osm-w1330784700",

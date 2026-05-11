@@ -66,12 +66,6 @@
     "lng": 174.8652048
   },
   {
-    "id": "osm-w395231019",
-    "name": "Aotea Drive Playground",
-    "lat": -41.1274198,
-    "lng": 174.8652662
-  },
-  {
     "id": "osm-w396190953",
     "name": "South Beach Access Road Playground",
     "lat": -41.109066,
@@ -192,18 +186,6 @@
     "lng": 174.858606
   },
   {
-    "id": "osm-w910800890",
-    "name": "Papakowhai Road Playground",
-    "lat": -41.1185985,
-    "lng": 174.8585202
-  },
-  {
-    "id": "osm-w910800891",
-    "name": "Papakowhai Road Playground",
-    "lat": -41.1186736,
-    "lng": 174.8585408
-  },
-  {
     "id": "osm-w910800892",
     "name": "Aotea Lagoon Splash Pad",
     "lat": -41.119696,
@@ -228,22 +210,10 @@
     "lng": 174.8406274
   },
   {
-    "id": "osm-w928791558",
-    "name": "Hartham Place North Playground",
-    "lat": -41.1360524,
-    "lng": 174.8405252
-  },
-  {
     "id": "osm-w928791559",
     "name": "Hartham Place North Playground",
     "lat": -41.1359794,
     "lng": 174.8403924
-  },
-  {
-    "id": "osm-w928791560",
-    "name": "Hartham Place North Playground",
-    "lat": -41.1358463,
-    "lng": 174.8403914
   },
   {
     "id": "osm-w947067630",
@@ -286,12 +256,6 @@
     "name": "Jillett Street Playground",
     "lat": -41.1047777,
     "lng": 174.8390926
-  },
-  {
-    "id": "osm-w1000919701",
-    "name": "Jillett Street Playground",
-    "lat": -41.1049469,
-    "lng": 174.8391125
   },
   {
     "id": "osm-w1004227869",
@@ -390,12 +354,6 @@
     "lng": 174.8694094
   },
   {
-    "id": "osm-w1159116524",
-    "name": "James Street Playground",
-    "lat": -41.0841259,
-    "lng": 174.8694148
-  },
-  {
     "id": "osm-w1160603359",
     "name": "Acheron Road Playground",
     "lat": -41.0927813,
@@ -406,12 +364,6 @@
     "name": "Bodmin Park",
     "lat": -41.0884116,
     "lng": 174.87558
-  },
-  {
-    "id": "osm-w1165585421",
-    "name": "Fiordland Place Playground",
-    "lat": -41.1217125,
-    "lng": 174.8690048
   },
   {
     "id": "osm-w1165585422",
@@ -430,12 +382,6 @@
     "name": "Tuna Terrace Playground",
     "lat": -41.1111652,
     "lng": 174.8272538
-  },
-  {
-    "id": "osm-w1169779104",
-    "name": "Tuna Terrace Playground",
-    "lat": -41.1112071,
-    "lng": 174.8270764
   },
   {
     "id": "osm-w1196402876",
@@ -502,12 +448,6 @@
     "name": "Bothamley Pathway Playground",
     "lat": -41.1198407,
     "lng": 174.8796274
-  },
-  {
-    "id": "osm-w1319551273",
-    "name": "Paremata Creche",
-    "lat": -41.1177692,
-    "lng": 174.8932307
   },
   {
     "id": "osm-w1324061329",
@@ -600,12 +540,6 @@
     "lng": 174.8596309
   },
   {
-    "id": "osm-w1470791270",
-    "name": "Sievers Grove Playground",
-    "lat": -41.1413036,
-    "lng": 174.85982
-  },
-  {
     "id": "osm-w1471893004",
     "name": "Suffolk Place Playground",
     "lat": -41.1446473,
@@ -620,12 +554,6 @@
   {
     "id": "osm-r5524584",
     "name": "Scooter track Playground",
-    "lat": -41.0717468,
-    "lng": 174.8591445
-  },
-  {
-    "id": "osm-r5524585",
-    "name": "Karehana Park Playground",
     "lat": -41.0717468,
     "lng": 174.8591445
   },

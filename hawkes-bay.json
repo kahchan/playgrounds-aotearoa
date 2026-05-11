@@ -248,14 +248,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-342653423",
-    "name": "Allen Berry Avenue Playground",
-    "lat": -39.5189464,
-    "lng": 176.8834836,
-    "suburb": "Pirimai",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-343337108",
     "name": "Osier Road Playground",
     "lat": -39.5274594,
@@ -392,38 +384,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-383532866",
-    "name": "Dartmoor Road Playground",
-    "lat": -39.5088427,
-    "lng": 176.783206,
-    "suburb": "Poraiti",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-383532867",
-    "name": "Dartmoor Road Playground",
-    "lat": -39.5087152,
-    "lng": 176.7834777,
-    "suburb": "Poraiti",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-383532868",
-    "name": "Dartmoor Road Playground",
-    "lat": -39.5086432,
-    "lng": 176.7831888,
-    "suburb": "Poraiti",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-383532869",
-    "name": "Dartmoor Road Playground",
-    "lat": -39.508635,
-    "lng": 176.7833371,
-    "suburb": "Poraiti",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-383543656",
     "name": "Scott Drive Playground",
     "lat": -39.6218571,
@@ -456,26 +416,10 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-383545198",
-    "name": "Montrose Street Playground",
-    "lat": -39.6330304,
-    "lng": 176.7924625,
-    "suburb": "Flaxmere East",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-383545199",
     "name": "Sunderland Drive Playground",
     "lat": -39.6323654,
     "lng": 176.7887189,
-    "suburb": "Flaxmere East",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-383545201",
-    "name": "Sunderland Drive Playground",
-    "lat": -39.6323125,
-    "lng": 176.7886016,
     "suburb": "Flaxmere East",
     "source": "osm"
   },
@@ -492,14 +436,6 @@
     "name": "Sunderland Drive Playground",
     "lat": -39.6321662,
     "lng": 176.7885508,
-    "suburb": "Flaxmere East",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-383545206",
-    "name": "Montrose Street Playground",
-    "lat": -39.6330011,
-    "lng": 176.7925738,
     "suburb": "Flaxmere East",
     "source": "osm"
   },
@@ -556,14 +492,6 @@
     "name": "Chatham Road Playground",
     "lat": -39.6166566,
     "lng": 176.7907137,
-    "suburb": "Woolwich",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-406695216",
-    "name": "Chatham Road Playground",
-    "lat": -39.6166736,
-    "lng": 176.7905695,
     "suburb": "Woolwich",
     "source": "osm"
   },
@@ -640,14 +568,6 @@
     "source": "osm"
   },
   {
-    "id": "osm-way-553124117",
-    "name": "Lever Street Playground",
-    "lat": -39.4856008,
-    "lng": 176.8980804,
-    "suburb": "Ahuriri",
-    "source": "osm"
-  },
-  {
     "id": "osm-way-667819773",
     "name": "Meissner Road Playground",
     "lat": -39.6627053,
@@ -660,14 +580,6 @@
     "name": "Avenue Road West Playground",
     "lat": -39.6383972,
     "lng": 176.8433811,
-    "suburb": "Saint Leonards",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-668121266",
-    "name": "Avenue Road West Playground",
-    "lat": -39.638413,
-    "lng": 176.84352,
     "suburb": "Saint Leonards",
     "source": "osm"
   },
@@ -733,14 +645,6 @@
     "lat": -39.6433543,
     "lng": 176.8630677,
     "suburb": "Mayfair",
-    "source": "osm"
-  },
-  {
-    "id": "osm-way-785748806",
-    "name": "Oldham Avenue Playground",
-    "lat": -39.5130829,
-    "lng": 176.8931162,
-    "suburb": "Onekawa",
     "source": "osm"
   },
   {

@@ -66,12 +66,6 @@
     "lng": 175.2767301
   },
   {
-    "id": "osm-w354053361",
-    "name": "Bankwood Road Playground",
-    "lat": -37.7585322,
-    "lng": 175.2767517
-  },
-  {
     "id": "osm-w354272068",
     "name": "Tennyson Road Playground",
     "lat": -37.7674552,
@@ -156,22 +150,10 @@
     "lng": 175.2334345
   },
   {
-    "id": "osm-w631745198",
-    "name": "Dominion Road Playground",
-    "lat": -37.7768393,
-    "lng": 175.2336289
-  },
-  {
     "id": "osm-w631745199",
     "name": "Dominion Road Playground",
     "lat": -37.7770077,
     "lng": 175.2337073
-  },
-  {
-    "id": "osm-w637061508",
-    "name": "Boundary Road Playground",
-    "lat": -37.7760562,
-    "lng": 175.2885127
   },
   {
     "id": "osm-w641386751",
@@ -210,18 +192,6 @@
     "lng": 175.2802272
   },
   {
-    "id": "osm-w641436992",
-    "name": "Azure Place Playground",
-    "lat": -37.7418855,
-    "lng": 175.2803512
-  },
-  {
-    "id": "osm-w641718497",
-    "name": "Winchester Place Playground",
-    "lat": -37.7259142,
-    "lng": 175.2609622
-  },
-  {
     "id": "osm-w641718498",
     "name": "Farringdon Avenue Playground",
     "lat": -37.7259932,
@@ -250,12 +220,6 @@
     "name": "Discovery Drive Playground",
     "lat": -37.7290187,
     "lng": 175.2530696
-  },
-  {
-    "id": "osm-w642018799",
-    "name": "Discovery Drive Playground",
-    "lat": -37.7290777,
-    "lng": 175.2529363
   },
   {
     "id": "osm-w642018802",
@@ -306,12 +270,6 @@
     "lng": 175.2506311
   },
   {
-    "id": "osm-w642334673",
-    "name": "Waiwherowhero Drive Playground",
-    "lat": -37.7517163,
-    "lng": 175.2505185
-  },
-  {
     "id": "osm-w642334677",
     "name": "Heath Street Playground",
     "lat": -37.7584276,
@@ -330,34 +288,10 @@
     "lng": 175.2360944
   },
   {
-    "id": "osm-w642334693",
-    "name": "Oakfield Crescent Playground",
-    "lat": -37.7421176,
-    "lng": 175.2362466
-  },
-  {
-    "id": "osm-w642334694",
-    "name": "Oakfield Crescent Playground",
-    "lat": -37.7422011,
-    "lng": 175.236199
-  },
-  {
-    "id": "osm-w642334695",
-    "name": "Oakfield Crescent Playground",
-    "lat": -37.7421968,
-    "lng": 175.2360066
-  },
-  {
     "id": "osm-w642334696",
     "name": "Oakfield Crescent Playground",
     "lat": -37.7420286,
     "lng": 175.2360891
-  },
-  {
-    "id": "osm-w642334697",
-    "name": "Oakfield Crescent Playground",
-    "lat": -37.7420763,
-    "lng": 175.2359895
   },
   {
     "id": "osm-w642334698",
@@ -378,18 +312,6 @@
     "lng": 175.2351298
   },
   {
-    "id": "osm-w642334729",
-    "name": "Ashurst Avenue Playground",
-    "lat": -37.7418679,
-    "lng": 175.236151
-  },
-  {
-    "id": "osm-w642334731",
-    "name": "Oakfield Crescent Playground",
-    "lat": -37.7421379,
-    "lng": 175.2361135
-  },
-  {
     "id": "osm-w642357208",
     "name": "Hinton Avenue Playground",
     "lat": -37.7707147,
@@ -400,12 +322,6 @@
     "name": "Hinton Avenue Playground",
     "lat": -37.7705426,
     "lng": 175.257633
-  },
-  {
-    "id": "osm-w642357211",
-    "name": "Hinton Avenue Playground",
-    "lat": -37.7706434,
-    "lng": 175.2574513
   },
   {
     "id": "osm-w642357240",
@@ -516,12 +432,6 @@
     "lng": 175.2446298
   },
   {
-    "id": "osm-w645526157",
-    "name": "Aberdeen Drive Playground",
-    "lat": -37.7886278,
-    "lng": 175.2446058
-  },
-  {
     "id": "osm-w645526158",
     "name": "Courtney Avenue Playground",
     "lat": -37.7882042,
@@ -546,12 +456,6 @@
     "lng": 175.2880555
   },
   {
-    "id": "osm-w646696606",
-    "name": "Pine Avenue Playground",
-    "lat": -37.8115846,
-    "lng": 175.2901662
-  },
-  {
     "id": "osm-w649311733",
     "name": "Baffles Crescent Playground",
     "lat": -37.789269,
@@ -574,18 +478,6 @@
     "name": "Raymond Street Playground",
     "lat": -37.7615876,
     "lng": 175.3050052
-  },
-  {
-    "id": "osm-w650419184",
-    "name": "Herbert Road Playground",
-    "lat": -37.7514189,
-    "lng": 175.2709403
-  },
-  {
-    "id": "osm-w650419186",
-    "name": "Herbert Road Playground",
-    "lat": -37.7513223,
-    "lng": 175.270993
   },
   {
     "id": "osm-w650419226",
@@ -708,12 +600,6 @@
     "lng": 175.2867426
   },
   {
-    "id": "osm-w1195272759",
-    "name": "Normandy Avenue Playground",
-    "lat": -37.8074912,
-    "lng": 175.2867423
-  },
-  {
     "id": "osm-w1201197183",
     "name": "Lake Domain Drive Playground",
     "lat": -37.7998017,
@@ -742,18 +628,6 @@
     "name": "Grandview Road Playground",
     "lat": -37.7912599,
     "lng": 175.2296886
-  },
-  {
-    "id": "osm-w1279808384",
-    "name": "Grandview Road Playground",
-    "lat": -37.7912743,
-    "lng": 175.2298169
-  },
-  {
-    "id": "osm-w1279808385",
-    "name": "Grandview Road Playground",
-    "lat": -37.7914042,
-    "lng": 175.2297966
   },
   {
     "id": "osm-w1312495394",
@@ -802,12 +676,6 @@
     "name": "Rototuna Village Playground",
     "lat": -37.7205204,
     "lng": 175.2594087
-  },
-  {
-    "id": "osm-w1446652368",
-    "name": "Rototuna Village Playground",
-    "lat": -37.7204325,
-    "lng": 175.2592622
   },
   {
     "id": "osm-w1458690113",

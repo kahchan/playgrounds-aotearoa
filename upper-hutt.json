@@ -210,12 +210,6 @@
     "lng": 175.0722892
   },
   {
-    "id": "osm-w1143807349",
-    "name": "Park Street Playground",
-    "lat": -41.127002,
-    "lng": 175.0726504
-  },
-  {
     "id": "osm-w1143807350",
     "name": "Park Street Playground",
     "lat": -41.1269663,
@@ -268,11 +262,5 @@
     "name": "Playground",
     "lat": -41.1401038,
     "lng": 175.0311085
-  },
-  {
-    "id": "osm-r15461243",
-    "name": "Park Street Playground",
-    "lat": -41.1267724,
-    "lng": 175.072659
   }
 ]
