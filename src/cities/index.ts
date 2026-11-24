@@ -136,6 +136,13 @@ export const CITIES: City[] = [
     dataPath: 'nelson.json',
   },
   {
+    slug: 'kaikoura',
+    label: 'Kaikōura',
+    center: [173.6803, -42.4007],
+    zoom: 13,
+    dataPath: 'kaikoura.json',
+  },
+  {
     slug: 'christchurch',
     label: 'Christchurch',
     center: [172.6362, -43.5321],
