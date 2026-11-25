@@ -12,6 +12,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const PUBLIC = join(__dirname, '..', 'public')
 
 const OVERPASS_SERVERS = [
+  'https://overpass.openstreetmap.fr/api/interpreter',
   'https://overpass-api.de/api/interpreter',
   'https://overpass.kumi.systems/api/interpreter',
   'https://overpass.openstreetmap.ru/api/interpreter',
@@ -41,9 +42,12 @@ async function sleep(ms) { return new Promise(r => setTimeout(r, ms)) }
 async function overpass(query) {
   for (const server of OVERPASS_SERVERS) {
     try {
-      const url = new URL(server)
-      url.searchParams.set('data', query.trim())
-      const res = await fetch(url.toString(), { headers: HEADERS, signal: AbortSignal.timeout(30000) })
+      const res = await fetch(server, {
+        method: 'POST',
+        headers: { ...HEADERS, 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: 'data=' + encodeURIComponent(query.trim()),
+        signal: AbortSignal.timeout(120000),
+      })
       if (!res.ok) throw new Error(`HTTP ${res.status} from ${server}`)
       return res.json()
     } catch (e) {

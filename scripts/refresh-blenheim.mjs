@@ -11,6 +11,7 @@ const OUTPUT_PATH = join(__dirname, '..', 'public', 'blenheim.json')
 const BBOX = '-41.57,173.88,-41.44,174.00'
 
 const SERVERS = [
+  'https://overpass.openstreetmap.fr/api/interpreter',
   'https://overpass-api.de/api/interpreter',
   'https://overpass.kumi.systems/api/interpreter',
   'https://overpass.openstreetmap.ru/api/interpreter',
@@ -21,9 +22,12 @@ const HEADERS = { 'User-Agent': 'playgrounds-aotearoa/1.0 (https://github.com/ka
 async function overpassQuery(query) {
   for (const server of SERVERS) {
     try {
-      const url = new URL(server)
-      url.searchParams.set('data', query.trim())
-      const res = await fetch(url.toString(), { headers: HEADERS, signal: AbortSignal.timeout(30000) })
+      const res = await fetch(server, {
+        method: 'POST',
+        headers: { ...HEADERS, 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: 'data=' + encodeURIComponent(query.trim()),
+        signal: AbortSignal.timeout(120000),
+      })
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       return res.json()
     } catch (e) {
@@ -47,8 +51,7 @@ function nearestLocality(lat, lng, localities) {
 
 async function main() {
   console.log('Fetching Blenheim playgrounds from OpenStreetMap…')
-  const [pgData, locData] = await Promise.all([
-    overpassQuery(`
+  const pgData = await overpassQuery(`
       [out:json][timeout:30];
       (
         node["leisure"="playground"](${BBOX});
@@ -56,13 +59,13 @@ async function main() {
         relation["leisure"="playground"](${BBOX});
       );
       out center;
-    `),
-    overpassQuery(`
+    `)
+  await new Promise(r => setTimeout(r, 2000))
+  const locData = await overpassQuery(`
       [out:json][timeout:30];
       node["place"~"suburb|locality|village|town|neighbourhood|hamlet"](${BBOX});
       out body;
-    `),
-  ])
+    `)
 
   const localities = locData.elements
     .filter(e => e.tags?.name)
