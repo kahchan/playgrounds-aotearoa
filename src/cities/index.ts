@@ -136,6 +136,13 @@ export const CITIES: City[] = [
     dataPath: 'nelson.json',
   },
   {
+    slug: 'blenheim',
+    label: 'Blenheim',
+    center: [173.9596, -41.5134],
+    zoom: 13,
+    dataPath: 'blenheim.json',
+  },
+  {
     slug: 'kaikoura',
     label: 'Kaikōura',
     center: [173.6803, -42.4007],
@@ -148,6 +155,20 @@ export const CITIES: City[] = [
     center: [172.6362, -43.5321],
     zoom: 12,
     dataPath: 'christchurch.json',
+  },
+  {
+    slug: 'timaru',
+    label: 'Timaru',
+    center: [171.2550, -44.3966],
+    zoom: 13,
+    dataPath: 'timaru.json',
+  },
+  {
+    slug: 'queenstown',
+    label: 'Queenstown',
+    center: [168.6626, -45.0312],
+    zoom: 13,
+    dataPath: 'queenstown.json',
   },
   {
     slug: 'dunedin',
